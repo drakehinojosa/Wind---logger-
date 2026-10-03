@@ -1,0 +1,29 @@
+name: protocol-v1.1-prospective
+on:
+  schedule:
+    - cron: "*/5 * * * *"      # logger every 5 minutes (15-min capture windows)
+    - cron: "17 14 * * *"      # grader + looks daily
+  workflow_dispatch: {}
+concurrency: { group: logger, cancel-in-progress: false }
+permissions: { contents: write }
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 4
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: pip install requests pandas numpy pygrib
+      - name: logger
+        env: { ODDS_API_KEY: "${{ secrets.ODDS_API_KEY }}" }
+        run: python logger.py
+      - name: grader and looks (daily run only)
+        if: github.event.schedule == '17 14 * * *'
+        run: python grader.py && python looks.py
+      - name: commit (append-only record; git history is the audit trail)
+        run: |
+          git config user.name "protocol-logger"; git config user.email "logger@users.noreply.github.com"
+          git add -A log state looks
+          git diff --cached --quiet || git commit -m "log $(date -u +%FT%TZ)"
+          git push

@@ -1,0 +1,1952 @@
+{
+ "3886": {
+  "name": "Raymond James Stadium",
+  "city": "Tampa",
+  "state": "FL",
+  "country": "USA",
+  "lat": 27.9759793,
+  "lon": -82.5033545,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "5348": {
+  "name": "Mercedes-Benz Stadium",
+  "city": "Atlanta",
+  "state": "GA",
+  "country": "USA",
+  "lat": 33.7554123,
+  "lon": -84.4008493,
+  "geo_method": "stadium geocode",
+  "status": "EXCL covered (dome or retractable roof)"
+ },
+ "3883": {
+  "name": "Highmark Stadium (Old)",
+  "city": "Orchard Park",
+  "state": "NY",
+  "country": "USA",
+  "lat": 42.7730293,
+  "lon": -78.7921925,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3628": {
+  "name": "Bank of America Stadium",
+  "city": "Charlotte",
+  "state": "NC",
+  "country": "USA",
+  "lat": 35.225774,
+  "lon": -80.8528276,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3874": {
+  "name": "Paycor Stadium",
+  "city": "Cincinnati",
+  "state": "OH",
+  "country": "USA",
+  "lat": 39.0954645,
+  "lon": -84.5160488,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3727": {
+  "name": "Ford Field",
+  "city": "Detroit",
+  "state": "MI",
+  "country": "USA",
+  "lat": 42.3399568,
+  "lon": -83.0456166,
+  "geo_method": "stadium geocode",
+  "status": "EXCL covered (dome or retractable roof)"
+ },
+ "3891": {
+  "name": "Reliant Stadium",
+  "city": "Houston",
+  "state": "TX",
+  "country": "USA",
+  "lat": 29.6848581,
+  "lon": -95.4108015,
+  "geo_method": "stadium geocode",
+  "status": "EXCL covered (dome or retractable roof)"
+ },
+ "3812": {
+  "name": "Lucas Oil Stadium",
+  "city": "Indianapolis",
+  "state": "IN",
+  "country": "USA",
+  "lat": 39.7590621,
+  "lon": -86.1638376,
+  "geo_method": "stadium geocode",
+  "status": "EXCL covered (dome or retractable roof)"
+ },
+ "3810": {
+  "name": "Nissan Stadium",
+  "city": "Nashville",
+  "state": "TN",
+  "country": "USA",
+  "lat": 36.1665236,
+  "lon": -86.7713148,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3719": {
+  "name": "Northwest Stadium",
+  "city": "Landover",
+  "state": "MD",
+  "country": "USA",
+  "lat": 38.9076694,
+  "lon": -76.864533,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3622": {
+  "name": "Arrowhead Stadium",
+  "city": "Kansas City",
+  "state": "MO",
+  "country": "USA",
+  "lat": 39.0489358,
+  "lon": -94.4839993,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3738": {
+  "name": "Gillette Stadium",
+  "city": "Foxborough",
+  "state": "MA",
+  "country": "USA",
+  "lat": 42.0908879,
+  "lon": -71.2641731,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3712": {
+  "name": "EverBank Stadium",
+  "city": "Jacksonville",
+  "state": "FL",
+  "country": "USA",
+  "lat": 30.3239811,
+  "lon": -81.6373046,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3839": {
+  "name": "MetLife Stadium",
+  "city": "East Rutherford",
+  "state": "NJ",
+  "country": "USA",
+  "lat": 40.8135071,
+  "lon": -74.0743442,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "7065": {
+  "name": "SoFi Stadium",
+  "city": "Inglewood",
+  "state": "CA",
+  "country": "USA",
+  "lat": 33.9534074,
+  "lon": -118.3390098,
+  "geo_method": "stadium geocode",
+  "status": "EXCL covered (dome or retractable roof)"
+ },
+ "6501": {
+  "name": "Allegiant Stadium",
+  "city": "Las Vegas",
+  "state": "NV",
+  "country": "USA",
+  "lat": 36.0907359,
+  "lon": -115.1833303,
+  "geo_method": "stadium geocode",
+  "status": "EXCL covered (dome or retractable roof)"
+ },
+ "3933": {
+  "name": "Soldier Field",
+  "city": "Chicago",
+  "state": "IL",
+  "country": "USA",
+  "lat": 41.8623356,
+  "lon": -87.6176477,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3679": {
+  "name": "Huntington Bank Field",
+  "city": "Cleveland",
+  "state": "OH",
+  "country": "USA",
+  "lat": 41.5060559,
+  "lon": -81.6997118,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3948": {
+  "name": "Hard Rock Stadium",
+  "city": "Miami Gardens",
+  "state": "FL",
+  "country": "USA",
+  "lat": 25.9579032,
+  "lon": -80.2388497,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3806": {
+  "name": "Lincoln Financial Field",
+  "city": "Philadelphia",
+  "state": "PA",
+  "country": "USA",
+  "lat": 39.9009099,
+  "lon": -75.1674892,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3752": {
+  "name": "Acrisure Stadium",
+  "city": "Pittsburgh",
+  "state": "PA",
+  "country": "USA",
+  "lat": 40.4467166,
+  "lon": -80.0157199,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3970": {
+  "name": "State Farm Stadium",
+  "city": "Glendale",
+  "state": "AZ",
+  "country": "USA",
+  "lat": 33.5270393,
+  "lon": -112.2617088,
+  "geo_method": "stadium geocode",
+  "status": "EXCL covered (dome or retractable roof)"
+ },
+ "3673": {
+  "name": "Lumen Field",
+  "city": "Seattle",
+  "state": "WA",
+  "country": "USA",
+  "lat": 47.5953459,
+  "lon": -122.3316443,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3814": {
+  "name": "M&T Bank Stadium",
+  "city": "Baltimore",
+  "state": "MD",
+  "country": "USA",
+  "lat": 39.2779734,
+  "lon": -76.6226651,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3798": {
+  "name": "Lambeau Field",
+  "city": "Green Bay",
+  "state": "WI",
+  "country": "USA",
+  "lat": 44.5009705,
+  "lon": -88.0619681,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3937": {
+  "name": "Empower Field at Mile High",
+  "city": "Denver",
+  "state": "CO",
+  "country": "USA",
+  "lat": 39.743952,
+  "lon": -105.0192228,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "5239": {
+  "name": "U.S. Bank Stadium",
+  "city": "Minneapolis",
+  "state": "MN",
+  "country": "USA",
+  "lat": 44.9751097,
+  "lon": -93.2593387,
+  "geo_method": "stadium geocode",
+  "status": "EXCL covered (dome or retractable roof)"
+ },
+ "4738": {
+  "name": "Levi's Stadium",
+  "city": "Santa Clara",
+  "state": "CA",
+  "country": "USA",
+  "lat": 37.4029867,
+  "lon": -121.9696489,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3687": {
+  "name": "AT&T Stadium",
+  "city": "Arlington",
+  "state": "TX",
+  "country": "USA",
+  "lat": 32.7478503,
+  "lon": -97.0928337,
+  "geo_method": "stadium geocode",
+  "status": "EXCL covered (dome or retractable roof)"
+ },
+ "3493": {
+  "name": "Caesars Superdome",
+  "city": "New Orleans",
+  "state": "LA",
+  "country": "USA",
+  "lat": 29.9510489,
+  "lon": -90.0823076,
+  "geo_method": "stadium geocode",
+  "status": "EXCL covered (dome or retractable roof)"
+ },
+ "5534": {
+  "name": "Tottenham Hotspur Stadium",
+  "city": "London",
+  "state": null,
+  "country": "England",
+  "lat": 51.604157,
+  "lon": -0.0662604,
+  "geo_method": "stadium geocode",
+  "status": "EXCL outside HRRR domain (non-US venue)"
+ },
+ "2455": {
+  "name": "Wembley Stadium",
+  "city": "London",
+  "state": null,
+  "country": "England",
+  "lat": 51.5560695,
+  "lon": -0.2796034,
+  "geo_method": "stadium geocode",
+  "status": "EXCL outside HRRR domain (non-US venue)"
+ },
+ "1775": {
+  "name": "Allianz Arena",
+  "city": "Munich",
+  "state": null,
+  "country": "Germany",
+  "lat": 48.2187901,
+  "lon": 11.6236227,
+  "geo_method": "stadium geocode",
+  "status": "EXCL outside HRRR domain (non-US venue)"
+ },
+ "1850": {
+  "name": "Estadio Azteca",
+  "city": "Mexico City",
+  "state": null,
+  "country": "Mexico",
+  "lat": 19.3029794,
+  "lon": -99.15047,
+  "geo_method": "stadium geocode",
+  "status": "EXCL outside HRRR domain (non-US venue)"
+ },
+ "1875": {
+  "name": "Frankfurt Stadium",
+  "city": "Frankfurt",
+  "state": null,
+  "country": "Germany",
+  "lat": 50.0686103,
+  "lon": 8.6454154,
+  "geo_method": "stadium geocode",
+  "status": "EXCL outside HRRR domain (non-US venue)"
+ },
+ "8748": {
+  "name": "Corinthians Arena",
+  "city": "Sao Paulo",
+  "state": null,
+  "country": "Brazil",
+  "lat": -23.5453071,
+  "lon": -46.474338,
+  "geo_method": "stadium geocode",
+  "status": "EXCL outside HRRR domain (non-US venue)"
+ },
+ "4737": {
+  "name": "Croke Park",
+  "city": "Dublin",
+  "state": null,
+  "country": "Ireland",
+  "lat": 53.3603576,
+  "lon": -6.2509812,
+  "geo_method": "stadium geocode",
+  "status": "EXCL outside HRRR domain (non-US venue)"
+ },
+ "7696": {
+  "name": "Olympic Stadium Berlin",
+  "city": "Berlin",
+  "state": null,
+  "country": "Germany",
+  "lat": 52.5145846,
+  "lon": 13.2398144,
+  "geo_method": "stadium geocode",
+  "status": "EXCL outside HRRR domain (non-US venue)"
+ },
+ "1353": {
+  "name": "Santiago Bernab\u00e9u",
+  "city": "Madrid",
+  "state": null,
+  "country": "Spain",
+  "lat": 40.4523667,
+  "lon": -3.6907254,
+  "geo_method": "stadium geocode",
+  "status": "EXCL covered (dome or retractable roof)"
+ },
+ "3832": {
+  "name": "Gies Memorial Stadium",
+  "city": "Champaign",
+  "state": "IL",
+  "country": "USA",
+  "lat": 40.0992862,
+  "lon": -88.2359605,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3660": {
+  "name": "Valley Children's Stadium",
+  "city": "Fresno",
+  "state": "CA",
+  "country": "USA",
+  "lat": 36.8143958,
+  "lon": -119.7580383,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "1056": {
+  "name": "Rose Bowl",
+  "city": "Pasadena",
+  "state": "CA",
+  "country": "USA",
+  "lat": 34.1613492,
+  "lon": -118.1676674,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3601": {
+  "name": "Aggie Memorial Stadium",
+  "city": "Las Cruces",
+  "state": "NM",
+  "country": "USA",
+  "lat": 32.2796361,
+  "lon": -106.7411114,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3935": {
+  "name": "CEFCU Stadium",
+  "city": "San Jose",
+  "state": "CA",
+  "country": "USA",
+  "lat": 37.3196895,
+  "lon": -121.8683139,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3689": {
+  "name": "Cramton Bowl",
+  "city": "Montgomery",
+  "state": "AL",
+  "country": "USA",
+  "lat": 32.3794954,
+  "lon": -86.2931416,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3919": {
+  "name": "Scheumann Stadium",
+  "city": "Muncie",
+  "state": "IN",
+  "country": "USA",
+  "lat": 40.2160071,
+  "lon": -85.4168254,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3652": {
+  "name": "Acrisure Bounce House",
+  "city": "Orlando",
+  "state": "FL",
+  "country": "USA",
+  "lat": 28.6081452,
+  "lon": -81.1926754,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3654": {
+  "name": "Brooks Stadium (SC)",
+  "city": "Conway",
+  "state": "SC",
+  "country": "USA",
+  "lat": 33.7929212,
+  "lon": -79.0174511,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3965": {
+  "name": "Broadview Stadium",
+  "city": "Buffalo",
+  "state": "NY",
+  "country": "USA",
+  "lat": 42.9990586,
+  "lon": -78.7774413,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3670": {
+  "name": "Carter-Finley Stadium",
+  "city": "Raleigh",
+  "state": "NC",
+  "country": "USA",
+  "lat": 35.8008464,
+  "lon": -78.7196045,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "587": {
+  "name": "Rice-Eccles Stadium",
+  "city": "Salt Lake City",
+  "state": "UT",
+  "country": "USA",
+  "lat": 40.7598165,
+  "lon": -111.8489131,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3674": {
+  "name": "H. A. Chapman Stadium",
+  "city": "Tulsa",
+  "state": "OK",
+  "country": "USA",
+  "lat": 36.1486627,
+  "lon": -95.9438583,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3796": {
+  "name": "Houchens Industries-L.T. Smith Stadium",
+  "city": "Bowling Green",
+  "state": "KY",
+  "country": "USA",
+  "lat": 36.984529,
+  "lon": -86.457647,
+  "geo_method": "campus centroid (stadium geocode failed)",
+  "status": "OUTDOOR"
+ },
+ "3853": {
+  "name": "Neyland Stadium",
+  "city": "Knoxville",
+  "state": "TN",
+  "country": "USA",
+  "lat": 35.9550206,
+  "lon": -83.9241185,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3953": {
+  "name": "Huntington Bank Stadium",
+  "city": "Minneapolis",
+  "state": "MN",
+  "country": "USA",
+  "lat": 44.9765397,
+  "lon": -93.2240767,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "218": {
+  "name": "Riccardo Silva Stadium",
+  "city": "Miami",
+  "state": "FL",
+  "country": "USA",
+  "lat": 25.7524884,
+  "lon": -80.3778903,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3947": {
+  "name": "Mountain America Stadium",
+  "city": "Tempe",
+  "state": "AZ",
+  "country": "USA",
+  "lat": 33.4263095,
+  "lon": -111.932659,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3799": {
+  "name": "Lane Stadium",
+  "city": "Blacksburg",
+  "state": "VA",
+  "country": "USA",
+  "lat": 37.2198923,
+  "lon": -80.4180039,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3912": {
+  "name": "Rynearson Stadium",
+  "city": "Ypsilanti",
+  "state": "MI",
+  "country": "USA",
+  "lat": 42.2558724,
+  "lon": -83.6473747,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "4418": {
+  "name": "Jerry Richardson Stadium",
+  "city": "Charlotte",
+  "state": "NC",
+  "country": "USA",
+  "lat": 35.310474,
+  "lon": -80.7400756,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3630": {
+  "name": "Allegacy Federal Credit Union Stadium",
+  "city": "Winston-Salem",
+  "state": "NC",
+  "country": "USA",
+  "lat": 36.130554,
+  "lon": -80.2546325,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3833": {
+  "name": "David Booth Kansas Memorial Stadium",
+  "city": "Lawrence",
+  "state": "KS",
+  "country": "USA",
+  "lat": 38.9630786,
+  "lon": -95.2462865,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3726": {
+  "name": "Folsom Field",
+  "city": "Boulder",
+  "state": "CO",
+  "country": "USA",
+  "lat": 40.0093353,
+  "lon": -105.2660699,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "5388": {
+  "name": "Canvas Stadium",
+  "city": "Fort Collins",
+  "state": "CO",
+  "country": "USA",
+  "lat": 40.5698314,
+  "lon": -105.0885062,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3911": {
+  "name": "Ryan Field (1926)",
+  "city": "Evanston",
+  "state": "IL",
+  "country": "USA",
+  "lat": 42.0654043,
+  "lon": -87.6914888,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3683": {
+  "name": "Kroger Field",
+  "city": "Lexington",
+  "state": "KY",
+  "country": "USA",
+  "lat": 38.0227349,
+  "lon": -84.5051192,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "347": {
+  "name": "Camp Randall Stadium",
+  "city": "Madison",
+  "state": "WI",
+  "country": "USA",
+  "lat": 43.0700531,
+  "lon": -89.4126501,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3892": {
+  "name": "Pratt & Whitney Stadium",
+  "city": "East Hartford",
+  "state": "CT",
+  "country": "USA",
+  "lat": 41.7596263,
+  "lon": -72.618827,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "4246": {
+  "name": "Center Parc Stadium",
+  "city": "Atlanta",
+  "state": "GA",
+  "country": "USA",
+  "lat": 33.7355267,
+  "lon": -84.3886513,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3615": {
+  "name": "Alumni Stadium (Chestnut Hill, MA)",
+  "city": "Chestnut Hill",
+  "state": "MA",
+  "country": "USA",
+  "lat": 42.3354481,
+  "lon": -71.1682665,
+  "geo_method": "campus centroid (stadium geocode failed)",
+  "status": "OUTDOOR"
+ },
+ "3834": {
+  "name": "Memorial Stadium (Lincoln, NE)",
+  "city": "Lincoln",
+  "state": "NE",
+  "country": "USA",
+  "lat": 40.8207179,
+  "lon": -96.7047562,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "6577": {
+  "name": "SHI Stadium",
+  "city": "Piscataway",
+  "state": "NJ",
+  "country": "USA",
+  "lat": 40.5135037,
+  "lon": -74.4651433,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3558": {
+  "name": "Michigan Stadium",
+  "city": "Ann Arbor",
+  "state": "MI",
+  "country": "USA",
+  "lat": 42.2658285,
+  "lon": -83.7478267,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3835": {
+  "name": "Memorial Stadium (Norman, OK)",
+  "city": "Norman",
+  "state": "OK",
+  "country": "USA",
+  "lat": 35.2056786,
+  "lon": -97.4422642,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3626": {
+  "name": "Autzen Stadium",
+  "city": "Eugene",
+  "state": "OR",
+  "country": "USA",
+  "lat": 44.0582178,
+  "lon": -123.0684379,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3887": {
+  "name": "Donald W. Reynolds Razorback Stadium",
+  "city": "Fayetteville",
+  "state": "AR",
+  "country": "USA",
+  "lat": 36.0680732,
+  "lon": -94.1788512,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3713": {
+  "name": "Falcon Stadium",
+  "city": "USAF Academy",
+  "state": "CO",
+  "country": "USA",
+  "lat": 38.9970565,
+  "lon": -104.8436499,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3665": {
+  "name": "SECU Stadium",
+  "city": "College Park",
+  "state": "MD",
+  "country": "USA",
+  "lat": 38.9902987,
+  "lon": -76.9474534,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3854": {
+  "name": "Nippert Stadium",
+  "city": "Cincinnati",
+  "state": "OH",
+  "country": "USA",
+  "lat": 39.1311213,
+  "lon": -84.5162298,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3852": {
+  "name": "Navy-Marine Corps Memorial Stadium",
+  "city": "Annapolis",
+  "state": "MD",
+  "country": "USA",
+  "lat": 38.9847567,
+  "lon": -76.5070765,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3793": {
+  "name": "Kinnick Stadium",
+  "city": "Iowa City",
+  "state": "IA",
+  "country": "USA",
+  "lat": 41.6586246,
+  "lon": -91.5511915,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3838": {
+  "name": "Memorial Stadium",
+  "city": "Columbia",
+  "state": "MO",
+  "country": "USA",
+  "lat": 38.9358467,
+  "lon": -92.3332826,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3984": {
+  "name": "War Memorial Stadium",
+  "city": "Laramie",
+  "state": "WY",
+  "country": "USA",
+  "lat": 41.3116082,
+  "lon": -105.5681588,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3693": {
+  "name": "Davis Wade Stadium",
+  "city": "Starkville",
+  "state": "MS",
+  "country": "USA",
+  "lat": 33.4564527,
+  "lon": -88.7934036,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3910": {
+  "name": "DKR-Texas Memorial Stadium",
+  "city": "Austin",
+  "state": "TX",
+  "country": "USA",
+  "lat": 30.2838412,
+  "lon": -97.7326229,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3772": {
+  "name": "Jack Trice Stadium",
+  "city": "Ames",
+  "state": "IA",
+  "country": "USA",
+  "lat": 42.0140049,
+  "lon": -93.6357593,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "477": {
+  "name": "Los Angeles Memorial Coliseum",
+  "city": "Los Angeles",
+  "state": "CA",
+  "country": "USA",
+  "lat": 34.0139159,
+  "lon": -118.2877996,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3992": {
+  "name": "Williams Stadium (VA)",
+  "city": "Lynchburg",
+  "state": "VA",
+  "country": "USA",
+  "lat": 37.3543075,
+  "lon": -79.1749196,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3608": {
+  "name": "Allen E. Paulson Stadium",
+  "city": "Statesboro",
+  "state": "GA",
+  "country": "USA",
+  "lat": 32.4121444,
+  "lon": -81.7833368,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3725": {
+  "name": "Johnny \"Red\" Floyd Stadium",
+  "city": "Murfreesboro",
+  "state": "TN",
+  "country": "USA",
+  "lat": 35.8512874,
+  "lon": -86.3682714,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3646": {
+  "name": "Boone Pickens Stadium",
+  "city": "Stillwater",
+  "state": "OK",
+  "country": "USA",
+  "lat": 36.1256965,
+  "lon": -97.0676137,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3739": {
+  "name": "Glass Bowl",
+  "city": "Toledo",
+  "state": "OH",
+  "country": "USA",
+  "lat": 41.6571852,
+  "lon": -83.6135953,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3805": {
+  "name": "Simmons Bank Liberty Stadium",
+  "city": "Memphis",
+  "state": "TN",
+  "country": "USA",
+  "lat": 35.1211305,
+  "lon": -89.9774153,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3625": {
+  "name": "Centennial Bank Stadium",
+  "city": "Jonesboro",
+  "state": "AR",
+  "country": "USA",
+  "lat": 35.8488912,
+  "lon": -90.6672973,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3735": {
+  "name": "Gerald J. Ford Stadium",
+  "city": "Dallas",
+  "state": "TX",
+  "country": "USA",
+  "lat": 32.8377899,
+  "lon": -96.782791,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3975": {
+  "name": "Veterans Memorial Stadium (AL)",
+  "city": "Troy",
+  "state": "AL",
+  "country": "USA",
+  "lat": 31.7996004,
+  "lon": -85.9519633,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3994": {
+  "name": "Williams-Brice Stadium",
+  "city": "Columbia",
+  "state": "SC",
+  "country": "USA",
+  "lat": 33.9731167,
+  "lon": -81.0191564,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3785": {
+  "name": "Jordan-Hare Stadium",
+  "city": "Auburn",
+  "state": "AL",
+  "country": "USA",
+  "lat": 32.6021616,
+  "lon": -85.4891613,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3644": {
+  "name": "UFCU Stadium",
+  "city": "San Marcos",
+  "state": "TX",
+  "country": "USA",
+  "lat": 29.8910593,
+  "lon": -97.9255534,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3876": {
+  "name": "Peden Stadium",
+  "city": "Athens",
+  "state": "OH",
+  "country": "USA",
+  "lat": 39.3211131,
+  "lon": -82.1030251,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3907": {
+  "name": "Ross-Ade Stadium",
+  "city": "West Lafayette",
+  "state": "IN",
+  "country": "USA",
+  "lat": 40.434568,
+  "lon": -86.9184948,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3825": {
+  "name": "DATCU Stadium",
+  "city": "Denton",
+  "state": "TX",
+  "country": "USA",
+  "lat": 33.2039397,
+  "lon": -97.1594204,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3634": {
+  "name": "Ben Hill Griffin Stadium",
+  "city": "Gainesville",
+  "state": "FL",
+  "country": "USA",
+  "lat": 29.6500369,
+  "lon": -82.3487666,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3923": {
+  "name": "Scott Stadium",
+  "city": "Charlottesville",
+  "state": "VA",
+  "country": "USA",
+  "lat": 38.0309252,
+  "lon": -78.5136104,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "721": {
+  "name": "Bobby Dodd Stadium",
+  "city": "Atlanta",
+  "state": "GA",
+  "country": "USA",
+  "lat": 33.772476,
+  "lon": -84.3929589,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3973": {
+  "name": "FirstBank Stadium",
+  "city": "Nashville",
+  "state": "TN",
+  "country": "USA",
+  "lat": 36.1439196,
+  "lon": -86.8089205,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3765": {
+  "name": "Husky Stadium",
+  "city": "Seattle",
+  "state": "WA",
+  "country": "USA",
+  "lat": 47.6503736,
+  "lon": -122.301976,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "6526": {
+  "name": "Hancock Whitney Stadium",
+  "city": "Mobile",
+  "state": "AL",
+  "country": "USA",
+  "lat": 30.696932,
+  "lon": -88.1925624,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3616": {
+  "name": "Amon G. Carter Stadium",
+  "city": "Fort Worth",
+  "state": "TX",
+  "country": "USA",
+  "lat": 32.7097507,
+  "lon": -97.3680395,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3795": {
+  "name": "Kyle Field",
+  "city": "College Station",
+  "state": "TX",
+  "country": "USA",
+  "lat": 30.6098548,
+  "lon": -96.3403698,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3946": {
+  "name": "Sun Bowl",
+  "city": "El Paso",
+  "state": "TX",
+  "country": "USA",
+  "lat": 31.7852657,
+  "lon": -106.5062603,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "538": {
+  "name": "Dignity Health Sports Park",
+  "city": "Carson",
+  "state": "CA",
+  "country": "USA",
+  "lat": 33.8623767,
+  "lon": -118.2629113,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3831": {
+  "name": "California Memorial Stadium",
+  "city": "Berkeley",
+  "state": "CA",
+  "country": "USA",
+  "lat": 37.8709949,
+  "lon": -122.2507361,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3820": {
+  "name": "Martin Stadium",
+  "city": "Pullman",
+  "state": "WA",
+  "country": "USA",
+  "lat": 46.7318035,
+  "lon": -117.1603731,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "7220": {
+  "name": "Clarence T.C. Ching Athletics Complex",
+  "city": "Honolulu",
+  "state": "HI",
+  "country": "USA",
+  "lat": 21.2942909,
+  "lon": -157.8171209,
+  "geo_method": "stadium geocode",
+  "status": "EXCL Hawai'i (outside HRRR)"
+ },
+ "3697": {
+  "name": "Doak Campbell Stadium",
+  "city": "Tallahassee",
+  "state": "FL",
+  "country": "USA",
+  "lat": 30.438151,
+  "lon": -84.3043924,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3982": {
+  "name": "Wallace Wade Stadium",
+  "city": "Durham",
+  "state": "NC",
+  "country": "USA",
+  "lat": 35.9954458,
+  "lon": -78.9418892,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3653": {
+  "name": "Albertsons Stadium",
+  "city": "Boise",
+  "state": "ID",
+  "country": "USA",
+  "lat": 43.6027251,
+  "lon": -116.1967837,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3905": {
+  "name": "Maverik Stadium",
+  "city": "Logan",
+  "state": "UT",
+  "country": "USA",
+  "lat": 41.7519374,
+  "lon": -111.8116703,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3841": {
+  "name": "Michie Stadium",
+  "city": "West Point",
+  "state": "NY",
+  "country": "USA",
+  "lat": 41.3873021,
+  "lon": -73.9642919,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3696": {
+  "name": "Zoeller Field at Dix Stadium",
+  "city": "Kent",
+  "state": "OH",
+  "country": "USA",
+  "lat": 41.1390275,
+  "lon": -81.3136754,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3699": {
+  "name": "Dowdy-Ficklen Stadium",
+  "city": "Greenville",
+  "state": "NC",
+  "country": "USA",
+  "lat": 35.5964639,
+  "lon": -77.3653057,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3936": {
+  "name": "Spartan Stadium",
+  "city": "East Lansing",
+  "state": "MI",
+  "country": "USA",
+  "lat": 42.7281648,
+  "lon": -84.4857621,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3861": {
+  "name": "Ohio Stadium",
+  "city": "Columbus",
+  "state": "OH",
+  "country": "USA",
+  "lat": 40.0016458,
+  "lon": -83.0197374,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3803": {
+  "name": "Legion Field (AL)",
+  "city": "Birmingham",
+  "state": "AL",
+  "country": "USA",
+  "lat": 33.5114854,
+  "lon": -86.8428269,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3764": {
+  "name": "Huskie Stadium",
+  "city": "Dekalb",
+  "state": "IL",
+  "country": "USA",
+  "lat": 41.9340747,
+  "lon": -88.7779701,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "1964": {
+  "name": "JMA Wireless Dome",
+  "city": "Syracuse",
+  "state": "NY",
+  "country": "USA",
+  "lat": 43.0362837,
+  "lon": -76.1363603,
+  "geo_method": "stadium geocode",
+  "status": "EXCL covered (dome or retractable roof)"
+ },
+ "3855": {
+  "name": "Notre Dame Stadium",
+  "city": "Notre Dame",
+  "state": "IN",
+  "country": "USA",
+  "lat": 41.6984231,
+  "lon": -86.2339582,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3786": {
+  "name": "Kelly/Shorts Stadium",
+  "city": "Mount Pleasant",
+  "state": "MI",
+  "country": "USA",
+  "lat": 43.5776229,
+  "lon": -84.7710514,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3768": {
+  "name": "InfoCision Stadium",
+  "city": "Akron",
+  "state": "OH",
+  "country": "USA",
+  "lat": 41.07251,
+  "lon": -81.5084807,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3715": {
+  "name": "Flagler Credit Union Stadium",
+  "city": "Boca Raton",
+  "state": "FL",
+  "country": "USA",
+  "lat": 26.376295,
+  "lon": -80.1017177,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3632": {
+  "name": "Beaver Stadium",
+  "city": "University Park",
+  "state": "PA",
+  "country": "USA",
+  "lat": 40.8120742,
+  "lon": -77.8559417,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3985": {
+  "name": "Warren McGuirk Alumni Stadium",
+  "city": "Amherst",
+  "state": "MA",
+  "country": "USA",
+  "lat": 42.3772646,
+  "lon": -72.5360241,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3917": {
+  "name": "Sanford Stadium",
+  "city": "Athens",
+  "state": "GA",
+  "country": "USA",
+  "lat": 33.9497855,
+  "lon": -83.3732093,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3700": {
+  "name": "Doyt L. Perry Stadium",
+  "city": "Bowling Green",
+  "state": "OH",
+  "country": "USA",
+  "lat": 41.3780256,
+  "lon": -83.6224975,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3657": {
+  "name": "Bryant-Denny Stadium",
+  "city": "Tuscaloosa",
+  "state": "AL",
+  "country": "USA",
+  "lat": 33.2077203,
+  "lon": -87.550453,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3980": {
+  "name": "Waldo Stadium",
+  "city": "Kalamazoo",
+  "state": "MI",
+  "country": "USA",
+  "lat": 42.2857621,
+  "lon": -85.6011197,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3836": {
+  "name": "Memorial Stadium (Clemson, SC)",
+  "city": "Clemson",
+  "state": "SC",
+  "country": "USA",
+  "lat": 34.6850749,
+  "lon": -82.8364111,
+  "geo_method": "town centroid (Clemson, SC); stadium ~1 km away",
+  "status": "OUTDOOR"
+ },
+ "3842": {
+  "name": "Milan Puskar Stadium",
+  "city": "Morgantown",
+  "state": "WV",
+  "country": "USA",
+  "lat": 39.6501842,
+  "lon": -79.9549877,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3604": {
+  "name": "Alamodome",
+  "city": "San Antonio",
+  "state": "TX",
+  "country": "USA",
+  "lat": 29.4168923,
+  "lon": -98.4788949,
+  "geo_method": "stadium geocode",
+  "status": "EXCL covered (dome or retractable roof)"
+ },
+ "3895": {
+  "name": "First Community Stadium",
+  "city": "Houston",
+  "state": "TX",
+  "country": "USA",
+  "lat": 29.7163227,
+  "lon": -95.4093245,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3775": {
+  "name": "Joan C. Edwards Stadium",
+  "city": "Huntington",
+  "state": "WV",
+  "country": "USA",
+  "lat": 38.4248685,
+  "lon": -82.4210088,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3873": {
+  "name": "L&N Federal Credit Union Stadium",
+  "city": "Louisville",
+  "state": "KY",
+  "country": "USA",
+  "lat": 38.2060161,
+  "lon": -85.7587734,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3971": {
+  "name": "University Stadium (NM)",
+  "city": "Albuquerque",
+  "state": "NM",
+  "country": "USA",
+  "lat": 35.0669178,
+  "lon": -106.6282458,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3815": {
+  "name": "M. M. Roberts Stadium",
+  "city": "Hattiesburg",
+  "state": "MS",
+  "country": "USA",
+  "lat": 31.3292985,
+  "lon": -89.3364747,
+  "geo_method": "campus centroid (stadium geocode failed)",
+  "status": "OUTDOOR"
+ },
+ "3784": {
+  "name": "Galaxy Stadium",
+  "city": "Lubbock",
+  "state": "TX",
+  "country": "USA",
+  "lat": 33.5912517,
+  "lon": -101.8729503,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3666": {
+  "name": "Our Lady of Lourdes Stadium",
+  "city": "Lafayette",
+  "state": "LA",
+  "country": "USA",
+  "lat": 30.2158728,
+  "lon": -92.041736,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3636": {
+  "name": "Bill Snyder Family Stadium",
+  "city": "Manhattan",
+  "state": "KS",
+  "country": "USA",
+  "lat": 39.2020395,
+  "lon": -96.5937762,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3776": {
+  "name": "Joe Aillet Stadium",
+  "city": "Ruston",
+  "state": "LA",
+  "country": "USA",
+  "lat": 32.5320136,
+  "lon": -92.6559397,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "4727": {
+  "name": "McLane Stadium",
+  "city": "Waco",
+  "state": "TX",
+  "country": "USA",
+  "lat": 31.5582247,
+  "lon": -97.1156821,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3918": {
+  "name": "S.B. Ballard Stadium",
+  "city": "Norfolk",
+  "state": "VA",
+  "country": "USA",
+  "lat": 36.8862699,
+  "lon": -76.3097248,
+  "geo_method": "campus centroid (stadium geocode failed)",
+  "status": "OUTDOOR"
+ },
+ "3787": {
+  "name": "Kenan Stadium",
+  "city": "Chapel Hill",
+  "state": "NC",
+  "country": "USA",
+  "lat": 35.9069432,
+  "lon": -79.0478199,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3974": {
+  "name": "Vaught-Hemingway Stadium",
+  "city": "Oxford",
+  "state": "MS",
+  "country": "USA",
+  "lat": 34.3619818,
+  "lon": -89.5341523,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3830": {
+  "name": "Memorial Stadium (Bloomington, IN)",
+  "city": "Bloomington",
+  "state": "IN",
+  "country": "USA",
+  "lat": 39.1808943,
+  "lon": -86.525642,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3958": {
+  "name": "Tiger Stadium (LA)",
+  "city": "Baton Rouge",
+  "state": "LA",
+  "country": "USA",
+  "lat": 30.4119773,
+  "lon": -91.1838303,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3619": {
+  "name": "Casino Del Sol Stadium",
+  "city": "Tucson",
+  "state": "AZ",
+  "country": "USA",
+  "lat": 32.2288359,
+  "lon": -110.9487796,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3801": {
+  "name": "LaVell Edwards Stadium",
+  "city": "Provo",
+  "state": "UT",
+  "country": "USA",
+  "lat": 40.2573194,
+  "lon": -111.6545784,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3816": {
+  "name": "Mackay Stadium",
+  "city": "Reno",
+  "state": "NV",
+  "country": "USA",
+  "lat": 39.5468915,
+  "lon": -119.817398,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3893": {
+  "name": "Reser Stadium",
+  "city": "Corvallis",
+  "state": "OR",
+  "country": "USA",
+  "lat": 44.5595625,
+  "lon": -123.2814752,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3792": {
+  "name": "Kidd Brewer Stadium",
+  "city": "Boone",
+  "state": "NC",
+  "country": "USA",
+  "lat": 36.2114887,
+  "lon": -81.6855717,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3996": {
+  "name": "Yager Stadium",
+  "city": "Oxford",
+  "state": "OH",
+  "country": "USA",
+  "lat": 39.5194147,
+  "lon": -84.7330855,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "4728": {
+  "name": "TDECU Stadium",
+  "city": "Houston",
+  "state": "TX",
+  "country": "USA",
+  "lat": 29.7207902,
+  "lon": -95.3440627,
+  "geo_method": "campus centroid (stadium geocode failed)",
+  "status": "OUTDOOR"
+ },
+ "3817": {
+  "name": "Malone Stadium",
+  "city": "Monroe",
+  "state": "LA",
+  "country": "USA",
+  "lat": 32.5308993,
+  "lon": -92.0660396,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3940": {
+  "name": "Stanford Stadium",
+  "city": "Stanford",
+  "state": "CA",
+  "country": "USA",
+  "lat": 37.4345264,
+  "lon": -122.1619867,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "4729": {
+  "name": "Yulman Stadium",
+  "city": "New Orleans",
+  "state": "LA",
+  "country": "USA",
+  "lat": 29.944651,
+  "lon": -90.1160511,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "7221": {
+  "name": "Protective Stadium",
+  "city": "Birmingham",
+  "state": "AL",
+  "country": "USA",
+  "lat": 33.5275724,
+  "lon": -86.8090626,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "499": {
+  "name": "Cotton Bowl",
+  "city": "Dallas",
+  "state": "TX",
+  "country": "USA",
+  "lat": 32.7796119,
+  "lon": -96.7596025,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3983": {
+  "name": "War Memorial Stadium (AR)",
+  "city": "Little Rock",
+  "state": "AR",
+  "country": "USA",
+  "lat": 34.7498294,
+  "lon": -92.3307817,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "4258": {
+  "name": "Choctaw Stadium",
+  "city": "Arlington",
+  "state": "TX",
+  "country": "USA",
+  "lat": 32.7512975,
+  "lon": -97.0825648,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "4250": {
+  "name": "Wrigley Field",
+  "city": "Chicago",
+  "state": "IL",
+  "country": "USA",
+  "lat": 41.9481846,
+  "lon": -87.655559,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3504": {
+  "name": "Aviva Stadium",
+  "city": "Dublin",
+  "state": null,
+  "country": "Ireland",
+  "lat": 53.3352254,
+  "lon": -6.2281851,
+  "geo_method": "stadium geocode",
+  "status": "EXCL outside HRRR domain (non-US venue)"
+ },
+ "7311": {
+  "name": "Snapdragon Stadium",
+  "city": "San Diego",
+  "state": "CA",
+  "country": "USA",
+  "lat": 32.7842418,
+  "lon": -117.1223904,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3651": {
+  "name": "Bridgeforth Stadium",
+  "city": "Harrisonburg",
+  "state": "VA",
+  "country": "USA",
+  "lat": 38.4351564,
+  "lon": -78.8730534,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3485": {
+  "name": "Providence Park",
+  "city": "Portland",
+  "state": "OR",
+  "country": "USA",
+  "lat": 45.5215291,
+  "lon": -122.6918185,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3662": {
+  "name": "AmFirst Stadium",
+  "city": "Jacksonville",
+  "state": "AL",
+  "country": "USA",
+  "lat": 33.8203687,
+  "lon": -85.7661255,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "4013": {
+  "name": "Camping World Stadium",
+  "city": "Orlando",
+  "state": "FL",
+  "country": "USA",
+  "lat": 28.5390398,
+  "lon": -81.4027504,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3494": {
+  "name": "The Dome at America's Center",
+  "city": "St. Louis",
+  "state": "MO",
+  "country": "USA",
+  "lat": 38.6327852,
+  "lon": -90.188551,
+  "geo_method": "stadium geocode",
+  "status": "EXCL covered (dome or retractable roof)"
+ },
+ "3647": {
+  "name": "Elliott T. Bowers Stadium",
+  "city": "Huntsville",
+  "state": "TX",
+  "country": "USA",
+  "lat": 30.7138023,
+  "lon": -95.5420565,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "4102": {
+  "name": "Yankee Stadium",
+  "city": "Bronx",
+  "state": "NY",
+  "country": "USA",
+  "lat": 40.8295828,
+  "lon": -73.9265212,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3766": {
+  "name": "Independence Stadium",
+  "city": "Shreveport",
+  "state": "LA",
+  "country": "USA",
+  "lat": 32.4756172,
+  "lon": -93.7919843,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "1400": {
+  "name": "Toyota Stadium",
+  "city": "Frisco",
+  "state": "TX",
+  "country": "USA",
+  "lat": 33.154224,
+  "lon": -96.8353657,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "4251": {
+  "name": "Chase Field",
+  "city": "Phoenix",
+  "state": "AZ",
+  "country": "USA",
+  "lat": 33.4454856,
+  "lon": -112.0666928,
+  "geo_method": "stadium geocode",
+  "status": "EXCL covered (dome or retractable roof)"
+ },
+ "4205": {
+  "name": "Petco Park",
+  "city": "San Diego",
+  "state": "CA",
+  "country": "USA",
+  "lat": 32.7071874,
+  "lon": -117.156913,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "4245": {
+  "name": "Fenway Park",
+  "city": "Boston",
+  "state": "MA",
+  "country": "USA",
+  "lat": 42.3464614,
+  "lon": -71.0970999,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3486": {
+  "name": "Sporting Park",
+  "city": "Kansas City",
+  "state": "KS",
+  "country": "USA",
+  "lat": 39.1216438,
+  "lon": -94.8233504,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "5960": {
+  "name": "Northwestern Medicine Field at Martin Stadium",
+  "city": "Evanston",
+  "state": "IL",
+  "country": "USA",
+  "lat": 42.0584391,
+  "lon": -87.6707922,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "2031": {
+  "name": "Pitbull Stadium",
+  "city": "Miami",
+  "state": "FL",
+  "country": "USA",
+  "lat": 25.7524884,
+  "lon": -80.3778903,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "4899": {
+  "name": "Walens Family Field at Fifth Third Stadium",
+  "city": "Kennesaw",
+  "state": "GA",
+  "country": "USA",
+  "lat": 34.0287872,
+  "lon": -84.5677981,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "4779": {
+  "name": "Thomas A. Robinson National Stadium",
+  "city": "Nassau",
+  "state": null,
+  "country": "Bahamas",
+  "lat": 25.054362,
+  "lon": -77.3603371,
+  "geo_method": "stadium geocode",
+  "status": "EXCL outside HRRR domain (non-US venue)"
+ },
+ "3695": {
+  "name": "Delaware Stadium",
+  "city": "Newark",
+  "state": "DE",
+  "country": "USA",
+  "lat": 39.6616707,
+  "lon": -75.7488991,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3631": {
+  "name": "Shell Energy Stadium",
+  "city": "Houston",
+  "state": "TX",
+  "country": "USA",
+  "lat": 29.7520265,
+  "lon": -95.3523409,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "3878": {
+  "name": "Robert W. Plaster Stadium",
+  "city": "Springfield",
+  "state": "MO",
+  "country": "USA",
+  "lat": 37.1976101,
+  "lon": -93.2798754,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ },
+ "5455": {
+  "name": "Ford Center At The Star",
+  "city": "Frisco",
+  "state": "TX",
+  "country": "USA",
+  "lat": null,
+  "lon": null,
+  "geo_method": "campus centroid (stadium geocode failed)",
+  "status": "EXCL covered (dome or retractable roof)"
+ },
+ "3714": {
+  "name": "Fargodome",
+  "city": "Fargo",
+  "state": "ND",
+  "country": "USA",
+  "lat": 46.9030223,
+  "lon": -96.8013419,
+  "geo_method": "stadium geocode",
+  "status": "EXCL covered (dome or retractable roof)"
+ },
+ "5403": {
+  "name": "Inter&Co Stadium",
+  "city": "Orlando",
+  "state": "FL",
+  "country": "USA",
+  "lat": 28.5411041,
+  "lon": -81.3891411,
+  "geo_method": "stadium geocode",
+  "status": "OUTDOOR"
+ }
+}

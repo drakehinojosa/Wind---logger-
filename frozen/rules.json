@@ -1,0 +1,81 @@
+{
+ "protocol": "v1.1 prospective (frozen)",
+ "seasons": "2026+",
+ "leagues": {
+  "NFL": {
+   "sport_key": "americanfootball_nfl",
+   "qualify_mph_min": 10.0,
+   "qualify_mph_max_exclusive": 20.0
+  },
+  "CFB": {
+   "sport_key": "americanfootball_ncaaf",
+   "qualify_mph_min": 15.0,
+   "qualify_mph_max_exclusive": null,
+   "scope": "FBS-involved reference games"
+  }
+ },
+ "timing": {
+  "anchor_offset_h": 36,
+  "decision_offset_h": 24,
+  "jitter_tolerance_min": 5,
+  "capture_window_min": 15
+ },
+ "forecast": {
+  "systems": [
+   "gfs",
+   "hrrr"
+  ],
+  "runs_utc": [
+   0,
+   12
+  ],
+  "run_at_or_before_D_minus_h": 6,
+  "file_last_modified_at_or_before_D": true,
+  "level": "10 m above ground",
+  "hours": "first four whole hours at or after K",
+  "speed": "mean of hourly sqrt(U^2+V^2) * 2.23694 mph",
+  "grid": "nearest native grid point"
+ },
+ "market": {
+  "region": "us",
+  "market": "totals",
+  "ticket": "first book in league/season hierarchy with matched Over/Under pair, latest capture at or before D",
+  "hierarchy_file": "frozen/book_hierarchies.json",
+  "tie_break": "alphabetical"
+ },
+ "grading": {
+  "bet": "Under",
+  "total": "home+away incl. OT",
+  "push_units": 0,
+  "win_rate": "excludes pushes",
+  "void": "no official final score",
+  "scores": {
+   "NFL": "nflverse games file",
+   "CFB": "cfbfastR schedule points"
+  }
+ },
+ "statistic": {
+  "z": "mean unit return / CR1 SE clustered by kickoff date (US Eastern)"
+ },
+ "looks": [
+  150,
+  300,
+  450,
+  600
+ ],
+ "promote": {
+  "z_at_least": 2.24,
+  "label": "PROMOTION GATE PASSED",
+  "effect": "stop prospective testing for that league, freeze files/code, return full report for independent audit; does NOT authorize betting"
+ },
+ "kill": {
+  "look_150": "z <= -1.28",
+  "look_300": "mean return <= 0",
+  "look_450": "mean return <= 0",
+  "look_600": "kill unless promotion gate passed"
+ },
+ "venues": "frozen/venues.json (unknown venue -> logged error, excluded); covered/Hawaii/non-US excluded",
+ "money_at_risk": "none while TRACK",
+ "schedule": "every 5 minutes",
+ "after_terminal_decision": "league logging stops (looks/<LG>_STOPPED)"
+}
