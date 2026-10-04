@@ -565,12 +565,108 @@
    "lg": "CFB",
    "home": "Purdue Boilermakers",
    "away": "Minnesota Golden Gophers"
+  },
+  "b274da111dc9826f36e5fa238998dd69": {
+   "lg": "CFB",
+   "home": "Liberty Flames",
+   "away": "Sam Houston State Bearkats"
+  },
+  "561884d0d63e91b022e96bc6c415accd": {
+   "lg": "CFB",
+   "home": "Western Kentucky Hilltoppers",
+   "away": "Missouri State Bears"
+  },
+  "52f2d012fe3e686087077b0d7083159a": {
+   "lg": "CFB",
+   "home": "Arkansas State Red Wolves",
+   "away": "South Alabama Jaguars"
+  },
+  "2a637494f07611db6ba822fb84218d58": {
+   "lg": "CFB",
+   "home": "UTSA Roadrunners",
+   "away": "South Florida Bulls"
+  },
+  "2ec27bbe3b14c521ba8a3f3f6e46f4ac": {
+   "lg": "CFB",
+   "home": "Utah State Aggies",
+   "away": "Washington State Cougars"
+  },
+  "5d7901b0ad44ffe1b92e18fc8d511a7e": {
+   "lg": "CFB",
+   "home": "West Virginia Mountaineers",
+   "away": "Arizona Wildcats"
+  },
+  "416ce0307b7b9d97f5365a29c1729339": {
+   "lg": "CFB",
+   "home": "NC State Wolfpack",
+   "away": "Wake Forest Demon Deacons"
+  },
+  "b067027cbaeaf86e6c9bb26becb97c94": {
+   "lg": "CFB",
+   "home": "Pittsburgh Panthers",
+   "away": "North Carolina Tar Heels"
+  },
+  "690e2edaba34c383d2ebfa8f8394f973": {
+   "lg": "CFB",
+   "home": "Oklahoma State Cowboys",
+   "away": "UCF Knights"
+  },
+  "71ed0e11bb0f2e5149ac4821fcde4599": {
+   "lg": "CFB",
+   "home": "Northwestern Wildcats",
+   "away": "Ball State Cardinals"
+  },
+  "9f633922d2cc5fa338aa22d1fcb83099": {
+   "lg": "CFB",
+   "home": "California Golden Bears",
+   "away": "Virginia Tech Hokies"
+  },
+  "43457c08aa50a7e0038aa06eb3437680": {
+   "lg": "CFB",
+   "home": "Georgia Tech Yellow Jackets",
+   "away": "Duke Blue Devils"
+  },
+  "373204ebaf557738961c85f37a72fe10": {
+   "lg": "CFB",
+   "home": "Kansas State Wildcats",
+   "away": "Houston Cougars"
+  },
+  "979fefd620ed804180ef3fed873d61c2": {
+   "lg": "CFB",
+   "home": "Navy Midshipmen",
+   "away": "Tulsa Golden Hurricane"
+  },
+  "6e4d435e9afc8a6db1162d2057d74acb": {
+   "lg": "CFB",
+   "home": "Oregon State Beavers",
+   "away": "San Diego State Aztecs"
+  },
+  "f7b49f43b10f581d991954dae86b9aa5": {
+   "lg": "CFB",
+   "home": "Virginia Cavaliers",
+   "away": "Syracuse Orange"
+  },
+  "616eba68e65fe65023aa2335e81096c8": {
+   "lg": "CFB",
+   "home": "Utah Utes",
+   "away": "Kansas Jayhawks"
+  },
+  "7dd6e0d9f2657c834974c28b286ff58d": {
+   "lg": "CFB",
+   "home": "Arizona State Sun Devils",
+   "away": "Hawaii Rainbow Warriors"
+  },
+  "c4db3412210ed8e1045807c73f69b377": {
+   "lg": "CFB",
+   "home": "Fresno State Bulldogs",
+   "away": "Boise State Broncos"
   }
  },
  "heartbeats": [
   "2026-10-03T19:24:22Z",
   "2026-10-04T00:10:24Z",
   "2026-10-04T03:51:32Z",
-  "2026-10-04T05:36:37Z"
+  "2026-10-04T05:36:37Z",
+  "2026-10-04T11:10:24Z"
  ]
 }
