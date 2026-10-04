@@ -756,6 +756,16 @@
    "lg": "CFB",
    "home": "Louisiana Tech Bulldogs",
    "away": "Louisiana Ragin Cajuns"
+  },
+  "9db4ed15fe34fca1fb62f040cd244591": {
+   "lg": "NFL",
+   "home": "New York Jets",
+   "away": "Cleveland Browns"
+  },
+  "448d7cf18c6db4c811ed82ded1b72867": {
+   "lg": "NFL",
+   "home": "Pittsburgh Steelers",
+   "away": "Indianapolis Colts"
   }
  },
  "heartbeats": [
@@ -768,6 +778,7 @@
   "2026-10-04T20:20:33Z",
   "2026-10-04T21:13:02Z",
   "2026-10-04T21:43:51Z",
-  "2026-10-04T22:00:09Z"
+  "2026-10-04T22:00:09Z",
+  "2026-10-04T22:21:27Z"
  ]
 }
