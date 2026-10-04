@@ -495,10 +495,41 @@
    "lg": "CFB",
    "home": "Alabama Crimson Tide",
    "away": "Georgia Bulldogs"
+  },
+  "7556739cc30a38511b7f631581a416e4": {
+   "lg": "CFB",
+   "home": "Louisville Cardinals",
+   "away": "Florida State Seminoles"
+  },
+  "55d9636153ca5741d460ef2f78b663d9": {
+   "lg": "CFB",
+   "home": "BYU Cougars",
+   "away": "Iowa State Cyclones"
+  },
+  "3e691b53c660a64495a44816768176e8": {
+   "lg": "CFB",
+   "home": "Nebraska Cornhuskers",
+   "away": "Indiana Hoosiers"
+  },
+  "4462f1fa168ab2a5a25fe2807ebec8ac": {
+   "lg": "CFB",
+   "home": "Penn State Nittany Lions",
+   "away": "USC Trojans"
+  },
+  "9383cbbbb905d9ee50a3341f6945eae7": {
+   "lg": "CFB",
+   "home": "Florida Gators",
+   "away": "South Carolina Gamecocks"
+  },
+  "bdfaffbf5873812f3e04de2cbd273aa6": {
+   "lg": "CFB",
+   "home": "Kentucky Wildcats",
+   "away": "LSU Tigers"
   }
  },
  "heartbeats": [
   "2026-10-03T19:24:22Z",
-  "2026-10-04T00:10:24Z"
+  "2026-10-04T00:10:24Z",
+  "2026-10-04T03:51:32Z"
  ]
 }
