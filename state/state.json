@@ -470,7 +470,11 @@
   "57ad14afc7db1843fd56f5971dadb058": {
    "lg": "CFB",
    "home": "Troy Trojans",
-   "away": "Southern Mississippi Golden Eagles"
+   "away": "Southern Mississippi Golden Eagles",
+   "cand36": {
+    "commence": "2026-10-07T00:00:00Z",
+    "snap": "2026-10-05T11:48:57Z"
+   }
   },
   "c89488b9c83038e85e02e92481d093fe": {
    "lg": "CFB",
@@ -814,6 +818,7 @@
   "2026-10-05T10:24:28Z",
   "2026-10-05T10:47:01Z",
   "2026-10-05T11:02:42Z",
-  "2026-10-05T11:25:26Z"
+  "2026-10-05T11:25:26Z",
+  "2026-10-05T11:48:57Z"
  ]
 }
