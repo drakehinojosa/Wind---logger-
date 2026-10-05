@@ -771,6 +771,11 @@
    "lg": "NFL",
    "home": "Pittsburgh Steelers",
    "away": "Indianapolis Colts"
+  },
+  "685a8722f297502fa85e4cd8c7e54b1c": {
+   "lg": "CFB",
+   "home": "Indiana Hoosiers",
+   "away": "Ohio State Buckeyes"
   }
  },
  "heartbeats": [
@@ -831,6 +836,7 @@
   "2026-10-05T14:41:01Z",
   "2026-10-05T15:01:47Z",
   "2026-10-05T15:27:23Z",
-  "2026-10-05T15:50:53Z"
+  "2026-10-05T15:50:53Z",
+  "2026-10-05T16:08:01Z"
  ]
 }
