@@ -12,6 +12,7 @@ jobs:
     timeout-minutes: 4
     steps:
       - uses: actions/checkout@v4
+        with: { ref: main }   # start from the latest saved log, not the commit at trigger time (fix: stale checkout after queue delay)
       - uses: actions/setup-python@v5
         with: { python-version: "3.12" }
       - run: pip install requests pandas numpy pygrib
@@ -26,4 +27,4 @@ jobs:
           git config user.name "protocol-logger"; git config user.email "logger@users.noreply.github.com"
           git add -A log state looks
           git diff --cached --quiet || git commit -m "log $(date -u +%FT%TZ)"
-          git push
+          git push || (git pull --rebase --autostash && git push)
