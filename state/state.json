@@ -971,6 +971,16 @@
    "lg": "NFL",
    "home": "Jacksonville Jaguars",
    "away": "Houston Texans"
+  },
+  "0b0b582b32b09ab6ff6664ffae0c9653": {
+   "lg": "NFL",
+   "home": "New England Patriots",
+   "away": "New York Jets"
+  },
+  "27f3994841ce8081c0b7349cf3d1e3d7": {
+   "lg": "NFL",
+   "home": "Tampa Bay Buccaneers",
+   "away": "Pittsburgh Steelers"
   }
  },
  "heartbeats": [
@@ -1370,6 +1380,7 @@
   "2026-10-06T19:30:32Z",
   "2026-10-06T19:35:27Z",
   "2026-10-06T19:40:22Z",
-  "2026-10-06T19:45:23Z"
+  "2026-10-06T19:45:23Z",
+  "2026-10-06T19:47:47Z"
  ]
 }
