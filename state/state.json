@@ -981,6 +981,21 @@
    "lg": "NFL",
    "home": "Tampa Bay Buccaneers",
    "away": "Pittsburgh Steelers"
+  },
+  "7c312fdf24fb35f58b0e07c2932cc997": {
+   "lg": "NFL",
+   "home": "Atlanta Falcons",
+   "away": "Chicago Bears"
+  },
+  "e86227938fd3cf008fc5648fb5128344": {
+   "lg": "NFL",
+   "home": "Cleveland Browns",
+   "away": "Baltimore Ravens"
+  },
+  "84aa9e190e625d7e9cd67e1f157a45b4": {
+   "lg": "NFL",
+   "home": "Indianapolis Colts",
+   "away": "Tennessee Titans"
   }
  },
  "heartbeats": [
@@ -1381,6 +1396,7 @@
   "2026-10-06T19:35:27Z",
   "2026-10-06T19:40:22Z",
   "2026-10-06T19:45:23Z",
-  "2026-10-06T19:47:47Z"
+  "2026-10-06T19:47:47Z",
+  "2026-10-06T19:50:22Z"
  ]
 }
