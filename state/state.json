@@ -845,7 +845,181 @@
     "commence": "2026-10-07T23:30:00Z",
     "snap": "2026-10-06T11:25:26Z"
    },
-   "K": "2026-10-07T23:30:00Z"
+   "K": "2026-10-07T23:30:00Z",
+   "candD": {
+    "commence": "2026-10-07T23:30:00Z",
+    "snap": "2026-10-06T23:15:25Z"
+   },
+   "oddsD": {
+    "snap": "2026-10-06T23:15:25Z",
+    "quotes": {
+     "fanduel": {
+      "outcomes": [
+       {
+        "name": "Over",
+        "price": -106,
+        "point": 47.5
+       },
+       {
+        "name": "Under",
+        "price": -114,
+        "point": 47.5
+       }
+      ],
+      "last_update": "2026-10-06T23:15:04Z"
+     },
+     "mybookieag": {
+      "outcomes": [
+       {
+        "name": "Over",
+        "price": -110,
+        "point": 46.5
+       },
+       {
+        "name": "Under",
+        "price": -110,
+        "point": 46.5
+       }
+      ],
+      "last_update": "2026-10-06T23:15:03Z"
+     },
+     "draftkings": {
+      "outcomes": [
+       {
+        "name": "Over",
+        "price": -115,
+        "point": 46.5
+       },
+       {
+        "name": "Under",
+        "price": -105,
+        "point": 46.5
+       }
+      ],
+      "last_update": "2026-10-06T23:14:44Z"
+     },
+     "fanatics": {
+      "outcomes": [
+       {
+        "name": "Over",
+        "price": -110,
+        "point": 46.5
+       },
+       {
+        "name": "Under",
+        "price": -110,
+        "point": 46.5
+       }
+      ],
+      "last_update": "2026-10-06T23:15:19Z"
+     },
+     "betrivers": {
+      "outcomes": [
+       {
+        "name": "Over",
+        "price": -113,
+        "point": 46.5
+       },
+       {
+        "name": "Under",
+        "price": -109,
+        "point": 46.5
+       }
+      ],
+      "last_update": "2026-10-06T23:15:22Z"
+     },
+     "betmgm": {
+      "outcomes": [
+       {
+        "name": "Over",
+        "price": -115,
+        "point": 46.5
+       },
+       {
+        "name": "Under",
+        "price": -105,
+        "point": 46.5
+       }
+      ],
+      "last_update": "2026-10-06T23:15:24Z"
+     },
+     "lowvig": {
+      "outcomes": [
+       {
+        "name": "Over",
+        "price": -108,
+        "point": 46.5
+       },
+       {
+        "name": "Under",
+        "price": -108,
+        "point": 46.5
+       }
+      ],
+      "last_update": "2026-10-06T23:15:20Z"
+     },
+     "betonlineag": {
+      "outcomes": [
+       {
+        "name": "Over",
+        "price": -110,
+        "point": 46.5
+       },
+       {
+        "name": "Under",
+        "price": -110,
+        "point": 46.5
+       }
+      ],
+      "last_update": "2026-10-06T23:15:03Z"
+     },
+     "williamhill_us": {
+      "outcomes": [
+       {
+        "name": "Over",
+        "price": -115,
+        "point": 46.5
+       },
+       {
+        "name": "Under",
+        "price": -105,
+        "point": 46.5
+       }
+      ],
+      "last_update": "2026-10-06T23:14:29Z"
+     },
+     "bovada": {
+      "outcomes": [
+       {
+        "name": "Over",
+        "price": -110,
+        "point": 46.5
+       },
+       {
+        "name": "Under",
+        "price": -110,
+        "point": 46.5
+       }
+      ],
+      "last_update": "2026-10-06T23:14:17Z"
+     },
+     "betus": {
+      "outcomes": [
+       {
+        "name": "Over",
+        "price": -110,
+        "point": 46.5
+       },
+       {
+        "name": "Under",
+        "price": -110,
+        "point": 46.5
+       }
+      ],
+      "last_update": "2026-10-06T23:15:03Z"
+     }
+    }
+   }
   },
   "82b83ec87fc2be5faa2e9f26ac50edef": {
    "lg": "CFB",
@@ -1698,6 +1872,7 @@
   "2026-10-06T23:00:28Z",
   "2026-10-06T23:05:27Z",
   "2026-10-06T23:10:16Z",
-  "2026-10-06T23:10:36Z"
+  "2026-10-06T23:10:36Z",
+  "2026-10-06T23:15:25Z"
  ]
 }
