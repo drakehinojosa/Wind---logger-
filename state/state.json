@@ -996,6 +996,56 @@
    "lg": "NFL",
    "home": "Indianapolis Colts",
    "away": "Tennessee Titans"
+  },
+  "caca2d752fe1a1779029082e95332fcc": {
+   "lg": "NFL",
+   "home": "Philadelphia Eagles",
+   "away": "Carolina Panthers"
+  },
+  "1cf74afd313e9fd300e1462012b174cb": {
+   "lg": "NFL",
+   "home": "New York Giants",
+   "away": "New Orleans Saints"
+  },
+  "3729ac6d2a66b642850caf2044cdc658": {
+   "lg": "NFL",
+   "home": "Los Angeles Rams",
+   "away": "Arizona Cardinals"
+  },
+  "45b2690b350ed45145c7a716b18e8e66": {
+   "lg": "NFL",
+   "home": "Las Vegas Raiders",
+   "away": "Buffalo Bills"
+  },
+  "20fefae8c296247460ba5773caa42218": {
+   "lg": "NFL",
+   "home": "Kansas City Chiefs",
+   "away": "Los Angeles Chargers"
+  },
+  "82fd5a159fa130e67abab93a9537f70b": {
+   "lg": "NFL",
+   "home": "Green Bay Packers",
+   "away": "Dallas Cowboys"
+  },
+  "f122527f003276d3bca19efa48c902c1": {
+   "lg": "NFL",
+   "home": "San Francisco 49ers",
+   "away": "Washington Commanders"
+  },
+  "490b66058b6c826a08589c471698ce50": {
+   "lg": "CFB",
+   "home": "Texas Longhorns",
+   "away": "Florida Gators"
+  },
+  "04c740fce71d3f3b8a4bdc4ea69f1281": {
+   "lg": "CFB",
+   "home": "LSU Tigers",
+   "away": "Mississippi State Bulldogs"
+  },
+  "2851c11a3831feac527b6df0b34b2a2a": {
+   "lg": "CFB",
+   "home": "Georgia Bulldogs",
+   "away": "Auburn Tigers"
   }
  },
  "heartbeats": [
@@ -1397,6 +1447,7 @@
   "2026-10-06T19:40:22Z",
   "2026-10-06T19:45:23Z",
   "2026-10-06T19:47:47Z",
-  "2026-10-06T19:50:22Z"
+  "2026-10-06T19:50:22Z",
+  "2026-10-06T19:55:31Z"
  ]
 }
