@@ -961,6 +961,16 @@
    "lg": "CFB",
    "home": "Indiana Hoosiers",
    "away": "Ohio State Buckeyes"
+  },
+  "855f58fad5f0f14b239f4f63df27998b": {
+   "lg": "NFL",
+   "home": "Denver Broncos",
+   "away": "Seattle Seahawks"
+  },
+  "57418b2cf5aca558b3c98eafac1e264a": {
+   "lg": "NFL",
+   "home": "Jacksonville Jaguars",
+   "away": "Houston Texans"
   }
  },
  "heartbeats": [
@@ -1359,6 +1369,7 @@
   "2026-10-06T19:28:41Z",
   "2026-10-06T19:30:32Z",
   "2026-10-06T19:35:27Z",
-  "2026-10-06T19:40:22Z"
+  "2026-10-06T19:40:22Z",
+  "2026-10-06T19:45:23Z"
  ]
 }
