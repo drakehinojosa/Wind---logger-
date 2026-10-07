@@ -1451,6 +1451,11 @@
    "lg": "CFB",
    "home": "Michigan Wolverines",
    "away": "Penn State Nittany Lions"
+  },
+  "9e7a1e65bd6ffb3ff108db2a5e125170": {
+   "lg": "CFB",
+   "home": "Duke Blue Devils",
+   "away": "North Carolina Tar Heels"
   }
  },
  "heartbeats": [
@@ -2245,6 +2250,7 @@
   "2026-10-07T22:25:22Z",
   "2026-10-07T22:27:19Z",
   "2026-10-07T22:30:33Z",
-  "2026-10-07T22:35:25Z"
+  "2026-10-07T22:35:25Z",
+  "2026-10-07T22:40:27Z"
  ]
 }
