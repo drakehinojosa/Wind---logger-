@@ -1110,12 +1110,20 @@
   "b274da111dc9826f36e5fa238998dd69": {
    "lg": "CFB",
    "home": "Liberty Flames",
-   "away": "Sam Houston State Bearkats"
+   "away": "Sam Houston State Bearkats",
+   "cand36": {
+    "commence": "2026-10-08T23:00:00Z",
+    "snap": "2026-10-07T10:45:30Z"
+   }
   },
   "561884d0d63e91b022e96bc6c415accd": {
    "lg": "CFB",
    "home": "Western Kentucky Hilltoppers",
-   "away": "Missouri State Bears"
+   "away": "Missouri State Bears",
+   "cand36": {
+    "commence": "2026-10-08T23:00:00Z",
+    "snap": "2026-10-07T10:45:30Z"
+   }
   },
   "52f2d012fe3e686087077b0d7083159a": {
    "lg": "CFB",
@@ -2043,6 +2051,7 @@
   "2026-10-07T10:30:28Z",
   "2026-10-07T10:35:21Z",
   "2026-10-07T10:36:29Z",
-  "2026-10-07T10:40:31Z"
+  "2026-10-07T10:40:31Z",
+  "2026-10-07T10:45:30Z"
  ]
 }
