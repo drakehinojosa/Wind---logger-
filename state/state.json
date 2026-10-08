@@ -2381,6 +2381,11 @@
    "lg": "CFB",
    "home": "Middle Tennessee Blue Raiders",
    "away": "Delaware Blue Hens"
+  },
+  "66f521c79ea8a970ed062bfed392abfb": {
+   "lg": "CFB",
+   "home": "Jacksonville State Gamecocks",
+   "away": "Florida International Panthers"
   }
  },
  "heartbeats": [
@@ -3452,6 +3457,7 @@
   "2026-10-08T17:10:23Z",
   "2026-10-08T17:10:42Z",
   "2026-10-08T17:15:28Z",
-  "2026-10-08T17:20:28Z"
+  "2026-10-08T17:20:28Z",
+  "2026-10-08T17:25:19Z"
  ]
 }
