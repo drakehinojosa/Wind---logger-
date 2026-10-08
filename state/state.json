@@ -1255,7 +1255,11 @@
   "a168f1bed30ce7d56dc2b77dbfe37705": {
    "lg": "CFB",
    "home": "Washington Huskies",
-   "away": "Iowa Hawkeyes"
+   "away": "Iowa Hawkeyes",
+   "cand36": {
+    "commence": "2026-10-10T01:00:00Z",
+    "snap": "2026-10-08T12:45:26Z"
+   }
   },
   "9e243e91f8f94e6431da5cc5c3cc8fda": {
    "lg": "CFB",
@@ -2035,7 +2039,11 @@
   "2ec27bbe3b14c521ba8a3f3f6e46f4ac": {
    "lg": "CFB",
    "home": "Utah State Aggies",
-   "away": "Washington State Cougars"
+   "away": "Washington State Cougars",
+   "cand36": {
+    "commence": "2026-10-10T01:00:00Z",
+    "snap": "2026-10-08T12:45:26Z"
+   }
   },
   "5d7901b0ad44ffe1b92e18fc8d511a7e": {
    "lg": "CFB",
@@ -2110,7 +2118,11 @@
   "23614f055733537fb79ab73e68040eca": {
    "lg": "CFB",
    "home": "San Jose State Spartans",
-   "away": "Wyoming Cowboys"
+   "away": "Wyoming Cowboys",
+   "cand36": {
+    "commence": "2026-10-10T01:00:00Z",
+    "snap": "2026-10-08T12:45:26Z"
+   }
   },
   "3350fb5023fd4b47b86d34fcc5f47c17": {
    "lg": "CFB",
@@ -3358,6 +3370,7 @@
   "2026-10-08T12:26:33Z",
   "2026-10-08T12:30:33Z",
   "2026-10-08T12:35:28Z",
-  "2026-10-08T12:40:26Z"
+  "2026-10-08T12:40:26Z",
+  "2026-10-08T12:45:26Z"
  ]
 }
