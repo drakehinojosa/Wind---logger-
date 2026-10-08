@@ -2376,6 +2376,11 @@
    "lg": "CFB",
    "home": "Oklahoma Sooners",
    "away": "Kentucky Wildcats"
+  },
+  "62dd374d95f55eaaad10717b58220ce7": {
+   "lg": "CFB",
+   "home": "Middle Tennessee Blue Raiders",
+   "away": "Delaware Blue Hens"
   }
  },
  "heartbeats": [
@@ -3446,6 +3451,7 @@
   "2026-10-08T17:05:23Z",
   "2026-10-08T17:10:23Z",
   "2026-10-08T17:10:42Z",
-  "2026-10-08T17:15:28Z"
+  "2026-10-08T17:15:28Z",
+  "2026-10-08T17:20:28Z"
  ]
 }
