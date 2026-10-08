@@ -2386,6 +2386,11 @@
    "lg": "CFB",
    "home": "Jacksonville State Gamecocks",
    "away": "Florida International Panthers"
+  },
+  "f00195614a0c305207222ba2044a9c24": {
+   "lg": "CFB",
+   "home": "Texas State Bobcats",
+   "away": "Colorado State Rams"
   }
  },
  "heartbeats": [
@@ -3463,6 +3468,7 @@
   "2026-10-08T17:33:13Z",
   "2026-10-08T17:35:26Z",
   "2026-10-08T17:40:29Z",
-  "2026-10-08T17:45:26Z"
+  "2026-10-08T17:45:26Z",
+  "2026-10-08T17:50:27Z"
  ]
 }
