@@ -1205,12 +1205,20 @@
   "82b83ec87fc2be5faa2e9f26ac50edef": {
    "lg": "CFB",
    "home": "Oklahoma Sooners",
-   "away": "Texas Longhorns"
+   "away": "Texas Longhorns",
+   "cand36": {
+    "commence": "2026-10-10T19:30:00Z",
+    "snap": "2026-10-09T07:15:22Z"
+   }
   },
   "3ad908e99942c191b72d855b6f1b508f": {
    "lg": "CFB",
    "home": "Oregon Ducks",
-   "away": "UCLA Bruins"
+   "away": "UCLA Bruins",
+   "cand36": {
+    "commence": "2026-10-10T19:30:00Z",
+    "snap": "2026-10-09T07:15:22Z"
+   }
   },
   "59f8c98dee8ce77cc17c5b4958e4f325": {
    "lg": "CFB",
@@ -1815,17 +1823,29 @@
   "92f26a40bba178c47bbade8c9af0ada3": {
    "lg": "CFB",
    "home": "Michigan State Spartans",
-   "away": "Illinois Fighting Illini"
+   "away": "Illinois Fighting Illini",
+   "cand36": {
+    "commence": "2026-10-10T19:30:00Z",
+    "snap": "2026-10-09T07:15:22Z"
+   }
   },
   "496f20b5a45e727fdc2d07915ab0f865": {
    "lg": "CFB",
    "home": "Notre Dame Fighting Irish",
-   "away": "Stanford Cardinal"
+   "away": "Stanford Cardinal",
+   "cand36": {
+    "commence": "2026-10-10T19:30:00Z",
+    "snap": "2026-10-09T07:15:22Z"
+   }
   },
   "d9b77825d169fdd683f8efa7c1948a8e": {
    "lg": "CFB",
    "home": "Vanderbilt Commodores",
-   "away": "Ole Miss Rebels"
+   "away": "Ole Miss Rebels",
+   "cand36": {
+    "commence": "2026-10-10T19:30:00Z",
+    "snap": "2026-10-09T07:15:22Z"
+   }
   },
   "0dd06b09349f56ce8dfc2d61d5fcd042": {
    "lg": "CFB",
@@ -2820,22 +2840,38 @@
   "9f633922d2cc5fa338aa22d1fcb83099": {
    "lg": "CFB",
    "home": "California Golden Bears",
-   "away": "Virginia Tech Hokies"
+   "away": "Virginia Tech Hokies",
+   "cand36": {
+    "commence": "2026-10-10T19:30:00Z",
+    "snap": "2026-10-09T07:15:22Z"
+   }
   },
   "43457c08aa50a7e0038aa06eb3437680": {
    "lg": "CFB",
    "home": "Georgia Tech Yellow Jackets",
-   "away": "Duke Blue Devils"
+   "away": "Duke Blue Devils",
+   "cand36": {
+    "commence": "2026-10-10T19:30:00Z",
+    "snap": "2026-10-09T07:15:22Z"
+   }
   },
   "373204ebaf557738961c85f37a72fe10": {
    "lg": "CFB",
    "home": "Kansas State Wildcats",
-   "away": "Houston Cougars"
+   "away": "Houston Cougars",
+   "cand36": {
+    "commence": "2026-10-10T19:30:00Z",
+    "snap": "2026-10-09T07:15:22Z"
+   }
   },
   "979fefd620ed804180ef3fed873d61c2": {
    "lg": "CFB",
    "home": "Navy Midshipmen",
-   "away": "Tulsa Golden Hurricane"
+   "away": "Tulsa Golden Hurricane",
+   "cand36": {
+    "commence": "2026-10-10T19:30:00Z",
+    "snap": "2026-10-09T07:15:22Z"
+   }
   },
   "6e4d435e9afc8a6db1162d2057d74acb": {
    "lg": "CFB",
@@ -3090,27 +3126,47 @@
   "d5c5d566d388f445ead9c2dc63caaed1": {
    "lg": "CFB",
    "home": "Akron Zips",
-   "away": "Eastern Michigan Eagles"
+   "away": "Eastern Michigan Eagles",
+   "cand36": {
+    "commence": "2026-10-10T19:30:00Z",
+    "snap": "2026-10-09T07:15:22Z"
+   }
   },
   "e2a6fcdae461277e7cc041ff631d1b0c": {
    "lg": "CFB",
    "home": "Toledo Rockets",
-   "away": "Buffalo Bulls"
+   "away": "Buffalo Bulls",
+   "cand36": {
+    "commence": "2026-10-10T19:30:00Z",
+    "snap": "2026-10-09T07:15:22Z"
+   }
   },
   "6c0ea3fe653989dd0d695482738232c3": {
    "lg": "CFB",
    "home": "Ohio Bobcats",
-   "away": "Central Michigan Chippewas"
+   "away": "Central Michigan Chippewas",
+   "cand36": {
+    "commence": "2026-10-10T19:30:00Z",
+    "snap": "2026-10-09T07:15:22Z"
+   }
   },
   "2168132b20b82bf78e08f1787b6f83cc": {
    "lg": "CFB",
    "home": "North Texas Mean Green",
-   "away": "Charlotte 49ers"
+   "away": "Charlotte 49ers",
+   "cand36": {
+    "commence": "2026-10-10T19:30:00Z",
+    "snap": "2026-10-09T07:15:22Z"
+   }
   },
   "6050a18b694eb1d661ee7fa571b7ddbb": {
    "lg": "CFB",
    "home": "Western Michigan Broncos",
-   "away": "Kent State Golden Flashes"
+   "away": "Kent State Golden Flashes",
+   "cand36": {
+    "commence": "2026-10-10T19:30:00Z",
+    "snap": "2026-10-09T07:15:22Z"
+   }
   },
   "80fbdc19285ed9bab284269273562eb9": {
    "lg": "CFB",
@@ -4601,6 +4657,7 @@
   "2026-10-09T07:00:35Z",
   "2026-10-09T07:05:25Z",
   "2026-10-09T07:05:50Z",
-  "2026-10-09T07:10:31Z"
+  "2026-10-09T07:10:31Z",
+  "2026-10-09T07:15:22Z"
  ]
 }
