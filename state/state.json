@@ -1225,7 +1225,11 @@
   "59f8c98dee8ce77cc17c5b4958e4f325": {
    "lg": "CFB",
    "home": "Alabama Crimson Tide",
-   "away": "Georgia Bulldogs"
+   "away": "Georgia Bulldogs",
+   "cand36": {
+    "commence": "2026-10-10T23:30:00Z",
+    "snap": "2026-10-09T11:15:28Z"
+   }
   },
   "7556739cc30a38511b7f631581a416e4": {
    "lg": "CFB",
@@ -1610,7 +1614,11 @@
   "4462f1fa168ab2a5a25fe2807ebec8ac": {
    "lg": "CFB",
    "home": "Penn State Nittany Lions",
-   "away": "USC Trojans"
+   "away": "USC Trojans",
+   "cand36": {
+    "commence": "2026-10-10T23:30:00Z",
+    "snap": "2026-10-09T11:15:28Z"
+   }
   },
   "9383cbbbb905d9ee50a3341f6945eae7": {
    "lg": "CFB",
@@ -2910,7 +2918,11 @@
   "f7b49f43b10f581d991954dae86b9aa5": {
    "lg": "CFB",
    "home": "Virginia Cavaliers",
-   "away": "Syracuse Orange"
+   "away": "Syracuse Orange",
+   "cand36": {
+    "commence": "2026-10-10T23:30:00Z",
+    "snap": "2026-10-09T11:15:28Z"
+   }
   },
   "616eba68e65fe65023aa2335e81096c8": {
    "lg": "CFB",
@@ -3265,17 +3277,29 @@
   "b009edde78bdd184c039f774c1795f95": {
    "lg": "CFB",
    "home": "Northern Illinois Huskies",
-   "away": "Air Force Falcons"
+   "away": "Air Force Falcons",
+   "cand36": {
+    "commence": "2026-10-10T23:30:00Z",
+    "snap": "2026-10-09T11:15:28Z"
+   }
   },
   "2876b41c9c5327639fda141d7027eadb": {
    "lg": "CFB",
    "home": "Georgia Southern Eagles",
-   "away": "James Madison Dukes"
+   "away": "James Madison Dukes",
+   "cand36": {
+    "commence": "2026-10-10T23:30:00Z",
+    "snap": "2026-10-09T11:15:28Z"
+   }
   },
   "837b4ddbdcd5e8e3a68a7c954208ff40": {
    "lg": "CFB",
    "home": "Louisiana Tech Bulldogs",
-   "away": "Louisiana Ragin Cajuns"
+   "away": "Louisiana Ragin Cajuns",
+   "cand36": {
+    "commence": "2026-10-10T23:30:00Z",
+    "snap": "2026-10-09T11:15:28Z"
+   }
   },
   "9db4ed15fe34fca1fb62f040cd244591": {
    "lg": "NFL",
@@ -4780,6 +4804,7 @@
   "2026-10-09T11:00:35Z",
   "2026-10-09T11:05:25Z",
   "2026-10-09T11:07:27Z",
-  "2026-10-09T11:10:26Z"
+  "2026-10-09T11:10:26Z",
+  "2026-10-09T11:15:28Z"
  ]
 }
