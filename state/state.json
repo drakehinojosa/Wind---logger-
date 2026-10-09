@@ -1384,7 +1384,8 @@
       "last_update": "2026-10-09T19:24:53Z"
      }
     }
-   }
+   },
+   "final": true
   },
   "3ad908e99942c191b72d855b6f1b508f": {
    "lg": "CFB",
@@ -1568,7 +1569,8 @@
       "last_update": "2026-10-09T19:24:53Z"
      }
     }
-   }
+   },
+   "final": true
   },
   "59f8c98dee8ce77cc17c5b4958e4f325": {
    "lg": "CFB",
@@ -2892,7 +2894,8 @@
       "last_update": "2026-10-09T19:25:03Z"
      }
     }
-   }
+   },
+   "final": true
   },
   "496f20b5a45e727fdc2d07915ab0f865": {
    "lg": "CFB",
@@ -3061,7 +3064,8 @@
       "last_update": "2026-10-09T19:24:53Z"
      }
     }
-   }
+   },
+   "final": true
   },
   "d9b77825d169fdd683f8efa7c1948a8e": {
    "lg": "CFB",
@@ -3230,7 +3234,8 @@
       "last_update": "2026-10-09T19:24:53Z"
      }
     }
-   }
+   },
+   "final": true
   },
   "0dd06b09349f56ce8dfc2d61d5fcd042": {
    "lg": "CFB",
@@ -5279,7 +5284,8 @@
       "last_update": "2026-10-09T19:24:53Z"
      }
     }
-   }
+   },
+   "final": true
   },
   "43457c08aa50a7e0038aa06eb3437680": {
    "lg": "CFB",
@@ -5463,7 +5469,8 @@
       "last_update": "2026-10-09T19:25:03Z"
      }
     }
-   }
+   },
+   "final": true
   },
   "373204ebaf557738961c85f37a72fe10": {
    "lg": "CFB",
@@ -5647,7 +5654,8 @@
       "last_update": "2026-10-09T19:24:53Z"
      }
     }
-   }
+   },
+   "final": true
   },
   "979fefd620ed804180ef3fed873d61c2": {
    "lg": "CFB",
@@ -5831,7 +5839,8 @@
       "last_update": "2026-10-09T19:24:53Z"
      }
     }
-   }
+   },
+   "final": true
   },
   "6e4d435e9afc8a6db1162d2057d74acb": {
    "lg": "CFB",
@@ -6990,7 +6999,8 @@
       "last_update": "2026-10-09T19:25:03Z"
      }
     }
-   }
+   },
+   "final": true
   },
   "e2a6fcdae461277e7cc041ff631d1b0c": {
    "lg": "CFB",
@@ -7174,7 +7184,8 @@
       "last_update": "2026-10-09T19:25:03Z"
      }
     }
-   }
+   },
+   "final": true
   },
   "6c0ea3fe653989dd0d695482738232c3": {
    "lg": "CFB",
@@ -7358,7 +7369,8 @@
       "last_update": "2026-10-09T19:25:03Z"
      }
     }
-   }
+   },
+   "final": true
   },
   "2168132b20b82bf78e08f1787b6f83cc": {
    "lg": "CFB",
@@ -7542,7 +7554,8 @@
       "last_update": "2026-10-09T19:24:53Z"
      }
     }
-   }
+   },
+   "final": true
   },
   "6050a18b694eb1d661ee7fa571b7ddbb": {
    "lg": "CFB",
@@ -7726,7 +7739,8 @@
       "last_update": "2026-10-09T19:25:26Z"
      }
     }
-   }
+   },
+   "final": true
   },
   "80fbdc19285ed9bab284269273562eb9": {
    "lg": "CFB",
@@ -7736,7 +7750,181 @@
     "commence": "2026-10-10T19:45:00Z",
     "snap": "2026-10-09T07:40:27Z"
    },
-   "K": "2026-10-10T19:45:00Z"
+   "K": "2026-10-10T19:45:00Z",
+   "candD": {
+    "commence": "2026-10-10T19:45:00Z",
+    "snap": "2026-10-09T19:30:30Z"
+   },
+   "oddsD": {
+    "snap": "2026-10-09T19:30:30Z",
+    "quotes": {
+     "fanduel": {
+      "outcomes": [
+       {
+        "name": "Over",
+        "price": -110,
+        "point": 54.5
+       },
+       {
+        "name": "Under",
+        "price": -110,
+        "point": 54.5
+       }
+      ],
+      "last_update": "2026-10-09T19:30:26Z"
+     },
+     "lowvig": {
+      "outcomes": [
+       {
+        "name": "Over",
+        "price": -103,
+        "point": 55.0
+       },
+       {
+        "name": "Under",
+        "price": -114,
+        "point": 55.0
+       }
+      ],
+      "last_update": "2026-10-09T19:30:26Z"
+     },
+     "betonlineag": {
+      "outcomes": [
+       {
+        "name": "Over",
+        "price": -105,
+        "point": 55.0
+       },
+       {
+        "name": "Under",
+        "price": -115,
+        "point": 55.0
+       }
+      ],
+      "last_update": "2026-10-09T19:29:51Z"
+     },
+     "draftkings": {
+      "outcomes": [
+       {
+        "name": "Over",
+        "price": -115,
+        "point": 54.5
+       },
+       {
+        "name": "Under",
+        "price": -105,
+        "point": 54.5
+       }
+      ],
+      "last_update": "2026-10-09T19:29:51Z"
+     },
+     "williamhill_us": {
+      "outcomes": [
+       {
+        "name": "Over",
+        "price": -110,
+        "point": 54.5
+       },
+       {
+        "name": "Under",
+        "price": -110,
+        "point": 54.5
+       }
+      ],
+      "last_update": "2026-10-09T19:29:02Z"
+     },
+     "fanatics": {
+      "outcomes": [
+       {
+        "name": "Over",
+        "price": -110,
+        "point": 54.5
+       },
+       {
+        "name": "Under",
+        "price": -110,
+        "point": 54.5
+       }
+      ],
+      "last_update": "2026-10-09T19:29:38Z"
+     },
+     "betmgm": {
+      "outcomes": [
+       {
+        "name": "Over",
+        "price": -110,
+        "point": 54.5
+       },
+       {
+        "name": "Under",
+        "price": -110,
+        "point": 54.5
+       }
+      ],
+      "last_update": "2026-10-09T19:29:16Z"
+     },
+     "mybookieag": {
+      "outcomes": [
+       {
+        "name": "Over",
+        "price": -110,
+        "point": 55.0
+       },
+       {
+        "name": "Under",
+        "price": -110,
+        "point": 55.0
+       }
+      ],
+      "last_update": "2026-10-09T19:30:15Z"
+     },
+     "bovada": {
+      "outcomes": [
+       {
+        "name": "Over",
+        "price": -110,
+        "point": 54.5
+       },
+       {
+        "name": "Under",
+        "price": -110,
+        "point": 54.5
+       }
+      ],
+      "last_update": "2026-10-09T19:29:22Z"
+     },
+     "betus": {
+      "outcomes": [
+       {
+        "name": "Over",
+        "price": -110,
+        "point": 54.5
+       },
+       {
+        "name": "Under",
+        "price": -110,
+        "point": 54.5
+       }
+      ],
+      "last_update": "2026-10-09T19:29:36Z"
+     },
+     "betrivers": {
+      "outcomes": [
+       {
+        "name": "Over",
+        "price": -107,
+        "point": 55.5
+       },
+       {
+        "name": "Under",
+        "price": -117,
+        "point": 55.5
+       }
+      ],
+      "last_update": "2026-10-09T19:29:53Z"
+     }
+    }
+   }
   },
   "f513c11a62ce92d74d70cf446e92e197": {
    "lg": "CFB",
@@ -9443,6 +9631,7 @@
   "2026-10-09T19:10:30Z",
   "2026-10-09T19:15:26Z",
   "2026-10-09T19:20:27Z",
-  "2026-10-09T19:25:27Z"
+  "2026-10-09T19:25:27Z",
+  "2026-10-09T19:30:30Z"
  ]
 }
