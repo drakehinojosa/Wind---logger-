@@ -1590,7 +1590,11 @@
   "3e691b53c660a64495a44816768176e8": {
    "lg": "CFB",
    "home": "Nebraska Cornhuskers",
-   "away": "Indiana Hoosiers"
+   "away": "Indiana Hoosiers",
+   "cand36": {
+    "commence": "2026-10-10T16:00:00Z",
+    "snap": "2026-10-09T03:45:27Z"
+   }
   },
   "4462f1fa168ab2a5a25fe2807ebec8ac": {
    "lg": "CFB",
@@ -1795,7 +1799,11 @@
   "9e243e91f8f94e6431da5cc5c3cc8fda": {
    "lg": "CFB",
    "home": "Missouri Tigers",
-   "away": "Texas A&M Aggies"
+   "away": "Texas A&M Aggies",
+   "cand36": {
+    "commence": "2026-10-10T16:00:00Z",
+    "snap": "2026-10-09T03:45:27Z"
+   }
   },
   "92f26a40bba178c47bbade8c9af0ada3": {
    "lg": "CFB",
@@ -2755,22 +2763,38 @@
   "5d7901b0ad44ffe1b92e18fc8d511a7e": {
    "lg": "CFB",
    "home": "West Virginia Mountaineers",
-   "away": "Arizona Wildcats"
+   "away": "Arizona Wildcats",
+   "cand36": {
+    "commence": "2026-10-10T16:00:00Z",
+    "snap": "2026-10-09T03:45:27Z"
+   }
   },
   "416ce0307b7b9d97f5365a29c1729339": {
    "lg": "CFB",
    "home": "NC State Wolfpack",
-   "away": "Wake Forest Demon Deacons"
+   "away": "Wake Forest Demon Deacons",
+   "cand36": {
+    "commence": "2026-10-10T16:00:00Z",
+    "snap": "2026-10-09T03:45:27Z"
+   }
   },
   "b067027cbaeaf86e6c9bb26becb97c94": {
    "lg": "CFB",
    "home": "Pittsburgh Panthers",
-   "away": "North Carolina Tar Heels"
+   "away": "North Carolina Tar Heels",
+   "cand36": {
+    "commence": "2026-10-10T16:00:00Z",
+    "snap": "2026-10-09T03:45:27Z"
+   }
   },
   "690e2edaba34c383d2ebfa8f8394f973": {
    "lg": "CFB",
    "home": "Oklahoma State Cowboys",
-   "away": "UCF Knights"
+   "away": "UCF Knights",
+   "cand36": {
+    "commence": "2026-10-10T16:00:00Z",
+    "snap": "2026-10-09T03:45:27Z"
+   }
   },
   "71ed0e11bb0f2e5149ac4821fcde4599": {
    "lg": "CFB",
@@ -3010,12 +3034,20 @@
   "3350fb5023fd4b47b86d34fcc5f47c17": {
    "lg": "CFB",
    "home": "Army Black Knights",
-   "away": "Tulane Green Wave"
+   "away": "Tulane Green Wave",
+   "cand36": {
+    "commence": "2026-10-10T16:00:00Z",
+    "snap": "2026-10-09T03:45:27Z"
+   }
   },
   "5a88faaeb5fcbb11e975498eca213c27": {
    "lg": "CFB",
    "home": "Bowling Green Falcons",
-   "away": "Sacramento State Hornets"
+   "away": "Sacramento State Hornets",
+   "cand36": {
+    "commence": "2026-10-10T16:00:00Z",
+    "snap": "2026-10-09T03:45:27Z"
+   }
   },
   "310dd8851a99203930a45881b0156d36": {
    "lg": "CFB",
@@ -4489,6 +4521,7 @@
   "2026-10-09T03:25:28Z",
   "2026-10-09T03:30:31Z",
   "2026-10-09T03:35:21Z",
-  "2026-10-09T03:40:28Z"
+  "2026-10-09T03:40:28Z",
+  "2026-10-09T03:45:27Z"
  ]
 }
