@@ -1855,12 +1855,20 @@
   "0dd06b09349f56ce8dfc2d61d5fcd042": {
    "lg": "CFB",
    "home": "Arkansas Razorbacks",
-   "away": "Tennessee Volunteers"
+   "away": "Tennessee Volunteers",
+   "cand36": {
+    "commence": "2026-10-10T20:15:00Z",
+    "snap": "2026-10-09T08:00:33Z"
+   }
   },
   "031164b8d704599d8023a3e104f9a6c0": {
    "lg": "CFB",
    "home": "Ohio State Buckeyes",
-   "away": "Maryland Terrapins"
+   "away": "Maryland Terrapins",
+   "cand36": {
+    "commence": "2026-10-10T20:15:00Z",
+    "snap": "2026-10-09T08:00:33Z"
+   }
   },
   "234d9123fdc010716a5a844efaf7ab43": {
    "lg": "CFB",
@@ -3199,7 +3207,8 @@
    "cand36": {
     "commence": "2026-10-10T20:00:00Z",
     "snap": "2026-10-09T07:55:20Z"
-   }
+   },
+   "K": "2026-10-10T20:00:00Z"
   },
   "21a7dc0df1a77eb87cc985e844095cf0": {
    "lg": "CFB",
@@ -4691,6 +4700,7 @@
   "2026-10-09T07:45:26Z",
   "2026-10-09T07:50:27Z",
   "2026-10-09T07:52:54Z",
-  "2026-10-09T07:55:20Z"
+  "2026-10-09T07:55:20Z",
+  "2026-10-09T08:00:33Z"
  ]
 }
