@@ -2805,7 +2805,11 @@
   "71ed0e11bb0f2e5149ac4821fcde4599": {
    "lg": "CFB",
    "home": "Northwestern Wildcats",
-   "away": "Ball State Cardinals"
+   "away": "Ball State Cardinals",
+   "cand36": {
+    "commence": "2026-10-10T16:30:00Z",
+    "snap": "2026-10-09T04:15:31Z"
+   }
   },
   "9f633922d2cc5fa338aa22d1fcb83099": {
    "lg": "CFB",
@@ -4537,6 +4541,7 @@
   "2026-10-09T04:00:26Z",
   "2026-10-09T04:02:36Z",
   "2026-10-09T04:05:21Z",
-  "2026-10-09T04:10:24Z"
+  "2026-10-09T04:10:24Z",
+  "2026-10-09T04:15:31Z"
  ]
 }
