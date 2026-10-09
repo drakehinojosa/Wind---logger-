@@ -2895,7 +2895,11 @@
   "6e4d435e9afc8a6db1162d2057d74acb": {
    "lg": "CFB",
    "home": "Oregon State Beavers",
-   "away": "San Diego State Aztecs"
+   "away": "San Diego State Aztecs",
+   "cand36": {
+    "commence": "2026-10-10T22:00:00Z",
+    "snap": "2026-10-09T09:45:26Z"
+   }
   },
   "f7b49f43b10f581d991954dae86b9aa5": {
    "lg": "CFB",
@@ -4727,6 +4731,7 @@
   "2026-10-09T09:25:18Z",
   "2026-10-09T09:30:31Z",
   "2026-10-09T09:35:29Z",
-  "2026-10-09T09:40:22Z"
+  "2026-10-09T09:40:22Z",
+  "2026-10-09T09:45:26Z"
  ]
 }
