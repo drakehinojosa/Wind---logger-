@@ -2939,17 +2939,26 @@
    "cand36": {
     "commence": "2026-10-11T02:15:00Z",
     "snap": "2026-10-09T14:10:25Z"
-   }
+   },
+   "K": "2026-10-11T02:15:00Z"
   },
   "7dd6e0d9f2657c834974c28b286ff58d": {
    "lg": "CFB",
    "home": "Arizona State Sun Devils",
-   "away": "Hawaii Rainbow Warriors"
+   "away": "Hawaii Rainbow Warriors",
+   "cand36": {
+    "commence": "2026-10-11T02:30:00Z",
+    "snap": "2026-10-09T14:15:28Z"
+   }
   },
   "c4db3412210ed8e1045807c73f69b377": {
    "lg": "CFB",
    "home": "Fresno State Bulldogs",
-   "away": "Boise State Broncos"
+   "away": "Boise State Broncos",
+   "cand36": {
+    "commence": "2026-10-11T02:30:00Z",
+    "snap": "2026-10-09T14:15:28Z"
+   }
   },
   "23614f055733537fb79ab73e68040eca": {
    "lg": "CFB",
@@ -4863,6 +4872,7 @@
   "2026-10-09T14:00:31Z",
   "2026-10-09T14:05:24Z",
   "2026-10-09T14:05:48Z",
-  "2026-10-09T14:10:25Z"
+  "2026-10-09T14:10:25Z",
+  "2026-10-09T14:15:28Z"
  ]
 }
