@@ -1890,7 +1890,11 @@
   "234d9123fdc010716a5a844efaf7ab43": {
    "lg": "CFB",
    "home": "Purdue Boilermakers",
-   "away": "Minnesota Golden Gophers"
+   "away": "Minnesota Golden Gophers",
+   "cand36": {
+    "commence": "2026-10-11T00:00:00Z",
+    "snap": "2026-10-09T11:45:27Z"
+   }
   },
   "b274da111dc9826f36e5fa238998dd69": {
    "lg": "CFB",
@@ -4817,6 +4821,7 @@
   "2026-10-09T11:28:46Z",
   "2026-10-09T11:30:33Z",
   "2026-10-09T11:35:26Z",
-  "2026-10-09T11:40:29Z"
+  "2026-10-09T11:40:29Z",
+  "2026-10-09T11:45:27Z"
  ]
 }
