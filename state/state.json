@@ -13961,6 +13961,11 @@
    "lg": "CFB",
    "home": "Bowling Green Falcons",
    "away": "Ball State Cardinals"
+  },
+  "dd062699e8f42bd17509cfba1952e286": {
+   "lg": "CFB",
+   "home": "Hawaii Rainbow Warriors",
+   "away": "New Mexico Lobos"
   }
  },
  "heartbeats": [
@@ -16080,6 +16085,7 @@
   "2026-10-11T15:15:29Z",
   "2026-10-11T15:20:13Z",
   "2026-10-11T15:20:36Z",
-  "2026-10-11T15:25:26Z"
+  "2026-10-11T15:25:26Z",
+  "2026-10-11T15:30:31Z"
  ]
 }
