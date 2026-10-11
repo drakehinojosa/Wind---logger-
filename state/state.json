@@ -13881,6 +13881,11 @@
    "lg": "CFB",
    "home": "Colorado Buffaloes",
    "away": "Utah Utes"
+  },
+  "755ef069f0fe7ee21fbda33f7c93247e": {
+   "lg": "CFB",
+   "home": "Coastal Carolina Chanticleers",
+   "away": "Appalachian State Mountaineers"
   }
  },
  "heartbeats": [
@@ -15856,6 +15861,7 @@
   "2026-10-11T05:40:29Z",
   "2026-10-11T05:44:09Z",
   "2026-10-11T05:45:23Z",
-  "2026-10-11T05:50:25Z"
+  "2026-10-11T05:50:25Z",
+  "2026-10-11T05:55:22Z"
  ]
 }
