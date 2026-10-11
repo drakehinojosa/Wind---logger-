@@ -14001,6 +14001,16 @@
    "lg": "CFB",
    "home": "Louisiana Ragin Cajuns",
    "away": "Troy Trojans"
+  },
+  "7d7f757d2bf4cb7b6d8bbfe9589d25a2": {
+   "lg": "CFB",
+   "home": "Buffalo Bulls",
+   "away": "UMass Minutemen"
+  },
+  "a9a289b7b19e28b51572d20315e6bf42": {
+   "lg": "CFB",
+   "home": "UL Monroe Warhawks",
+   "away": "Louisiana Tech Bulldogs"
   }
  },
  "heartbeats": [
@@ -16137,6 +16147,7 @@
   "2026-10-11T16:20:26Z",
   "2026-10-11T16:25:24Z",
   "2026-10-11T16:30:31Z",
-  "2026-10-11T16:35:28Z"
+  "2026-10-11T16:35:28Z",
+  "2026-10-11T16:40:27Z"
  ]
 }
