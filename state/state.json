@@ -13906,6 +13906,11 @@
    "lg": "CFB",
    "home": "Texas Tech Red Raiders",
    "away": "Arizona State Sun Devils"
+  },
+  "84fb3ff9d04d9f8c6aeb5c8cadf6fbb5": {
+   "lg": "CFB",
+   "home": "Old Dominion Monarchs",
+   "away": "Georgia Southern Eagles"
   }
  },
  "heartbeats": [
@@ -15890,6 +15895,7 @@
   "2026-10-11T06:15:25Z",
   "2026-10-11T06:20:27Z",
   "2026-10-11T06:25:25Z",
-  "2026-10-11T06:27:51Z"
+  "2026-10-11T06:27:51Z",
+  "2026-10-11T06:30:32Z"
  ]
 }
