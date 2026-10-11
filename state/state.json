@@ -13951,6 +13951,11 @@
    "lg": "CFB",
    "home": "James Madison Dukes",
    "away": "Georgia State Panthers"
+  },
+  "ec190e5e3401bc9ea7799610c0ca1125": {
+   "lg": "CFB",
+   "home": "Army Black Knights",
+   "away": "Florida Atlantic Owls"
   }
  },
  "heartbeats": [
@@ -16067,6 +16072,7 @@
   "2026-10-11T15:00:30Z",
   "2026-10-11T15:05:26Z",
   "2026-10-11T15:10:26Z",
-  "2026-10-11T15:15:29Z"
+  "2026-10-11T15:15:29Z",
+  "2026-10-11T15:20:13Z"
  ]
 }
