@@ -13921,6 +13921,16 @@
    "lg": "CFB",
    "home": "California Golden Bears",
    "away": "Wake Forest Demon Deacons"
+  },
+  "473d8828a17151640834e090d9eb46e4": {
+   "lg": "CFB",
+   "home": "Oregon State Beavers",
+   "away": "Washington State Cougars"
+  },
+  "917d8eb9ffc25af2925d0e7e8c91a0f4": {
+   "lg": "CFB",
+   "home": "San Diego State Aztecs",
+   "away": "Fresno State Bulldogs"
   }
  },
  "heartbeats": [
@@ -15913,6 +15923,7 @@
   "2026-10-11T06:50:26Z",
   "2026-10-11T06:54:32Z",
   "2026-10-11T06:55:24Z",
-  "2026-10-11T07:00:30Z"
+  "2026-10-11T07:00:30Z",
+  "2026-10-11T07:05:23Z"
  ]
 }
