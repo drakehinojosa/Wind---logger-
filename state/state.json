@@ -13856,6 +13856,21 @@
    "lg": "CFB",
    "home": "West Virginia Mountaineers",
    "away": "Cincinnati Bearcats"
+  },
+  "fd8eda4d35be24559269f63ca7bbb06b": {
+   "lg": "CFB",
+   "home": "Purdue Boilermakers",
+   "away": "Washington Huskies"
+  },
+  "eb7db3ae999676aa80dd5cf7dfa32c1a": {
+   "lg": "CFB",
+   "home": "Maryland Terrapins",
+   "away": "Rutgers Scarlet Knights"
+  },
+  "0763e3ed7ed8d646756e5849bac67b8d": {
+   "lg": "CFB",
+   "home": "SMU Mustangs",
+   "away": "Virginia Cavaliers"
   }
  },
  "heartbeats": [
@@ -15826,6 +15841,7 @@
   "2026-10-11T05:20:25Z",
   "2026-10-11T05:23:39Z",
   "2026-10-11T05:25:22Z",
-  "2026-10-11T05:30:28Z"
+  "2026-10-11T05:30:28Z",
+  "2026-10-11T05:35:23Z"
  ]
 }
