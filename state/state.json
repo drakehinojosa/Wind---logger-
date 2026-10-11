@@ -14021,6 +14021,21 @@
    "lg": "CFB",
    "home": "Southern Mississippi Golden Eagles",
    "away": "Arkansas State Red Wolves"
+  },
+  "930dea051dca737443eb7aec0b650f45": {
+   "lg": "CFB",
+   "home": "Rice Owls",
+   "away": "Tulsa Golden Hurricane"
+  },
+  "121ada2c134388f8cc2f26ffc54f52d1": {
+   "lg": "CFB",
+   "home": "UTEP Miners",
+   "away": "San Jose State Spartans"
+  },
+  "11430b210e5b57c938e1c95a9db5ffb2": {
+   "lg": "CFB",
+   "home": "Sacramento State Hornets",
+   "away": "Ohio Bobcats"
   }
  },
  "heartbeats": [
@@ -16160,6 +16175,7 @@
   "2026-10-11T16:35:28Z",
   "2026-10-11T16:40:27Z",
   "2026-10-11T16:40:52Z",
-  "2026-10-11T16:45:30Z"
+  "2026-10-11T16:45:30Z",
+  "2026-10-11T16:50:26Z"
  ]
 }
