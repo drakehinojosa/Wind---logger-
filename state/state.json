@@ -13976,6 +13976,11 @@
    "lg": "CFB",
    "home": "Eastern Michigan Eagles",
    "away": "Toledo Rockets"
+  },
+  "24244a1062254de107b2a7f5f79affe1": {
+   "lg": "CFB",
+   "home": "North Dakota State Bison",
+   "away": "Nevada Wolf Pack"
   }
  },
  "heartbeats": [
@@ -16105,6 +16110,7 @@
   "2026-10-11T15:55:23Z",
   "2026-10-11T15:57:28Z",
   "2026-10-11T16:00:28Z",
-  "2026-10-11T16:05:25Z"
+  "2026-10-11T16:05:25Z",
+  "2026-10-11T16:10:28Z"
  ]
 }
