@@ -13891,6 +13891,11 @@
    "lg": "CFB",
    "home": "Baylor Bears",
    "away": "TCU Horned Frogs"
+  },
+  "5dd30262ad321dcff02c37d7619376e4": {
+   "lg": "CFB",
+   "home": "Central Michigan Chippewas",
+   "away": "Western Michigan Broncos"
   }
  },
  "heartbeats": [
@@ -15870,6 +15875,7 @@
   "2026-10-11T05:55:22Z",
   "2026-10-11T05:59:59Z",
   "2026-10-11T06:00:28Z",
-  "2026-10-11T06:05:19Z"
+  "2026-10-11T06:05:19Z",
+  "2026-10-11T06:10:20Z"
  ]
 }
