@@ -13886,6 +13886,11 @@
    "lg": "CFB",
    "home": "Coastal Carolina Chanticleers",
    "away": "Appalachian State Mountaineers"
+  },
+  "e45fd12f3d9475fd0941509e7429b596": {
+   "lg": "CFB",
+   "home": "Baylor Bears",
+   "away": "TCU Horned Frogs"
   }
  },
  "heartbeats": [
@@ -15863,6 +15868,7 @@
   "2026-10-11T05:45:23Z",
   "2026-10-11T05:50:25Z",
   "2026-10-11T05:55:22Z",
-  "2026-10-11T05:59:59Z"
+  "2026-10-11T05:59:59Z",
+  "2026-10-11T06:00:28Z"
  ]
 }
