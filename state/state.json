@@ -13831,6 +13831,11 @@
    "lg": "CFB",
    "home": "Missouri State Bears",
    "away": "Kennesaw State Owls"
+  },
+  "2bbbf3488a5d57c9c13ae578bad17a9d": {
+   "lg": "CFB",
+   "home": "Sam Houston State Bearkats",
+   "away": "Western Kentucky Hilltoppers"
   }
  },
  "heartbeats": [
@@ -15732,6 +15737,7 @@
   "2026-10-11T00:40:25Z",
   "2026-10-11T00:45:26Z",
   "2026-10-11T00:50:23Z",
-  "2026-10-11T00:55:18Z"
+  "2026-10-11T00:55:18Z",
+  "2026-10-11T00:59:28Z"
  ]
 }
