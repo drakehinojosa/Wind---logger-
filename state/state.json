@@ -13986,6 +13986,21 @@
    "lg": "CFB",
    "home": "Miami (OH) RedHawks",
    "away": "Akron Zips"
+  },
+  "56d8b3e4ae8cb9ce51d5ad6aedd5164e": {
+   "lg": "CFB",
+   "home": "South Florida Bulls",
+   "away": "Kent State Golden Flashes"
+  },
+  "7926661d4efb4a5fb94233d5e8aca9df": {
+   "lg": "CFB",
+   "home": "Wyoming Cowboys",
+   "away": "Northern Illinois Huskies"
+  },
+  "edac5f5669470d4cc438ffe9b3d7046a": {
+   "lg": "CFB",
+   "home": "Louisiana Ragin Cajuns",
+   "away": "Troy Trojans"
   }
  },
  "heartbeats": [
@@ -16121,6 +16136,7 @@
   "2026-10-11T16:19:31Z",
   "2026-10-11T16:20:26Z",
   "2026-10-11T16:25:24Z",
-  "2026-10-11T16:30:31Z"
+  "2026-10-11T16:30:31Z",
+  "2026-10-11T16:35:28Z"
  ]
 }
