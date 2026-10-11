@@ -13916,6 +13916,11 @@
    "lg": "CFB",
    "home": "Syracuse Orange",
    "away": "Louisville Cardinals"
+  },
+  "b5e637cf502d6d5f408af440ea2d591d": {
+   "lg": "CFB",
+   "home": "California Golden Bears",
+   "away": "Wake Forest Demon Deacons"
   }
  },
  "heartbeats": [
@@ -15903,6 +15908,7 @@
   "2026-10-11T06:27:51Z",
   "2026-10-11T06:30:32Z",
   "2026-10-11T06:35:20Z",
-  "2026-10-11T06:40:26Z"
+  "2026-10-11T06:40:26Z",
+  "2026-10-11T06:45:26Z"
  ]
 }
