@@ -13981,6 +13981,11 @@
    "lg": "CFB",
    "home": "North Dakota State Bison",
    "away": "Nevada Wolf Pack"
+  },
+  "6af8b2523c07aebb827163640d2a865d": {
+   "lg": "CFB",
+   "home": "Miami (OH) RedHawks",
+   "away": "Akron Zips"
   }
  },
  "heartbeats": [
@@ -16115,6 +16120,7 @@
   "2026-10-11T16:15:22Z",
   "2026-10-11T16:19:31Z",
   "2026-10-11T16:20:26Z",
-  "2026-10-11T16:25:24Z"
+  "2026-10-11T16:25:24Z",
+  "2026-10-11T16:30:31Z"
  ]
 }
