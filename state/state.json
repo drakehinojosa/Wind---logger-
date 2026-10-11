@@ -13946,6 +13946,11 @@
    "lg": "CFB",
    "home": "Temple Owls",
    "away": "Charlotte 49ers"
+  },
+  "f8b5d3a4b35efebd4f010433778fd629": {
+   "lg": "CFB",
+   "home": "James Madison Dukes",
+   "away": "Georgia State Panthers"
   }
  },
  "heartbeats": [
@@ -16061,6 +16066,7 @@
   "2026-10-11T14:58:51Z",
   "2026-10-11T15:00:30Z",
   "2026-10-11T15:05:26Z",
-  "2026-10-11T15:10:26Z"
+  "2026-10-11T15:10:26Z",
+  "2026-10-11T15:15:29Z"
  ]
 }
