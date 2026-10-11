@@ -13871,6 +13871,16 @@
    "lg": "CFB",
    "home": "SMU Mustangs",
    "away": "Virginia Cavaliers"
+  },
+  "fc01e4b9ad4f39e975b7e1fd9ad124d1": {
+   "lg": "CFB",
+   "home": "Michigan State Spartans",
+   "away": "Northwestern Wildcats"
+  },
+  "9f43906997c18b956105dded3134ef1f": {
+   "lg": "CFB",
+   "home": "Colorado Buffaloes",
+   "away": "Utah Utes"
   }
  },
  "heartbeats": [
@@ -15845,6 +15855,7 @@
   "2026-10-11T05:35:23Z",
   "2026-10-11T05:40:29Z",
   "2026-10-11T05:44:09Z",
-  "2026-10-11T05:45:23Z"
+  "2026-10-11T05:45:23Z",
+  "2026-10-11T05:50:25Z"
  ]
 }
