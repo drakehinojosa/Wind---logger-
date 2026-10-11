@@ -13826,6 +13826,11 @@
    "lg": "CFB",
    "home": "Texas State Bobcats",
    "away": "Colorado State Rams"
+  },
+  "7ebcab7b97620342a9205b32139222d1": {
+   "lg": "CFB",
+   "home": "Missouri State Bears",
+   "away": "Kennesaw State Owls"
   }
  },
  "heartbeats": [
@@ -15726,6 +15731,7 @@
   "2026-10-11T00:35:22Z",
   "2026-10-11T00:40:25Z",
   "2026-10-11T00:45:26Z",
-  "2026-10-11T00:50:23Z"
+  "2026-10-11T00:50:23Z",
+  "2026-10-11T00:55:18Z"
  ]
 }
