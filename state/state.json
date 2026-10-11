@@ -13966,6 +13966,11 @@
    "lg": "CFB",
    "home": "Hawaii Rainbow Warriors",
    "away": "New Mexico Lobos"
+  },
+  "004aa0d62485e4264794681a6cc6c513": {
+   "lg": "CFB",
+   "home": "UTSA Roadrunners",
+   "away": "Navy Midshipmen"
   }
  },
  "heartbeats": [
@@ -16087,6 +16092,7 @@
   "2026-10-11T15:20:36Z",
   "2026-10-11T15:25:26Z",
   "2026-10-11T15:30:31Z",
-  "2026-10-11T15:35:28Z"
+  "2026-10-11T15:35:28Z",
+  "2026-10-11T15:40:23Z"
  ]
 }
