@@ -13911,6 +13911,11 @@
    "lg": "CFB",
    "home": "Old Dominion Monarchs",
    "away": "Georgia Southern Eagles"
+  },
+  "f9cb1259d9221016efb7646258f2acd5": {
+   "lg": "CFB",
+   "home": "Syracuse Orange",
+   "away": "Louisville Cardinals"
   }
  },
  "heartbeats": [
@@ -15896,6 +15901,7 @@
   "2026-10-11T06:20:27Z",
   "2026-10-11T06:25:25Z",
   "2026-10-11T06:27:51Z",
-  "2026-10-11T06:30:32Z"
+  "2026-10-11T06:30:32Z",
+  "2026-10-11T06:35:20Z"
  ]
 }
