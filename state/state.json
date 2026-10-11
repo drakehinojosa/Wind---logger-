@@ -13836,6 +13836,11 @@
    "lg": "CFB",
    "home": "Sam Houston State Bearkats",
    "away": "Western Kentucky Hilltoppers"
+  },
+  "0372910f02d1b4d9cbfef5b35bbfe439": {
+   "lg": "CFB",
+   "home": "Boston College Eagles",
+   "away": "Pittsburgh Panthers"
   }
  },
  "heartbeats": [
@@ -15742,6 +15747,7 @@
   "2026-10-11T01:00:32Z",
   "2026-10-11T01:05:23Z",
   "2026-10-11T01:10:26Z",
-  "2026-10-11T01:15:28Z"
+  "2026-10-11T01:15:28Z",
+  "2026-10-11T01:20:22Z"
  ]
 }
