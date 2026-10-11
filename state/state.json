@@ -13896,6 +13896,16 @@
    "lg": "CFB",
    "home": "Central Michigan Chippewas",
    "away": "Western Michigan Broncos"
+  },
+  "55f376873e3cd0c2bb7cc9aa26e47235": {
+   "lg": "CFB",
+   "home": "Tulane Green Wave",
+   "away": "Memphis Tigers"
+  },
+  "8e5b5fc6829c6204c73178807614cd97": {
+   "lg": "CFB",
+   "home": "Texas Tech Red Raiders",
+   "away": "Arizona State Sun Devils"
   }
  },
  "heartbeats": [
@@ -15878,6 +15888,7 @@
   "2026-10-11T06:05:19Z",
   "2026-10-11T06:10:20Z",
   "2026-10-11T06:15:25Z",
-  "2026-10-11T06:20:27Z"
+  "2026-10-11T06:20:27Z",
+  "2026-10-11T06:25:25Z"
  ]
 }
