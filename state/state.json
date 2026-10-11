@@ -13971,6 +13971,11 @@
    "lg": "CFB",
    "home": "UTSA Roadrunners",
    "away": "Navy Midshipmen"
+  },
+  "006c37db6769b587a0adde2067498d53": {
+   "lg": "CFB",
+   "home": "Eastern Michigan Eagles",
+   "away": "Toledo Rockets"
   }
  },
  "heartbeats": [
@@ -16097,6 +16102,7 @@
   "2026-10-11T15:40:45Z",
   "2026-10-11T15:45:28Z",
   "2026-10-11T15:50:27Z",
-  "2026-10-11T15:55:23Z"
+  "2026-10-11T15:55:23Z",
+  "2026-10-11T15:57:28Z"
  ]
 }
