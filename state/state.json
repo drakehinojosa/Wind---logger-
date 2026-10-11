@@ -13841,6 +13841,11 @@
    "lg": "CFB",
    "home": "Boston College Eagles",
    "away": "Pittsburgh Panthers"
+  },
+  "d439d2aca5e246d9cd727f3b1e3fd443": {
+   "lg": "CFB",
+   "home": "Virginia Tech Hokies",
+   "away": "Georgia Tech Yellow Jackets"
   }
  },
  "heartbeats": [
@@ -15801,6 +15806,7 @@
   "2026-10-11T04:40:24Z",
   "2026-10-11T04:45:21Z",
   "2026-10-11T04:46:42Z",
-  "2026-10-11T04:50:26Z"
+  "2026-10-11T04:50:26Z",
+  "2026-10-11T04:55:25Z"
  ]
 }
