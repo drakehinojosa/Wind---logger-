@@ -13936,6 +13936,11 @@
    "lg": "CFB",
    "home": "San Diego State Aztecs",
    "away": "Fresno State Bulldogs"
+  },
+  "4bf071db691beaf54158c801a6cf093b": {
+   "lg": "CFB",
+   "home": "UAB Blazers",
+   "away": "East Carolina Pirates"
   }
  },
  "heartbeats": [
@@ -16042,6 +16047,7 @@
   "2026-10-11T14:25:25Z",
   "2026-10-11T14:29:48Z",
   "2026-10-11T14:30:30Z",
-  "2026-10-11T14:35:24Z"
+  "2026-10-11T14:35:24Z",
+  "2026-10-11T14:40:24Z"
  ]
 }
