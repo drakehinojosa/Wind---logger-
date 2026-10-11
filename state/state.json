@@ -13846,6 +13846,11 @@
    "lg": "CFB",
    "home": "Virginia Tech Hokies",
    "away": "Georgia Tech Yellow Jackets"
+  },
+  "c92acc311e3c969f78faf7c2ec5ef5b1": {
+   "lg": "CFB",
+   "home": "Vanderbilt Commodores",
+   "away": "Arkansas Razorbacks"
   }
  },
  "heartbeats": [
@@ -15807,6 +15812,7 @@
   "2026-10-11T04:45:21Z",
   "2026-10-11T04:46:42Z",
   "2026-10-11T04:50:26Z",
-  "2026-10-11T04:55:25Z"
+  "2026-10-11T04:55:25Z",
+  "2026-10-11T05:00:31Z"
  ]
 }
