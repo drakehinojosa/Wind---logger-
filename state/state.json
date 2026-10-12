@@ -14005,7 +14005,11 @@
   "66f521c79ea8a970ed062bfed392abfb": {
    "lg": "CFB",
    "home": "Jacksonville State Gamecocks",
-   "away": "Florida International Panthers"
+   "away": "Florida International Panthers",
+   "cand36": {
+    "commence": "2026-10-14T00:00:00Z",
+    "snap": "2026-10-12T11:45:26Z"
+   }
   },
   "f00195614a0c305207222ba2044a9c24": {
    "lg": "CFB",
@@ -16627,6 +16631,7 @@
   "2026-10-12T11:27:15Z",
   "2026-10-12T11:30:32Z",
   "2026-10-12T11:35:27Z",
-  "2026-10-12T11:40:27Z"
+  "2026-10-12T11:40:27Z",
+  "2026-10-12T11:45:26Z"
  ]
 }
