@@ -14626,6 +14626,16 @@
    "lg": "NFL",
    "home": "Las Vegas Raiders",
    "away": "Los Angeles Rams"
+  },
+  "176d474ed8b2bbf1eb4d7e9c56b4bf22": {
+   "lg": "NFL",
+   "home": "Seattle Seahawks",
+   "away": "Kansas City Chiefs"
+  },
+  "4853610e63c246f2027a6a248e642c9a": {
+   "lg": "NFL",
+   "home": "Philadelphia Eagles",
+   "away": "Dallas Cowboys"
   }
  },
  "heartbeats": [
@@ -17437,6 +17447,7 @@
   "2026-10-13T19:15:29Z",
   "2026-10-13T19:20:26Z",
   "2026-10-13T19:25:24Z",
-  "2026-10-13T19:30:31Z"
+  "2026-10-13T19:30:31Z",
+  "2026-10-13T19:35:25Z"
  ]
 }
