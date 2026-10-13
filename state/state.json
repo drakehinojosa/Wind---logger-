@@ -14591,6 +14591,41 @@
    "lg": "NFL",
    "home": "New York Jets",
    "away": "Miami Dolphins"
+  },
+  "b1be064fb52a198a62109c279e7ab24c": {
+   "lg": "NFL",
+   "home": "Atlanta Falcons",
+   "away": "San Francisco 49ers"
+  },
+  "550ec5290f935d311995affbcb0b5c79": {
+   "lg": "NFL",
+   "home": "Baltimore Ravens",
+   "away": "Cincinnati Bengals"
+  },
+  "2bba7fde6f97d0e54403d53676e4ab63": {
+   "lg": "NFL",
+   "home": "Houston Texans",
+   "away": "New York Giants"
+  },
+  "f3992ad4496724baf7dcd1ef58245d6b": {
+   "lg": "NFL",
+   "home": "Minnesota Vikings",
+   "away": "Indianapolis Colts"
+  },
+  "436119bb3ccdaa6ed7808aa3ebd82b76": {
+   "lg": "NFL",
+   "home": "Arizona Cardinals",
+   "away": "Denver Broncos"
+  },
+  "e8e5715eefb6a9ce64765e9ddf49c0cc": {
+   "lg": "NFL",
+   "home": "Detroit Lions",
+   "away": "Green Bay Packers"
+  },
+  "f7679cf18454e4d88a8f2b990c3f08ac": {
+   "lg": "NFL",
+   "home": "Las Vegas Raiders",
+   "away": "Los Angeles Rams"
   }
  },
  "heartbeats": [
@@ -17401,6 +17436,7 @@
   "2026-10-13T19:10:22Z",
   "2026-10-13T19:15:29Z",
   "2026-10-13T19:20:26Z",
-  "2026-10-13T19:25:24Z"
+  "2026-10-13T19:25:24Z",
+  "2026-10-13T19:30:31Z"
  ]
 }
