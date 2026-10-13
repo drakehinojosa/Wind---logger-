@@ -14350,7 +14350,11 @@
   "2bbbf3488a5d57c9c13ae578bad17a9d": {
    "lg": "CFB",
    "home": "Sam Houston State Bearkats",
-   "away": "Western Kentucky Hilltoppers"
+   "away": "Western Kentucky Hilltoppers",
+   "cand36": {
+    "commence": "2026-10-15T00:00:00Z",
+    "snap": "2026-10-13T11:45:27Z"
+   }
   },
   "0372910f02d1b4d9cbfef5b35bbfe439": {
    "lg": "CFB",
@@ -17265,6 +17269,7 @@
   "2026-10-13T11:30:27Z",
   "2026-10-13T11:35:24Z",
   "2026-10-13T11:40:29Z",
-  "2026-10-13T11:41:03Z"
+  "2026-10-13T11:41:03Z",
+  "2026-10-13T11:45:27Z"
  ]
 }
