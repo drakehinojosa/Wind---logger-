@@ -14556,6 +14556,16 @@
    "lg": "CFB",
    "home": "Texas A&M Aggies",
    "away": "Citadel Bulldogs"
+  },
+  "bdcdf3154bdeea4c2920375945d3f010": {
+   "lg": "CFB",
+   "home": "Clemson Tigers",
+   "away": "Charleston Southern Buccaneers"
+  },
+  "c4c9cbe2a4507d3f1235f7ca9e424a19": {
+   "lg": "CFB",
+   "home": "Stanford Cardinal",
+   "away": "Elon Phoenix"
   }
  },
  "heartbeats": [
@@ -17305,6 +17315,7 @@
   "2026-10-13T14:05:28Z",
   "2026-10-13T14:10:34Z",
   "2026-10-13T14:15:23Z",
-  "2026-10-13T14:20:22Z"
+  "2026-10-13T14:20:22Z",
+  "2026-10-13T14:25:25Z"
  ]
 }
