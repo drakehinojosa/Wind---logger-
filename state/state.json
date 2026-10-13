@@ -14551,6 +14551,11 @@
    "lg": "CFB",
    "home": "Sacramento State Hornets",
    "away": "Ohio Bobcats"
+  },
+  "8ce4565fe6dda2fbac6a893844519dcf": {
+   "lg": "CFB",
+   "home": "Texas A&M Aggies",
+   "away": "Citadel Bulldogs"
   }
  },
  "heartbeats": [
@@ -17299,6 +17304,7 @@
   "2026-10-13T14:00:33Z",
   "2026-10-13T14:04:53Z",
   "2026-10-13T14:05:28Z",
-  "2026-10-13T14:10:34Z"
+  "2026-10-13T14:10:34Z",
+  "2026-10-13T14:15:23Z"
  ]
 }
