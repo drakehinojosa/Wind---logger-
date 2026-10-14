@@ -14986,6 +14986,11 @@
    "lg": "CFB",
    "home": "Minnesota Golden Gophers",
    "away": "Iowa Hawkeyes"
+  },
+  "259f3312084b229ac2b74d414d36869f": {
+   "lg": "CFB",
+   "home": "Michigan Wolverines",
+   "away": "Indiana Hoosiers"
   }
  },
  "heartbeats": [
@@ -17796,6 +17801,7 @@
   "2026-10-14T21:55:22Z",
   "2026-10-14T22:00:31Z",
   "2026-10-14T22:05:30Z",
-  "2026-10-14T22:08:47Z"
+  "2026-10-14T22:08:47Z",
+  "2026-10-14T22:10:26Z"
  ]
 }
