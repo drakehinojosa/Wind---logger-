@@ -15,3 +15,10 @@
   - 2bbbf3488a5d57c9c13ae578bad17a9d  Western Kentucky @ Sam Houston  K 2026-10-15T00:00:00Z
 - Not a defect: Ball State @ Northwestern resolves to venue 11823 (new Ryan Field), outside the frozen venue table; remains ERROR per frozen rule. Venue additions require a separately versioned prospective protocol.
 - Deployment timestamp: (recorded in the next entry at deployment)
+
+## 2026-10-14 — Deployment record: ESPN venue lookup correction
+- Deployment commit: 4704e5a369b0c7242e03d069d34a7f0f873349b5 (pushed 2026-10-14T15:21:15Z).
+- Production logger.py SHA-256 verified: 6c4ded9047fd40bdc2c2c66cc4459d64dd757d17f5945831d3e6ff0d7f462407 (authorized hash).
+- First successful production run on the corrected code: 2026-10-14T15:25:24Z (log commit 1e218d4).
+- Verification after first run: log/entries.jsonl hash chain valid (144 lines); all 144 pre-deployment records byte-for-byte unchanged; the 8 implementation-caused ERROR entries each present exactly once with original status and finalized state.
+- Anomalies: none.
