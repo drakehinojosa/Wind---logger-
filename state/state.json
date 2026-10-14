@@ -14750,7 +14750,11 @@
   "84fb3ff9d04d9f8c6aeb5c8cadf6fbb5": {
    "lg": "CFB",
    "home": "Old Dominion Monarchs",
-   "away": "Georgia Southern Eagles"
+   "away": "Georgia Southern Eagles",
+   "cand36": {
+    "commence": "2026-10-15T23:30:00Z",
+    "snap": "2026-10-14T11:15:28Z"
+   }
   },
   "f9cb1259d9221016efb7646258f2acd5": {
    "lg": "CFB",
@@ -14775,7 +14779,11 @@
   "4bf071db691beaf54158c801a6cf093b": {
    "lg": "CFB",
    "home": "UAB Blazers",
-   "away": "East Carolina Pirates"
+   "away": "East Carolina Pirates",
+   "cand36": {
+    "commence": "2026-10-15T23:30:00Z",
+    "snap": "2026-10-14T11:15:28Z"
+   }
   },
   "f10a59f9dd66cb1aa169a293326449d9": {
    "lg": "CFB",
@@ -14959,7 +14967,6 @@
   }
  },
  "heartbeats": [
-  "2026-10-06T11:15:26Z",
   "2026-10-06T11:20:28Z",
   "2026-10-06T11:22:21Z",
   "2026-10-06T11:25:26Z",
@@ -17780,6 +17787,7 @@
   "2026-10-14T11:00:33Z",
   "2026-10-14T11:05:24Z",
   "2026-10-14T11:10:27Z",
-  "2026-10-14T11:12:39Z"
+  "2026-10-14T11:12:39Z",
+  "2026-10-14T11:15:28Z"
  ]
 }
