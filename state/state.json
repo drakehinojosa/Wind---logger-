@@ -15021,6 +15021,16 @@
    "lg": "CFB",
    "home": "Auburn Tigers",
    "away": "LSU Tigers"
+  },
+  "423bd1c75b601ccfabfca3759cc69a3f": {
+   "lg": "CFB",
+   "home": "Arizona Wildcats",
+   "away": "Iowa State Cyclones"
+  },
+  "47595bd2a188e4dab8a27dce97c5b45d": {
+   "lg": "CFB",
+   "home": "Utah Utes",
+   "away": "Houston Cougars"
   }
  },
  "heartbeats": [
@@ -17830,6 +17840,7 @@
   "2026-10-14T22:15:28Z",
   "2026-10-14T22:20:26Z",
   "2026-10-14T22:25:26Z",
-  "2026-10-14T22:30:27Z"
+  "2026-10-14T22:30:27Z",
+  "2026-10-14T22:35:26Z"
  ]
 }
