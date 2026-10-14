@@ -14981,10 +14981,14 @@
    "lg": "CFB",
    "home": "Marshall Thundering Herd",
    "away": "South Alabama Jaguars"
+  },
+  "6dab7d3b6ae25bd042a24a6e550a4f23": {
+   "lg": "CFB",
+   "home": "Minnesota Golden Gophers",
+   "away": "Iowa Hawkeyes"
   }
  },
  "heartbeats": [
-  "2026-10-06T20:05:25Z",
   "2026-10-06T20:10:31Z",
   "2026-10-06T20:15:31Z",
   "2026-10-06T20:20:30Z",
@@ -17794,6 +17798,7 @@
   "2026-10-14T19:55:29Z",
   "2026-10-14T19:59:02Z",
   "2026-10-14T20:00:31Z",
-  "2026-10-14T20:05:21Z"
+  "2026-10-14T20:05:21Z",
+  "2026-10-14T20:10:27Z"
  ]
 }
