@@ -28,14 +28,21 @@ def match_ref(lg,home,away,commence,S):
     pair=frozenset((home,away)) if lg=="NFL" else frozenset((cfb_name(home,S["cfb_names"]),cfb_name(away,S["cfb_names"])))
     c=[r for r in S["refs"] if r["lg"]==lg and frozenset((r["home"],r["away"]))==pair and abs((P(r["t"])-P(commence)).total_seconds())<=4*86400]
     return c[0] if len(c)==1 else None
-def espn_venue(lg,home,away,K):
+def espn_venue(lg,home,away,K,cfb_names):
+    # implementation fix (audited 2026-10-14): NCAAF team names are normalized on both sides with the frozen v1.1
+    # cfb_name() rules (names.json aliases + reference-schedule prefix), as in the historical venue join; NFL exact.
+    # Fails closed: unresolvable name, or zero / more than one matching ESPN event -> None (logged as unknown venue).
     url=f"https://site.api.espn.com/apis/site/v2/sports/football/{'nfl' if lg=='NFL' else 'college-football'}/scoreboard"
     p=dict(dates=K.astimezone(ET).strftime("%Y%m%d"),limit=300)
     if lg=="CFB": p["groups"]=80
+    want=frozenset((home,away)) if lg=="NFL" else frozenset((cfb_name(home,cfb_names),cfb_name(away,cfb_names)))
+    if None in want or len(want)!=2: return None
+    hits=[]
     for e in requests.get(url,params=p,timeout=60).json().get("events",[]):
-        c=e["competitions"][0]; names={t["team"].get("displayName") for t in c["competitors"]}
-        if {home,away}<=names or (home in names and away in names): return str(c.get("venue",{}).get("id"))
-    return None
+        c=e["competitions"][0]; nm=[t["team"].get("displayName") for t in c["competitors"]]
+        got=frozenset(nm) if lg=="NFL" else frozenset(cfb_name(x,cfb_names) for x in nm)
+        if got==want: hits.append(str(c.get("venue",{}).get("id")))
+    return hits[0] if len(hits)==1 and hits[0] not in ("None","") else None
 def forecast(K,D,lat,lon):
     run=wx.pick_run(D); out={}
     for s in ("gfs","hrrr"):
@@ -101,7 +108,7 @@ def main():
                     o={x["name"]:x for x in q["outcomes"]}
                     if "Under" in o and "Over" in o and o["Under"].get("point")==o["Over"].get("point"):
                         ticket=dict(book=b,rank=i+1,total=o["Under"]["point"],under_price=o["Under"]["price"],over_price=o["Over"]["price"],quote_last_update=q["last_update"],odds_snap=g["oddsD"]["snap"]); break
-            vid=espn_venue(g["lg"],g["home"],g["away"],K); v=VEN.get(vid) if vid else None
+            vid=espn_venue(g["lg"],g["home"],g["away"],K,S["cfb_names"]); v=VEN.get(vid) if vid else None
             rec.update(ticket=ticket,venue_id=vid,venue=(v or {}).get("name"))
             if not ticket: rec["status"]="M2 no hierarchy book quoted at D"
             elif not v: rec["status"]="ERROR unknown venue (not in frozen table)"
