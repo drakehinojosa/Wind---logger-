@@ -15041,6 +15041,11 @@
    "lg": "CFB",
    "home": "Texas Longhorns",
    "away": "Ole Miss Rebels"
+  },
+  "cc78a514047b7ed0d2c5a3acdf3cdc1e": {
+   "lg": "CFB",
+   "home": "Kentucky Wildcats",
+   "away": "Vanderbilt Commodores"
   }
  },
  "heartbeats": [
@@ -17849,6 +17854,7 @@
   "2026-10-14T22:25:26Z",
   "2026-10-14T22:30:27Z",
   "2026-10-14T22:35:26Z",
-  "2026-10-14T22:40:27Z"
+  "2026-10-14T22:40:27Z",
+  "2026-10-14T22:42:45Z"
  ]
 }
