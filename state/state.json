@@ -14991,11 +14991,19 @@
    "lg": "CFB",
    "home": "Michigan Wolverines",
    "away": "Indiana Hoosiers"
+  },
+  "174cf7d3d434eeaada92afb534fb2557": {
+   "lg": "CFB",
+   "home": "UCF Knights",
+   "away": "BYU Cougars"
+  },
+  "2d125f14eca5c6eb1417f126cafde7c0": {
+   "lg": "CFB",
+   "home": "Miami Hurricanes",
+   "away": "Pittsburgh Panthers"
   }
  },
  "heartbeats": [
-  "2026-10-06T22:10:28Z",
-  "2026-10-06T22:15:22Z",
   "2026-10-06T22:16:39Z",
   "2026-10-06T22:20:30Z",
   "2026-10-06T22:26:02Z",
@@ -17802,6 +17810,7 @@
   "2026-10-14T22:00:31Z",
   "2026-10-14T22:05:30Z",
   "2026-10-14T22:08:47Z",
-  "2026-10-14T22:10:26Z"
+  "2026-10-14T22:10:26Z",
+  "2026-10-14T22:15:28Z"
  ]
 }
