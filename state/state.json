@@ -15711,10 +15711,14 @@
    "lg": "CFB",
    "home": "Florida International Panthers",
    "away": "Middle Tennessee Blue Raiders"
+  },
+  "1635891ddb79191dba2be031ad6dc762": {
+   "lg": "CFB",
+   "home": "Kennesaw State Owls",
+   "away": "Liberty Flames"
   }
  },
  "heartbeats": [
-  "2026-10-07T18:20:27Z",
   "2026-10-07T18:25:25Z",
   "2026-10-07T18:26:28Z",
   "2026-10-07T18:30:29Z",
@@ -18504,6 +18508,7 @@
   "2026-10-15T18:05:30Z",
   "2026-10-15T18:10:27Z",
   "2026-10-15T18:15:28Z",
-  "2026-10-15T18:20:22Z"
+  "2026-10-15T18:20:22Z",
+  "2026-10-15T18:22:02Z"
  ]
 }
