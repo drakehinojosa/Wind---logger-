@@ -14115,7 +14115,11 @@
   "2851c11a3831feac527b6df0b34b2a2a": {
    "lg": "CFB",
    "home": "Georgia Bulldogs",
-   "away": "Auburn Tigers"
+   "away": "Auburn Tigers",
+   "cand36": {
+    "commence": "2026-10-17T19:30:00Z",
+    "snap": "2026-10-16T07:15:21Z"
+   }
   },
   "7830c18dc7e87ebf087ddded14c50de4": {
    "lg": "CFB",
@@ -14125,12 +14129,20 @@
   "5d09c85c1d67e8f9db8db560cb038027": {
    "lg": "CFB",
    "home": "Ole Miss Rebels",
-   "away": "Missouri Tigers"
+   "away": "Missouri Tigers",
+   "cand36": {
+    "commence": "2026-10-17T19:30:00Z",
+    "snap": "2026-10-16T07:15:21Z"
+   }
   },
   "9ed02ffe3e126a8ec8846278bf18d393": {
    "lg": "CFB",
    "home": "Tennessee Volunteers",
-   "away": "Alabama Crimson Tide"
+   "away": "Alabama Crimson Tide",
+   "cand36": {
+    "commence": "2026-10-17T19:30:00Z",
+    "snap": "2026-10-16T07:15:21Z"
+   }
   },
   "33f259d8951535f271a8df5c790a832e": {
    "lg": "CFB",
@@ -14145,12 +14157,20 @@
   "f8b421c996286807b6e7b8e4d5631f80": {
    "lg": "CFB",
    "home": "Michigan Wolverines",
-   "away": "Penn State Nittany Lions"
+   "away": "Penn State Nittany Lions",
+   "cand36": {
+    "commence": "2026-10-17T19:30:00Z",
+    "snap": "2026-10-16T07:15:21Z"
+   }
   },
   "9e7a1e65bd6ffb3ff108db2a5e125170": {
    "lg": "CFB",
    "home": "Duke Blue Devils",
-   "away": "North Carolina Tar Heels"
+   "away": "North Carolina Tar Heels",
+   "cand36": {
+    "commence": "2026-10-17T19:30:00Z",
+    "snap": "2026-10-16T07:15:21Z"
+   }
   },
   "5d147fefd2182aa2f5573ac03700a775": {
    "lg": "CFB",
@@ -15040,7 +15060,11 @@
   "d439d2aca5e246d9cd727f3b1e3fd443": {
    "lg": "CFB",
    "home": "Virginia Tech Hokies",
-   "away": "Georgia Tech Yellow Jackets"
+   "away": "Georgia Tech Yellow Jackets",
+   "cand36": {
+    "commence": "2026-10-17T19:30:00Z",
+    "snap": "2026-10-16T07:15:21Z"
+   }
   },
   "c92acc311e3c969f78faf7c2ec5ef5b1": {
    "lg": "CFB",
@@ -15620,7 +15644,11 @@
   "8e5b5fc6829c6204c73178807614cd97": {
    "lg": "CFB",
    "home": "Texas Tech Red Raiders",
-   "away": "Arizona State Sun Devils"
+   "away": "Arizona State Sun Devils",
+   "cand36": {
+    "commence": "2026-10-17T19:30:00Z",
+    "snap": "2026-10-16T07:15:21Z"
+   }
   },
   "84fb3ff9d04d9f8c6aeb5c8cadf6fbb5": {
    "lg": "CFB",
@@ -16035,7 +16063,11 @@
   "006c37db6769b587a0adde2067498d53": {
    "lg": "CFB",
    "home": "Eastern Michigan Eagles",
-   "away": "Toledo Rockets"
+   "away": "Toledo Rockets",
+   "cand36": {
+    "commence": "2026-10-17T19:30:00Z",
+    "snap": "2026-10-16T07:15:21Z"
+   }
   },
   "24244a1062254de107b2a7f5f79affe1": {
    "lg": "CFB",
@@ -16045,7 +16077,11 @@
   "6af8b2523c07aebb827163640d2a865d": {
    "lg": "CFB",
    "home": "Miami (OH) RedHawks",
-   "away": "Akron Zips"
+   "away": "Akron Zips",
+   "cand36": {
+    "commence": "2026-10-17T19:30:00Z",
+    "snap": "2026-10-16T07:15:21Z"
+   }
   },
   "56d8b3e4ae8cb9ce51d5ad6aedd5164e": {
    "lg": "CFB",
@@ -16055,7 +16091,11 @@
   "7926661d4efb4a5fb94233d5e8aca9df": {
    "lg": "CFB",
    "home": "Wyoming Cowboys",
-   "away": "Northern Illinois Huskies"
+   "away": "Northern Illinois Huskies",
+   "cand36": {
+    "commence": "2026-10-17T19:30:00Z",
+    "snap": "2026-10-16T07:15:21Z"
+   }
   },
   "edac5f5669470d4cc438ffe9b3d7046a": {
    "lg": "CFB",
@@ -16080,7 +16120,11 @@
   "43959d4bb3927439ced7a6bf26cc3c00": {
    "lg": "CFB",
    "home": "Air Force Falcons",
-   "away": "UNLV Rebels"
+   "away": "UNLV Rebels",
+   "cand36": {
+    "commence": "2026-10-17T19:30:00Z",
+    "snap": "2026-10-16T07:15:21Z"
+   }
   },
   "f89afd766421957193cfae45ff3aa16a": {
    "lg": "CFB",
@@ -19063,6 +19107,7 @@
   "2026-10-16T07:00:34Z",
   "2026-10-16T07:05:26Z",
   "2026-10-16T07:10:29Z",
-  "2026-10-16T07:13:57Z"
+  "2026-10-16T07:13:57Z",
+  "2026-10-16T07:15:21Z"
  ]
 }
