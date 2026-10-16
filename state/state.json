@@ -15980,7 +15980,11 @@
   "f10a59f9dd66cb1aa169a293326449d9": {
    "lg": "CFB",
    "home": "Temple Owls",
-   "away": "Charlotte 49ers"
+   "away": "Charlotte 49ers",
+   "cand36": {
+    "commence": "2026-10-17T17:00:00Z",
+    "snap": "2026-10-16T04:45:28Z"
+   }
   },
   "f8b5d3a4b35efebd4f010433778fd629": {
    "lg": "CFB",
@@ -16055,7 +16059,11 @@
   "7d7f757d2bf4cb7b6d8bbfe9589d25a2": {
    "lg": "CFB",
    "home": "Buffalo Bulls",
-   "away": "UMass Minutemen"
+   "away": "UMass Minutemen",
+   "cand36": {
+    "commence": "2026-10-17T17:00:00Z",
+    "snap": "2026-10-16T04:45:28Z"
+   }
   },
   "a9a289b7b19e28b51572d20315e6bf42": {
    "lg": "CFB",
@@ -16090,7 +16098,11 @@
   "8ce4565fe6dda2fbac6a893844519dcf": {
    "lg": "CFB",
    "home": "Texas A&M Aggies",
-   "away": "Citadel Bulldogs"
+   "away": "Citadel Bulldogs",
+   "cand36": {
+    "commence": "2026-10-17T17:00:00Z",
+    "snap": "2026-10-16T04:45:28Z"
+   }
   },
   "bdcdf3154bdeea4c2920375945d3f010": {
    "lg": "CFB",
@@ -16269,8 +16281,6 @@
   }
  },
  "heartbeats": [
-  "2026-10-08T04:40:27Z",
-  "2026-10-08T04:45:28Z",
   "2026-10-08T04:50:26Z",
   "2026-10-08T04:54:04Z",
   "2026-10-08T04:55:24Z",
@@ -19046,6 +19056,7 @@
   "2026-10-16T04:25:26Z",
   "2026-10-16T04:30:29Z",
   "2026-10-16T04:35:26Z",
-  "2026-10-16T04:40:26Z"
+  "2026-10-16T04:40:26Z",
+  "2026-10-16T04:45:28Z"
  ]
 }
