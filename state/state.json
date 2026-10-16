@@ -15840,7 +15840,11 @@
   "473d8828a17151640834e090d9eb46e4": {
    "lg": "CFB",
    "home": "Oregon State Beavers",
-   "away": "Washington State Cougars"
+   "away": "Washington State Cougars",
+   "cand36": {
+    "commence": "2026-10-17T22:00:00Z",
+    "snap": "2026-10-16T09:45:25Z"
+   }
   },
   "917d8eb9ffc25af2925d0e7e8c91a0f4": {
    "lg": "CFB",
@@ -19126,6 +19130,7 @@
   "2026-10-16T09:30:30Z",
   "2026-10-16T09:35:23Z",
   "2026-10-16T09:40:28Z",
-  "2026-10-16T09:40:50Z"
+  "2026-10-16T09:40:50Z",
+  "2026-10-16T09:45:25Z"
  ]
 }
