@@ -16110,7 +16110,11 @@
   "004aa0d62485e4264794681a6cc6c513": {
    "lg": "CFB",
    "home": "UTSA Roadrunners",
-   "away": "Navy Midshipmen"
+   "away": "Navy Midshipmen",
+   "cand36": {
+    "commence": "2026-10-18T00:00:00Z",
+    "snap": "2026-10-16T11:45:25Z"
+   }
   },
   "006c37db6769b587a0adde2067498d53": {
    "lg": "CFB",
@@ -16185,7 +16189,11 @@
   "a9a289b7b19e28b51572d20315e6bf42": {
    "lg": "CFB",
    "home": "UL Monroe Warhawks",
-   "away": "Louisiana Tech Bulldogs"
+   "away": "Louisiana Tech Bulldogs",
+   "cand36": {
+    "commence": "2026-10-18T00:00:00Z",
+    "snap": "2026-10-16T11:45:25Z"
+   }
   },
   "43959d4bb3927439ced7a6bf26cc3c00": {
    "lg": "CFB",
@@ -16419,7 +16427,6 @@
   }
  },
  "heartbeats": [
-  "2026-10-08T11:40:31Z",
   "2026-10-08T11:45:27Z",
   "2026-10-08T11:50:22Z",
   "2026-10-08T11:55:25Z",
@@ -19189,6 +19196,7 @@
   "2026-10-16T11:25:20Z",
   "2026-10-16T11:30:28Z",
   "2026-10-16T11:35:23Z",
-  "2026-10-16T11:40:27Z"
+  "2026-10-16T11:40:27Z",
+  "2026-10-16T11:45:25Z"
  ]
 }
