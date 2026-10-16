@@ -20881,6 +20881,11 @@
    "lg": "CFB",
    "home": "Sam Houston State Bearkats",
    "away": "New Mexico State Aggies"
+  },
+  "dc65142bf9a0e7652a252b2074037efa": {
+   "lg": "CFB",
+   "home": "Delaware Blue Hens",
+   "away": "Missouri State Bears"
   }
  },
  "heartbeats": [
@@ -23646,6 +23651,7 @@
   "2026-10-16T19:47:00Z",
   "2026-10-16T19:50:22Z",
   "2026-10-16T19:55:21Z",
-  "2026-10-16T20:00:31Z"
+  "2026-10-16T20:00:31Z",
+  "2026-10-16T20:05:23Z"
  ]
 }
