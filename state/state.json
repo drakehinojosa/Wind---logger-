@@ -15230,7 +15230,11 @@
   "eb7db3ae999676aa80dd5cf7dfa32c1a": {
    "lg": "CFB",
    "home": "Maryland Terrapins",
-   "away": "Rutgers Scarlet Knights"
+   "away": "Rutgers Scarlet Knights",
+   "cand36": {
+    "commence": "2026-10-17T16:30:00Z",
+    "snap": "2026-10-16T04:15:27Z"
+   }
   },
   "0763e3ed7ed8d646756e5849bac67b8d": {
    "lg": "CFB",
@@ -19041,6 +19045,7 @@
   "2026-10-16T04:00:34Z",
   "2026-10-16T04:05:23Z",
   "2026-10-16T04:10:20Z",
-  "2026-10-16T04:10:47Z"
+  "2026-10-16T04:10:47Z",
+  "2026-10-16T04:15:27Z"
  ]
 }
