@@ -14150,7 +14150,11 @@
   "33f259d8951535f271a8df5c790a832e": {
    "lg": "CFB",
    "home": "Miami Hurricanes",
-   "away": "Florida State Seminoles"
+   "away": "Florida State Seminoles",
+   "cand36": {
+    "commence": "2026-10-17T23:00:00Z",
+    "snap": "2026-10-16T10:45:26Z"
+   }
   },
   "bd2d52fadefed8a6174e73c84cca9ce3": {
    "lg": "CFB",
@@ -15075,7 +15079,11 @@
   "c92acc311e3c969f78faf7c2ec5ef5b1": {
    "lg": "CFB",
    "home": "Vanderbilt Commodores",
-   "away": "Arkansas Razorbacks"
+   "away": "Arkansas Razorbacks",
+   "cand36": {
+    "commence": "2026-10-17T23:00:00Z",
+    "snap": "2026-10-16T10:45:26Z"
+   }
   },
   "c67bc7b2b2b6bf3571ece5117facad42": {
    "lg": "CFB",
@@ -15465,7 +15473,11 @@
   "e45fd12f3d9475fd0941509e7429b596": {
    "lg": "CFB",
    "home": "Baylor Bears",
-   "away": "TCU Horned Frogs"
+   "away": "TCU Horned Frogs",
+   "cand36": {
+    "commence": "2026-10-17T23:00:00Z",
+    "snap": "2026-10-16T10:45:26Z"
+   }
   },
   "5dd30262ad321dcff02c37d7619376e4": {
    "lg": "CFB",
@@ -16085,7 +16097,11 @@
   "24244a1062254de107b2a7f5f79affe1": {
    "lg": "CFB",
    "home": "North Dakota State Bison",
-   "away": "Nevada Wolf Pack"
+   "away": "Nevada Wolf Pack",
+   "cand36": {
+    "commence": "2026-10-17T23:00:00Z",
+    "snap": "2026-10-16T10:45:26Z"
+   }
   },
   "6af8b2523c07aebb827163640d2a865d": {
    "lg": "CFB",
@@ -16100,7 +16116,11 @@
   "56d8b3e4ae8cb9ce51d5ad6aedd5164e": {
    "lg": "CFB",
    "home": "South Florida Bulls",
-   "away": "Kent State Golden Flashes"
+   "away": "Kent State Golden Flashes",
+   "cand36": {
+    "commence": "2026-10-17T23:00:00Z",
+    "snap": "2026-10-16T10:45:26Z"
+   }
   },
   "7926661d4efb4a5fb94233d5e8aca9df": {
    "lg": "CFB",
@@ -16150,7 +16170,11 @@
   "f89afd766421957193cfae45ff3aa16a": {
    "lg": "CFB",
    "home": "Southern Mississippi Golden Eagles",
-   "away": "Arkansas State Red Wolves"
+   "away": "Arkansas State Red Wolves",
+   "cand36": {
+    "commence": "2026-10-17T23:00:00Z",
+    "snap": "2026-10-16T10:45:26Z"
+   }
   },
   "930dea051dca737443eb7aec0b650f45": {
    "lg": "CFB",
@@ -19129,6 +19153,7 @@
   "2026-10-16T10:25:27Z",
   "2026-10-16T10:30:29Z",
   "2026-10-16T10:35:18Z",
-  "2026-10-16T10:40:28Z"
+  "2026-10-16T10:40:28Z",
+  "2026-10-16T10:45:26Z"
  ]
 }
