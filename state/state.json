@@ -15324,7 +15324,8 @@
    "cand36": {
     "commence": "2026-10-18T02:15:00Z",
     "snap": "2026-10-16T14:10:27Z"
-   }
+   },
+   "K": "2026-10-18T02:15:00Z"
   },
   "755ef069f0fe7ee21fbda33f7c93247e": {
    "lg": "CFB",
@@ -15879,7 +15880,11 @@
   "b5e637cf502d6d5f408af440ea2d591d": {
    "lg": "CFB",
    "home": "California Golden Bears",
-   "away": "Wake Forest Demon Deacons"
+   "away": "Wake Forest Demon Deacons",
+   "cand36": {
+    "commence": "2026-10-18T02:30:00Z",
+    "snap": "2026-10-16T14:15:29Z"
+   }
   },
   "473d8828a17151640834e090d9eb46e4": {
    "lg": "CFB",
@@ -15894,7 +15899,11 @@
   "917d8eb9ffc25af2925d0e7e8c91a0f4": {
    "lg": "CFB",
    "home": "San Diego State Aztecs",
-   "away": "Fresno State Bulldogs"
+   "away": "Fresno State Bulldogs",
+   "cand36": {
+    "commence": "2026-10-18T02:30:00Z",
+    "snap": "2026-10-16T14:15:29Z"
+   }
   },
   "4bf071db691beaf54158c801a6cf093b": {
    "lg": "CFB",
@@ -16109,7 +16118,11 @@
   "dd062699e8f42bd17509cfba1952e286": {
    "lg": "CFB",
    "home": "Hawaii Rainbow Warriors",
-   "away": "New Mexico Lobos"
+   "away": "New Mexico Lobos",
+   "cand36": {
+    "commence": "2026-10-18T02:30:00Z",
+    "snap": "2026-10-16T14:15:29Z"
+   }
   },
   "004aa0d62485e4264794681a6cc6c513": {
    "lg": "CFB",
@@ -16443,8 +16456,6 @@
   }
  },
  "heartbeats": [
-  "2026-10-08T14:10:30Z",
-  "2026-10-08T14:15:25Z",
   "2026-10-08T14:20:23Z",
   "2026-10-08T14:25:22Z",
   "2026-10-08T14:29:39Z",
@@ -19211,6 +19222,7 @@
   "2026-10-16T14:00:26Z",
   "2026-10-16T14:05:26Z",
   "2026-10-16T14:05:45Z",
-  "2026-10-16T14:10:27Z"
+  "2026-10-16T14:10:27Z",
+  "2026-10-16T14:15:29Z"
  ]
 }
