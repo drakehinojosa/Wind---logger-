@@ -14295,12 +14295,20 @@
   "45b2690b350ed45145c7a716b18e8e66": {
    "lg": "NFL",
    "home": "Las Vegas Raiders",
-   "away": "Buffalo Bills"
+   "away": "Buffalo Bills",
+   "cand36": {
+    "commence": "2026-10-18T20:25:00Z",
+    "snap": "2026-10-17T08:10:23Z"
+   }
   },
   "20fefae8c296247460ba5773caa42218": {
    "lg": "NFL",
    "home": "Kansas City Chiefs",
-   "away": "Los Angeles Chargers"
+   "away": "Los Angeles Chargers",
+   "cand36": {
+    "commence": "2026-10-18T20:25:00Z",
+    "snap": "2026-10-17T08:10:23Z"
+   }
   },
   "82fd5a159fa130e67abab93a9537f70b": {
    "lg": "NFL",
@@ -24809,7 +24817,6 @@
   }
  },
  "heartbeats": [
-  "2026-10-09T08:05:26Z",
   "2026-10-09T08:10:33Z",
   "2026-10-09T08:13:27Z",
   "2026-10-09T08:15:26Z",
@@ -27562,6 +27569,7 @@
   "2026-10-17T07:51:18Z",
   "2026-10-17T07:55:26Z",
   "2026-10-17T08:00:29Z",
-  "2026-10-17T08:05:20Z"
+  "2026-10-17T08:05:20Z",
+  "2026-10-17T08:10:23Z"
  ]
 }
