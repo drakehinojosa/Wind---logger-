@@ -14215,37 +14215,65 @@
   "0b0b582b32b09ab6ff6664ffae0c9653": {
    "lg": "NFL",
    "home": "New England Patriots",
-   "away": "New York Jets"
+   "away": "New York Jets",
+   "cand36": {
+    "commence": "2026-10-18T17:00:00Z",
+    "snap": "2026-10-17T04:45:26Z"
+   }
   },
   "27f3994841ce8081c0b7349cf3d1e3d7": {
    "lg": "NFL",
    "home": "Tampa Bay Buccaneers",
-   "away": "Pittsburgh Steelers"
+   "away": "Pittsburgh Steelers",
+   "cand36": {
+    "commence": "2026-10-18T17:00:00Z",
+    "snap": "2026-10-17T04:45:26Z"
+   }
   },
   "7c312fdf24fb35f58b0e07c2932cc997": {
    "lg": "NFL",
    "home": "Atlanta Falcons",
-   "away": "Chicago Bears"
+   "away": "Chicago Bears",
+   "cand36": {
+    "commence": "2026-10-18T17:00:00Z",
+    "snap": "2026-10-17T04:45:26Z"
+   }
   },
   "e86227938fd3cf008fc5648fb5128344": {
    "lg": "NFL",
    "home": "Cleveland Browns",
-   "away": "Baltimore Ravens"
+   "away": "Baltimore Ravens",
+   "cand36": {
+    "commence": "2026-10-18T17:00:00Z",
+    "snap": "2026-10-17T04:45:26Z"
+   }
   },
   "84aa9e190e625d7e9cd67e1f157a45b4": {
    "lg": "NFL",
    "home": "Indianapolis Colts",
-   "away": "Tennessee Titans"
+   "away": "Tennessee Titans",
+   "cand36": {
+    "commence": "2026-10-18T17:00:00Z",
+    "snap": "2026-10-17T04:45:26Z"
+   }
   },
   "caca2d752fe1a1779029082e95332fcc": {
    "lg": "NFL",
    "home": "Philadelphia Eagles",
-   "away": "Carolina Panthers"
+   "away": "Carolina Panthers",
+   "cand36": {
+    "commence": "2026-10-18T17:00:00Z",
+    "snap": "2026-10-17T04:45:26Z"
+   }
   },
   "1cf74afd313e9fd300e1462012b174cb": {
    "lg": "NFL",
    "home": "New York Giants",
-   "away": "New Orleans Saints"
+   "away": "New Orleans Saints",
+   "cand36": {
+    "commence": "2026-10-18T17:00:00Z",
+    "snap": "2026-10-17T04:45:26Z"
+   }
   },
   "3729ac6d2a66b642850caf2044cdc658": {
    "lg": "NFL",
@@ -24769,7 +24797,6 @@
   }
  },
  "heartbeats": [
-  "2026-10-09T04:41:04Z",
   "2026-10-09T04:45:29Z",
   "2026-10-09T04:49:55Z",
   "2026-10-09T04:50:27Z",
@@ -27525,6 +27552,7 @@
   "2026-10-17T04:30:29Z",
   "2026-10-17T04:34:52Z",
   "2026-10-17T04:35:24Z",
-  "2026-10-17T04:40:30Z"
+  "2026-10-17T04:40:30Z",
+  "2026-10-17T04:45:26Z"
  ]
 }
