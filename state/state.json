@@ -27061,6 +27061,16 @@
    "lg": "CFB",
    "home": "Toledo Rockets",
    "away": "Western Michigan Broncos"
+  },
+  "a337612e92dd80f7ba7cab853ff409d0": {
+   "lg": "CFB",
+   "home": "Troy Trojans",
+   "away": "UL Monroe Warhawks"
+  },
+  "7d846d56825d93b254d23d0929bba224": {
+   "lg": "CFB",
+   "home": "Louisiana Tech Bulldogs",
+   "away": "Old Dominion Monarchs"
   }
  },
  "heartbeats": [
@@ -29788,6 +29798,7 @@
   "2026-10-18T15:30:20Z",
   "2026-10-18T15:30:44Z",
   "2026-10-18T15:35:21Z",
-  "2026-10-18T15:40:29Z"
+  "2026-10-18T15:40:29Z",
+  "2026-10-18T15:45:21Z"
  ]
 }
