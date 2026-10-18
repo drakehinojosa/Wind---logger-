@@ -27046,10 +27046,19 @@
    "lg": "CFB",
    "home": "Navy Midshipmen",
    "away": "North Texas Mean Green"
+  },
+  "1d2bda7e3fb33e2ff67ddf7ced277a53": {
+   "lg": "CFB",
+   "home": "Northern Illinois Huskies",
+   "away": "Hawaii Rainbow Warriors"
+  },
+  "1a5a1c924e5dec296e50299139791794": {
+   "lg": "CFB",
+   "home": "Ohio Bobcats",
+   "away": "Eastern Michigan Eagles"
   }
  },
  "heartbeats": [
-  "2026-10-10T15:32:05Z",
   "2026-10-10T15:35:24Z",
   "2026-10-10T15:40:21Z",
   "2026-10-10T15:45:23Z",
@@ -29774,6 +29783,7 @@
   "2026-10-18T15:20:25Z",
   "2026-10-18T15:25:24Z",
   "2026-10-18T15:30:20Z",
-  "2026-10-18T15:30:44Z"
+  "2026-10-18T15:30:44Z",
+  "2026-10-18T15:35:21Z"
  ]
 }
