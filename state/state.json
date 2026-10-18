@@ -26971,10 +26971,19 @@
    "lg": "CFB",
    "home": "North Carolina Tar Heels",
    "away": "Syracuse Orange"
+  },
+  "a28a6841bdc11350063d5e6d57fbd577": {
+   "lg": "CFB",
+   "home": "Oklahoma State Cowboys",
+   "away": "Colorado Buffaloes"
+  },
+  "f417c5ab864e0751355921f5d22f4b25": {
+   "lg": "CFB",
+   "home": "Arizona State Sun Devils",
+   "away": "Kansas State Wildcats"
   }
  },
  "heartbeats": [
-  "2026-10-10T07:30:26Z",
   "2026-10-10T07:32:30Z",
   "2026-10-10T07:35:23Z",
   "2026-10-10T07:40:25Z",
@@ -29707,6 +29716,7 @@
   "2026-10-18T07:10:25Z",
   "2026-10-18T07:15:25Z",
   "2026-10-18T07:20:27Z",
-  "2026-10-18T07:25:22Z"
+  "2026-10-18T07:25:22Z",
+  "2026-10-18T07:30:30Z"
  ]
 }
