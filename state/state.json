@@ -26951,6 +26951,11 @@
    "lg": "CFB",
    "home": "Northwestern Wildcats",
    "away": "Rutgers Scarlet Knights"
+  },
+  "ca109267525bde74bd35cecd176185be": {
+   "lg": "CFB",
+   "home": "Mississippi State Bulldogs",
+   "away": "Oklahoma Sooners"
   }
  },
  "heartbeats": [
@@ -29688,6 +29693,7 @@
   "2026-10-18T05:35:24Z",
   "2026-10-18T05:40:26Z",
   "2026-10-18T05:45:25Z",
-  "2026-10-18T05:50:26Z"
+  "2026-10-18T05:50:26Z",
+  "2026-10-18T05:53:15Z"
  ]
 }
