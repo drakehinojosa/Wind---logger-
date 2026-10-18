@@ -27081,10 +27081,14 @@
    "lg": "CFB",
    "home": "Nevada Wolf Pack",
    "away": "San Jose State Spartans"
+  },
+  "c6283d3fd69d830d2f74d8ef27bdefab": {
+   "lg": "CFB",
+   "home": "Arkansas State Red Wolves",
+   "away": "Georgia State Panthers"
   }
  },
  "heartbeats": [
-  "2026-10-10T15:50:43Z",
   "2026-10-10T15:55:22Z",
   "2026-10-10T16:00:32Z",
   "2026-10-10T16:04:35Z",
@@ -29808,6 +29812,7 @@
   "2026-10-18T15:35:21Z",
   "2026-10-18T15:40:29Z",
   "2026-10-18T15:45:21Z",
-  "2026-10-18T15:50:24Z"
+  "2026-10-18T15:50:24Z",
+  "2026-10-18T15:55:21Z"
  ]
 }
