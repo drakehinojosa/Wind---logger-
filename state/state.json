@@ -26921,6 +26921,11 @@
    "lg": "CFB",
    "home": "Virginia Cavaliers",
    "away": "Duke Blue Devils"
+  },
+  "c3dd6e7e07382aa22aca6458aea01f2d": {
+   "lg": "CFB",
+   "home": "UConn Huskies",
+   "away": "UMass Minutemen"
   }
  },
  "heartbeats": [
@@ -29660,6 +29665,7 @@
   "2026-10-18T04:20:01Z",
   "2026-10-18T04:20:27Z",
   "2026-10-18T04:25:20Z",
-  "2026-10-18T04:30:30Z"
+  "2026-10-18T04:30:30Z",
+  "2026-10-18T04:35:25Z"
  ]
 }
