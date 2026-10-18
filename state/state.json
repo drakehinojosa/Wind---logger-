@@ -26936,10 +26936,19 @@
    "lg": "CFB",
    "home": "UCLA Bruins",
    "away": "Michigan State Spartans"
+  },
+  "1612c641ab70fd57963596255b9cb69c": {
+   "lg": "CFB",
+   "home": "Wyoming Cowboys",
+   "away": "Air Force Falcons"
+  },
+  "027c66400a752f72c7a21ce15a3b1743": {
+   "lg": "CFB",
+   "home": "Stanford Cardinal",
+   "away": "NC State Wolfpack"
   }
  },
  "heartbeats": [
-  "2026-10-10T04:50:28Z",
   "2026-10-10T04:55:29Z",
   "2026-10-10T05:00:34Z",
   "2026-10-10T05:01:32Z",
@@ -29675,6 +29684,7 @@
   "2026-10-18T04:35:25Z",
   "2026-10-18T04:40:29Z",
   "2026-10-18T04:45:27Z",
-  "2026-10-18T04:50:27Z"
+  "2026-10-18T04:50:27Z",
+  "2026-10-18T04:54:30Z"
  ]
 }
