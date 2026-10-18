@@ -27021,6 +27021,11 @@
    "lg": "CFB",
    "home": "Florida Atlantic Owls",
    "away": "Rice Owls"
+  },
+  "7b91563277082145d844f94b9ef1a8a6": {
+   "lg": "CFB",
+   "home": "Central Michigan Chippewas",
+   "away": "Miami (OH) RedHawks"
   }
  },
  "heartbeats": [
@@ -29748,6 +29753,7 @@
   "2026-10-18T15:02:07Z",
   "2026-10-18T15:05:24Z",
   "2026-10-18T15:10:31Z",
-  "2026-10-18T15:15:24Z"
+  "2026-10-18T15:15:24Z",
+  "2026-10-18T15:20:25Z"
  ]
 }
