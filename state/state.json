@@ -27026,10 +27026,24 @@
    "lg": "CFB",
    "home": "Central Michigan Chippewas",
    "away": "Miami (OH) RedHawks"
+  },
+  "e7321bb418f765df74afd2851bd0fade": {
+   "lg": "CFB",
+   "home": "Kent State Golden Flashes",
+   "away": "Akron Zips"
+  },
+  "b4b3b6c003cd39a6258130ad906d0025": {
+   "lg": "CFB",
+   "home": "Ball State Cardinals",
+   "away": "Sacramento State Hornets"
+  },
+  "20d8411740b919c4478bd28a6dd751aa": {
+   "lg": "CFB",
+   "home": "Buffalo Bulls",
+   "away": "Bowling Green Falcons"
   }
  },
  "heartbeats": [
-  "2026-10-10T15:20:27Z",
   "2026-10-10T15:25:28Z",
   "2026-10-10T15:30:27Z",
   "2026-10-10T15:32:05Z",
@@ -29754,6 +29768,7 @@
   "2026-10-18T15:05:24Z",
   "2026-10-18T15:10:31Z",
   "2026-10-18T15:15:24Z",
-  "2026-10-18T15:20:25Z"
+  "2026-10-18T15:20:25Z",
+  "2026-10-18T15:25:24Z"
  ]
 }
