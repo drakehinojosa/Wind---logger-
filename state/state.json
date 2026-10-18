@@ -26981,11 +26981,19 @@
    "lg": "CFB",
    "home": "Arizona State Sun Devils",
    "away": "Kansas State Wildcats"
+  },
+  "1067cba701eaa40c3724cceda30524c6": {
+   "lg": "CFB",
+   "home": "TCU Horned Frogs",
+   "away": "West Virginia Mountaineers"
+  },
+  "8a67420bfc49f0bcf8c92bc4c08be602": {
+   "lg": "CFB",
+   "home": "Washington State Cougars",
+   "away": "Boise State Broncos"
   }
  },
  "heartbeats": [
-  "2026-10-10T07:32:30Z",
-  "2026-10-10T07:35:23Z",
   "2026-10-10T07:40:25Z",
   "2026-10-10T07:45:26Z",
   "2026-10-10T07:50:26Z",
@@ -29717,6 +29725,7 @@
   "2026-10-18T07:15:25Z",
   "2026-10-18T07:20:27Z",
   "2026-10-18T07:25:22Z",
-  "2026-10-18T07:30:30Z"
+  "2026-10-18T07:30:30Z",
+  "2026-10-18T07:35:24Z"
  ]
 }
