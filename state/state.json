@@ -27836,11 +27836,54 @@
    "lg": "NFL",
    "home": "New York Jets",
    "away": "Las Vegas Raiders"
+  },
+  "c93c421e5fa46031a43162d111d981d0": {
+   "lg": "NFL",
+   "home": "Buffalo Bills",
+   "away": "Baltimore Ravens"
+  },
+  "9c5d8f57e0ba0fbd9ef436c1f0898f99": {
+   "lg": "NFL",
+   "home": "Cincinnati Bengals",
+   "away": "Tennessee Titans"
+  },
+  "ab5ab731ab655bd6308bc7a922275518": {
+   "lg": "NFL",
+   "home": "Pittsburgh Steelers",
+   "away": "Cleveland Browns"
+  },
+  "159dbf0253dd2038eda2212f84387f0c": {
+   "lg": "NFL",
+   "home": "Jacksonville Jaguars",
+   "away": "Indianapolis Colts"
+  },
+  "2ff84d3f6053d083c8c0a5bebf7cdd4c": {
+   "lg": "NFL",
+   "home": "Los Angeles Rams",
+   "away": "Los Angeles Chargers"
+  },
+  "f2a036d5edf483a277880014861e78ad": {
+   "lg": "NFL",
+   "home": "Denver Broncos",
+   "away": "Kansas City Chiefs"
+  },
+  "05405af79752f5e742cdf50b61f6745e": {
+   "lg": "NFL",
+   "home": "Miami Dolphins",
+   "away": "New England Patriots"
+  },
+  "b9c60db63b1a19ad319f24b33c0defe8": {
+   "lg": "NFL",
+   "home": "Washington Commanders",
+   "away": "Philadelphia Eagles"
+  },
+  "7d664fbcd39350e559d83c0068ba7169": {
+   "lg": "NFL",
+   "home": "Seattle Seahawks",
+   "away": "Chicago Bears"
   }
  },
  "heartbeats": [
-  "2026-10-12T19:59:19Z",
-  "2026-10-12T20:00:31Z",
   "2026-10-12T20:05:26Z",
   "2026-10-12T20:10:23Z",
   "2026-10-12T20:15:27Z",
@@ -30505,6 +30548,7 @@
   "2026-10-20T19:45:26Z",
   "2026-10-20T19:50:23Z",
   "2026-10-20T19:55:23Z",
-  "2026-10-20T19:56:16Z"
+  "2026-10-20T19:56:16Z",
+  "2026-10-20T20:00:34Z"
  ]
 }
