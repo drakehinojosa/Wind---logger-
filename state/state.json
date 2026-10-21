@@ -28131,6 +28131,11 @@
    "lg": "CFB",
    "home": "Indiana Hoosiers",
    "away": "Minnesota Golden Gophers"
+  },
+  "096584989b4dd0a84650c37eb980a8b3": {
+   "lg": "CFB",
+   "home": "Oklahoma Sooners",
+   "away": "South Carolina Gamecocks"
   }
  },
  "heartbeats": [
@@ -30778,6 +30783,7 @@
   "2026-10-21T22:15:27Z",
   "2026-10-21T22:20:29Z",
   "2026-10-21T22:25:25Z",
-  "2026-10-21T22:30:29Z"
+  "2026-10-21T22:30:29Z",
+  "2026-10-21T22:35:25Z"
  ]
 }
