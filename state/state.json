@@ -28086,6 +28086,16 @@
    "lg": "CFB",
    "home": "USC Trojans",
    "away": "Ohio State Buckeyes"
+  },
+  "e916f49c82de2ce0b1844ee9f6deccfa": {
+   "lg": "CFB",
+   "home": "Navy Midshipmen",
+   "away": "Notre Dame Fighting Irish"
+  },
+  "85b5947ccfe102a2fa2179d54c83ae31": {
+   "lg": "CFB",
+   "home": "North Carolina Tar Heels",
+   "away": "Miami Hurricanes"
   }
  },
  "heartbeats": [
@@ -30733,6 +30743,7 @@
   "2026-10-21T21:42:30Z",
   "2026-10-21T21:45:24Z",
   "2026-10-21T21:50:27Z",
-  "2026-10-21T21:55:25Z"
+  "2026-10-21T21:55:25Z",
+  "2026-10-21T22:00:31Z"
  ]
 }
