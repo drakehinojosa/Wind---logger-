@@ -28851,11 +28851,19 @@
    "lg": "CFB",
    "home": "Arkansas Razorbacks",
    "away": "Missouri Tigers"
+  },
+  "877d5834acad37b6142a835438c23001": {
+   "lg": "CFB",
+   "home": "Nebraska Cornhuskers",
+   "away": "Washington Huskies"
+  },
+  "d0126c335a51772c70c76e17ca06afb3": {
+   "lg": "CFB",
+   "home": "Fresno State Bulldogs",
+   "away": "Oregon State Beavers"
   }
  },
  "heartbeats": [
-  "2026-10-14T19:45:26Z",
-  "2026-10-14T19:50:24Z",
   "2026-10-14T19:55:29Z",
   "2026-10-14T19:59:02Z",
   "2026-10-14T20:00:31Z",
@@ -31498,6 +31506,7 @@
   "2026-10-22T19:35:24Z",
   "2026-10-22T19:39:45Z",
   "2026-10-22T19:40:24Z",
-  "2026-10-22T19:45:23Z"
+  "2026-10-22T19:45:23Z",
+  "2026-10-22T19:50:28Z"
  ]
 }
