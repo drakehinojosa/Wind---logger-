@@ -28846,6 +28846,11 @@
    "lg": "CFB",
    "home": "New Mexico State Aggies",
    "away": "Jacksonville State Gamecocks"
+  },
+  "c6533cfcdfb0860d723a5fd9b9381098": {
+   "lg": "CFB",
+   "home": "Arkansas Razorbacks",
+   "away": "Missouri Tigers"
   }
  },
  "heartbeats": [
@@ -31492,6 +31497,7 @@
   "2026-10-22T19:25:23Z",
   "2026-10-22T19:30:32Z",
   "2026-10-22T19:35:24Z",
-  "2026-10-22T19:39:45Z"
+  "2026-10-22T19:39:45Z",
+  "2026-10-22T19:40:24Z"
  ]
 }
