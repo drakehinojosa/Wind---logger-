@@ -29690,17 +29690,29 @@
   "7d846d56825d93b254d23d0929bba224": {
    "lg": "CFB",
    "home": "Louisiana Tech Bulldogs",
-   "away": "Old Dominion Monarchs"
+   "away": "Old Dominion Monarchs",
+   "cand36": {
+    "commence": "2026-10-24T21:00:00Z",
+    "snap": "2026-10-23T08:45:26Z"
+   }
   },
   "8e7bee2f3b66bdb4f992e30400aca4cb": {
    "lg": "CFB",
    "home": "Southern Mississippi Golden Eagles",
-   "away": "Louisiana Ragin Cajuns"
+   "away": "Louisiana Ragin Cajuns",
+   "cand36": {
+    "commence": "2026-10-24T21:00:00Z",
+    "snap": "2026-10-23T08:45:26Z"
+   }
   },
   "c8b1ac2d988cf0d2c90200c8731bcde1": {
    "lg": "CFB",
    "home": "Nevada Wolf Pack",
-   "away": "San Jose State Spartans"
+   "away": "San Jose State Spartans",
+   "cand36": {
+    "commence": "2026-10-24T21:00:00Z",
+    "snap": "2026-10-23T08:45:26Z"
+   }
   },
   "c6283d3fd69d830d2f74d8ef27bdefab": {
    "lg": "CFB",
@@ -29874,7 +29886,6 @@
   }
  },
  "heartbeats": [
-  "2026-10-15T08:45:24Z",
   "2026-10-15T08:50:25Z",
   "2026-10-15T08:55:26Z",
   "2026-10-15T09:00:31Z",
@@ -32515,6 +32526,7 @@
   "2026-10-23T08:29:30Z",
   "2026-10-23T08:30:26Z",
   "2026-10-23T08:35:24Z",
-  "2026-10-23T08:40:26Z"
+  "2026-10-23T08:40:26Z",
+  "2026-10-23T08:45:26Z"
  ]
 }
