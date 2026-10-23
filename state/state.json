@@ -27415,7 +27415,11 @@
   "440de8df25b4cca8ebcecb7431bbb5c0": {
    "lg": "CFB",
    "home": "Wisconsin Badgers",
-   "away": "USC Trojans"
+   "away": "USC Trojans",
+   "cand36": {
+    "commence": "2026-10-24T23:30:00Z",
+    "snap": "2026-10-23T11:15:29Z"
+   }
   },
   "1f2a24570e2ca6de4516eae60b021507": {
    "lg": "CFB",
@@ -27430,7 +27434,11 @@
   "423bd1c75b601ccfabfca3759cc69a3f": {
    "lg": "CFB",
    "home": "Arizona Wildcats",
-   "away": "Iowa State Cyclones"
+   "away": "Iowa State Cyclones",
+   "cand36": {
+    "commence": "2026-10-24T23:30:00Z",
+    "snap": "2026-10-23T11:15:29Z"
+   }
   },
   "47595bd2a188e4dab8a27dce97c5b45d": {
    "lg": "CFB",
@@ -27450,12 +27458,20 @@
   "df510525b83238b6e856c80c353bb32a": {
    "lg": "CFB",
    "home": "Texas Longhorns",
-   "away": "Ole Miss Rebels"
+   "away": "Ole Miss Rebels",
+   "cand36": {
+    "commence": "2026-10-24T23:30:00Z",
+    "snap": "2026-10-23T11:15:29Z"
+   }
   },
   "cc78a514047b7ed0d2c5a3acdf3cdc1e": {
    "lg": "CFB",
    "home": "Kentucky Wildcats",
-   "away": "Vanderbilt Commodores"
+   "away": "Vanderbilt Commodores",
+   "cand36": {
+    "commence": "2026-10-24T23:30:00Z",
+    "snap": "2026-10-23T11:15:29Z"
+   }
   },
   "ebe9883d9cb488e233e6c45cfa009008": {
    "lg": "CFB",
@@ -29530,7 +29546,11 @@
   "d73ad8085e6fe1f88a0f79d9538083d6": {
    "lg": "CFB",
    "home": "North Carolina Tar Heels",
-   "away": "Syracuse Orange"
+   "away": "Syracuse Orange",
+   "cand36": {
+    "commence": "2026-10-24T23:30:00Z",
+    "snap": "2026-10-23T11:15:29Z"
+   }
   },
   "a28a6841bdc11350063d5e6d57fbd577": {
    "lg": "CFB",
@@ -29595,7 +29615,11 @@
   "c4e171dd82e86c3a4dd50d4d3b54edab": {
    "lg": "CFB",
    "home": "Texas State Bobcats",
-   "away": "Utah State Aggies"
+   "away": "Utah State Aggies",
+   "cand36": {
+    "commence": "2026-10-24T23:30:00Z",
+    "snap": "2026-10-23T11:15:29Z"
+   }
   },
   "c5223791e733b6bc0744618614b007b7": {
    "lg": "CFB",
@@ -29914,8 +29938,6 @@
   }
  },
  "heartbeats": [
-  "2026-10-15T11:10:31Z",
-  "2026-10-15T11:15:26Z",
   "2026-10-15T11:20:27Z",
   "2026-10-15T11:25:24Z",
   "2026-10-15T11:29:34Z",
@@ -32556,6 +32578,7 @@
   "2026-10-23T10:56:32Z",
   "2026-10-23T11:00:29Z",
   "2026-10-23T11:05:27Z",
-  "2026-10-23T11:10:28Z"
+  "2026-10-23T11:10:28Z",
+  "2026-10-23T11:15:29Z"
  ]
 }
