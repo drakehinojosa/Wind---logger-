@@ -29539,7 +29539,8 @@
    "cand36": {
     "commence": "2026-10-24T19:45:00Z",
     "snap": "2026-10-23T07:40:29Z"
-   }
+   },
+   "K": "2026-10-24T19:45:00Z"
   },
   "1067cba701eaa40c3724cceda30524c6": {
    "lg": "CFB",
@@ -29659,7 +29660,11 @@
   "1a5a1c924e5dec296e50299139791794": {
    "lg": "CFB",
    "home": "Ohio Bobcats",
-   "away": "Eastern Michigan Eagles"
+   "away": "Eastern Michigan Eagles",
+   "cand36": {
+    "commence": "2026-10-24T20:00:00Z",
+    "snap": "2026-10-23T07:45:27Z"
+   }
   },
   "1388547b792afa0aa6769aa1b7645b28": {
    "lg": "CFB",
@@ -29674,7 +29679,11 @@
   "a337612e92dd80f7ba7cab853ff409d0": {
    "lg": "CFB",
    "home": "Troy Trojans",
-   "away": "UL Monroe Warhawks"
+   "away": "UL Monroe Warhawks",
+   "cand36": {
+    "commence": "2026-10-24T20:00:00Z",
+    "snap": "2026-10-23T07:45:27Z"
+   }
   },
   "7d846d56825d93b254d23d0929bba224": {
    "lg": "CFB",
@@ -32504,6 +32513,7 @@
   "2026-10-23T07:25:27Z",
   "2026-10-23T07:30:30Z",
   "2026-10-23T07:35:25Z",
-  "2026-10-23T07:40:29Z"
+  "2026-10-23T07:40:29Z",
+  "2026-10-23T07:45:27Z"
  ]
 }
