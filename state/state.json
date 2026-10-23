@@ -27405,7 +27405,11 @@
   "04db3b581ae63446a409f2ad30868e20": {
    "lg": "CFB",
    "home": "Clemson Tigers",
-   "away": "Virginia Tech Hokies"
+   "away": "Virginia Tech Hokies",
+   "cand36": {
+    "commence": "2026-10-24T23:00:00Z",
+    "snap": "2026-10-23T10:45:28Z"
+   }
   },
   "440de8df25b4cca8ebcecb7431bbb5c0": {
    "lg": "CFB",
@@ -29530,7 +29534,11 @@
   "a28a6841bdc11350063d5e6d57fbd577": {
    "lg": "CFB",
    "home": "Oklahoma State Cowboys",
-   "away": "Colorado Buffaloes"
+   "away": "Colorado Buffaloes",
+   "cand36": {
+    "commence": "2026-10-24T23:00:00Z",
+    "snap": "2026-10-23T10:45:28Z"
+   }
   },
   "f417c5ab864e0751355921f5d22f4b25": {
    "lg": "CFB",
@@ -29730,7 +29738,11 @@
   "c6283d3fd69d830d2f74d8ef27bdefab": {
    "lg": "CFB",
    "home": "Arkansas State Red Wolves",
-   "away": "Georgia State Panthers"
+   "away": "Georgia State Panthers",
+   "cand36": {
+    "commence": "2026-10-24T23:00:00Z",
+    "snap": "2026-10-23T10:45:28Z"
+   }
   },
   "d99b11b38d1cf1cbb334246263c53ac9": {
    "lg": "CFB",
@@ -29899,8 +29911,6 @@
   }
  },
  "heartbeats": [
-  "2026-10-15T10:40:27Z",
-  "2026-10-15T10:45:21Z",
   "2026-10-15T10:50:23Z",
   "2026-10-15T10:55:24Z",
   "2026-10-15T10:56:10Z",
@@ -32541,6 +32551,7 @@
   "2026-10-23T10:25:24Z",
   "2026-10-23T10:30:27Z",
   "2026-10-23T10:35:20Z",
-  "2026-10-23T10:40:23Z"
+  "2026-10-23T10:40:23Z",
+  "2026-10-23T10:45:28Z"
  ]
 }
