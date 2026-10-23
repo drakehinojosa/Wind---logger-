@@ -27355,7 +27355,11 @@
   "6dab7d3b6ae25bd042a24a6e550a4f23": {
    "lg": "CFB",
    "home": "Minnesota Golden Gophers",
-   "away": "Iowa Hawkeyes"
+   "away": "Iowa Hawkeyes",
+   "cand36": {
+    "commence": "2026-10-24T19:30:00Z",
+    "snap": "2026-10-23T07:15:26Z"
+   }
   },
   "259f3312084b229ac2b74d414d36869f": {
    "lg": "CFB",
@@ -27370,7 +27374,11 @@
   "174cf7d3d434eeaada92afb534fb2557": {
    "lg": "CFB",
    "home": "UCF Knights",
-   "away": "BYU Cougars"
+   "away": "BYU Cougars",
+   "cand36": {
+    "commence": "2026-10-24T19:30:00Z",
+    "snap": "2026-10-23T07:15:26Z"
+   }
   },
   "2d125f14eca5c6eb1417f126cafde7c0": {
    "lg": "CFB",
@@ -27385,7 +27393,11 @@
   "1e9caefb58095e7560167dff561c9ff7": {
    "lg": "CFB",
    "home": "South Carolina Gamecocks",
-   "away": "Tennessee Volunteers"
+   "away": "Tennessee Volunteers",
+   "cand36": {
+    "commence": "2026-10-24T19:30:00Z",
+    "snap": "2026-10-23T07:15:26Z"
+   }
   },
   "04db3b581ae63446a409f2ad30868e20": {
    "lg": "CFB",
@@ -27420,7 +27432,11 @@
   "173057d32ff5946d42566a0d164de287": {
    "lg": "CFB",
    "home": "Alabama Crimson Tide",
-   "away": "Texas A&M Aggies"
+   "away": "Texas A&M Aggies",
+   "cand36": {
+    "commence": "2026-10-24T19:30:00Z",
+    "snap": "2026-10-23T07:15:26Z"
+   }
   },
   "df510525b83238b6e856c80c353bb32a": {
    "lg": "CFB",
@@ -29085,7 +29101,11 @@
   "95bc14af9668222d8528934b43d65566": {
    "lg": "CFB",
    "home": "UCLA Bruins",
-   "away": "Michigan State Spartans"
+   "away": "Michigan State Spartans",
+   "cand36": {
+    "commence": "2026-10-24T19:30:00Z",
+    "snap": "2026-10-23T07:15:26Z"
+   }
   },
   "1612c641ab70fd57963596255b9cb69c": {
    "lg": "CFB",
@@ -29470,12 +29490,20 @@
   "ca109267525bde74bd35cecd176185be": {
    "lg": "CFB",
    "home": "Mississippi State Bulldogs",
-   "away": "Oklahoma Sooners"
+   "away": "Oklahoma Sooners",
+   "cand36": {
+    "commence": "2026-10-24T19:30:00Z",
+    "snap": "2026-10-23T07:15:26Z"
+   }
   },
   "129a012809e96238263d1a6d0a7430fa": {
    "lg": "CFB",
    "home": "Georgia Tech Yellow Jackets",
-   "away": "Boston College Eagles"
+   "away": "Boston College Eagles",
+   "cand36": {
+    "commence": "2026-10-24T19:30:00Z",
+    "snap": "2026-10-23T07:15:26Z"
+   }
   },
   "bbbabc2490914e9a4d1e619a32461b1f": {
    "lg": "CFB",
@@ -29580,22 +29608,38 @@
   "b4b3b6c003cd39a6258130ad906d0025": {
    "lg": "CFB",
    "home": "Ball State Cardinals",
-   "away": "Sacramento State Hornets"
+   "away": "Sacramento State Hornets",
+   "cand36": {
+    "commence": "2026-10-24T19:30:00Z",
+    "snap": "2026-10-23T07:15:26Z"
+   }
   },
   "20d8411740b919c4478bd28a6dd751aa": {
    "lg": "CFB",
    "home": "Buffalo Bulls",
-   "away": "Bowling Green Falcons"
+   "away": "Bowling Green Falcons",
+   "cand36": {
+    "commence": "2026-10-24T19:30:00Z",
+    "snap": "2026-10-23T07:15:26Z"
+   }
   },
   "bdce7d97283542037fe3f8a033c36a72": {
    "lg": "CFB",
    "home": "Navy Midshipmen",
-   "away": "North Texas Mean Green"
+   "away": "North Texas Mean Green",
+   "cand36": {
+    "commence": "2026-10-24T19:30:00Z",
+    "snap": "2026-10-23T07:15:26Z"
+   }
   },
   "1d2bda7e3fb33e2ff67ddf7ced277a53": {
    "lg": "CFB",
    "home": "Northern Illinois Huskies",
-   "away": "Hawaii Rainbow Warriors"
+   "away": "Hawaii Rainbow Warriors",
+   "cand36": {
+    "commence": "2026-10-24T19:30:00Z",
+    "snap": "2026-10-23T07:15:26Z"
+   }
   },
   "1a5a1c924e5dec296e50299139791794": {
    "lg": "CFB",
@@ -32446,6 +32490,7 @@
   "2026-10-23T07:00:30Z",
   "2026-10-23T07:05:27Z",
   "2026-10-23T07:09:45Z",
-  "2026-10-23T07:10:34Z"
+  "2026-10-23T07:10:34Z",
+  "2026-10-23T07:15:26Z"
  ]
 }
