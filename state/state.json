@@ -29520,7 +29520,11 @@
   "ba6abfebaef34d88099fa6dc6640dc08": {
    "lg": "CFB",
    "home": "Kansas Jayhawks",
-   "away": "Baylor Bears"
+   "away": "Baylor Bears",
+   "cand36": {
+    "commence": "2026-10-24T17:00:00Z",
+    "snap": "2026-10-23T04:45:26Z"
+   }
   },
   "0f773ec5cb1e5b41f52f2bf8dbc4f182": {
    "lg": "CFB",
@@ -29550,12 +29554,20 @@
   "7b91563277082145d844f94b9ef1a8a6": {
    "lg": "CFB",
    "home": "Central Michigan Chippewas",
-   "away": "Miami (OH) RedHawks"
+   "away": "Miami (OH) RedHawks",
+   "cand36": {
+    "commence": "2026-10-24T17:00:00Z",
+    "snap": "2026-10-23T04:45:26Z"
+   }
   },
   "e7321bb418f765df74afd2851bd0fade": {
    "lg": "CFB",
    "home": "Kent State Golden Flashes",
-   "away": "Akron Zips"
+   "away": "Akron Zips",
+   "cand36": {
+    "commence": "2026-10-24T17:00:00Z",
+    "snap": "2026-10-23T04:45:26Z"
+   }
   },
   "b4b3b6c003cd39a6258130ad906d0025": {
    "lg": "CFB",
@@ -29784,7 +29796,6 @@
   }
  },
  "heartbeats": [
-  "2026-10-15T04:45:25Z",
   "2026-10-15T04:47:41Z",
   "2026-10-15T04:50:23Z",
   "2026-10-15T04:55:24Z",
@@ -32426,6 +32437,7 @@
   "2026-10-23T04:30:35Z",
   "2026-10-23T04:31:44Z",
   "2026-10-23T04:35:23Z",
-  "2026-10-23T04:40:30Z"
+  "2026-10-23T04:40:30Z",
+  "2026-10-23T04:45:26Z"
  ]
 }
