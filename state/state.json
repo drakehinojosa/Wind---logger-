@@ -27195,12 +27195,20 @@
   "e8e5715eefb6a9ce64765e9ddf49c0cc": {
    "lg": "NFL",
    "home": "Detroit Lions",
-   "away": "Green Bay Packers"
+   "away": "Green Bay Packers",
+   "cand36": {
+    "commence": "2026-10-25T20:25:00Z",
+    "snap": "2026-10-24T08:10:25Z"
+   }
   },
   "f7679cf18454e4d88a8f2b990c3f08ac": {
    "lg": "NFL",
    "home": "Las Vegas Raiders",
-   "away": "Los Angeles Rams"
+   "away": "Los Angeles Rams",
+   "cand36": {
+    "commence": "2026-10-25T20:25:00Z",
+    "snap": "2026-10-24T08:10:25Z"
+   }
   },
   "176d474ed8b2bbf1eb4d7e9c56b4bf22": {
    "lg": "NFL",
@@ -40273,6 +40281,7 @@
   "2026-10-24T07:55:23Z",
   "2026-10-24T07:59:33Z",
   "2026-10-24T08:00:34Z",
-  "2026-10-24T08:05:28Z"
+  "2026-10-24T08:05:28Z",
+  "2026-10-24T08:10:25Z"
  ]
 }
