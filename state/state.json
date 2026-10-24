@@ -28643,10 +28643,10 @@
    "K": "2026-10-25T20:25:00Z",
    "candD": {
     "commence": "2026-10-25T20:25:00Z",
-    "snap": "2026-10-24T20:20:29Z"
+    "snap": "2026-10-24T20:23:41Z"
    },
    "oddsD": {
-    "snap": "2026-10-24T20:20:29Z",
+    "snap": "2026-10-24T20:23:41Z",
     "quotes": {
      "draftkings": {
       "outcomes": [
@@ -28661,7 +28661,7 @@
         "point": 53.5
        }
       ],
-      "last_update": "2026-10-24T20:20:00Z"
+      "last_update": "2026-10-24T20:23:15Z"
      },
      "williamhill_us": {
       "outcomes": [
@@ -28691,7 +28691,7 @@
         "point": 53.5
        }
       ],
-      "last_update": "2026-10-24T20:20:22Z"
+      "last_update": "2026-10-24T20:23:38Z"
      },
      "betus": {
       "outcomes": [
@@ -28706,7 +28706,7 @@
         "point": 53.5
        }
       ],
-      "last_update": "2026-10-24T20:19:36Z"
+      "last_update": "2026-10-24T20:22:52Z"
      },
      "betonlineag": {
       "outcomes": [
@@ -28721,7 +28721,7 @@
         "point": 53.5
        }
       ],
-      "last_update": "2026-10-24T20:19:37Z"
+      "last_update": "2026-10-24T20:22:52Z"
      },
      "lowvig": {
       "outcomes": [
@@ -28736,7 +28736,7 @@
         "point": 53.5
        }
       ],
-      "last_update": "2026-10-24T20:20:24Z"
+      "last_update": "2026-10-24T20:23:39Z"
      },
      "betrivers": {
       "outcomes": [
@@ -28751,7 +28751,7 @@
         "point": 53.0
        }
       ],
-      "last_update": "2026-10-24T20:20:22Z"
+      "last_update": "2026-10-24T20:22:54Z"
      },
      "betmgm": {
       "outcomes": [
@@ -28766,7 +28766,7 @@
         "point": 53.5
        }
       ],
-      "last_update": "2026-10-24T20:19:39Z"
+      "last_update": "2026-10-24T20:22:53Z"
      },
      "mybookieag": {
       "outcomes": [
@@ -28781,7 +28781,7 @@
         "point": 53.5
        }
       ],
-      "last_update": "2026-10-24T20:20:23Z"
+      "last_update": "2026-10-24T20:22:31Z"
      },
      "fanatics": {
       "outcomes": [
@@ -28796,7 +28796,7 @@
         "point": 54.0
        }
       ],
-      "last_update": "2026-10-24T20:20:21Z"
+      "last_update": "2026-10-24T20:22:52Z"
      }
     }
    }
@@ -28812,10 +28812,10 @@
    "K": "2026-10-25T20:25:00Z",
    "candD": {
     "commence": "2026-10-25T20:25:00Z",
-    "snap": "2026-10-24T20:20:29Z"
+    "snap": "2026-10-24T20:23:41Z"
    },
    "oddsD": {
-    "snap": "2026-10-24T20:20:29Z",
+    "snap": "2026-10-24T20:23:41Z",
     "quotes": {
      "draftkings": {
       "outcomes": [
@@ -28830,7 +28830,7 @@
         "point": 48.5
        }
       ],
-      "last_update": "2026-10-24T20:20:00Z"
+      "last_update": "2026-10-24T20:23:15Z"
      },
      "williamhill_us": {
       "outcomes": [
@@ -28860,7 +28860,7 @@
         "point": 48.5
        }
       ],
-      "last_update": "2026-10-24T20:20:22Z"
+      "last_update": "2026-10-24T20:23:38Z"
      },
      "lowvig": {
       "outcomes": [
@@ -28875,7 +28875,7 @@
         "point": 48.5
        }
       ],
-      "last_update": "2026-10-24T20:20:24Z"
+      "last_update": "2026-10-24T20:23:39Z"
      },
      "betonlineag": {
       "outcomes": [
@@ -28890,7 +28890,7 @@
         "point": 48.5
        }
       ],
-      "last_update": "2026-10-24T20:19:37Z"
+      "last_update": "2026-10-24T20:22:52Z"
      },
      "betrivers": {
       "outcomes": [
@@ -28905,7 +28905,7 @@
         "point": 48.5
        }
       ],
-      "last_update": "2026-10-24T20:20:22Z"
+      "last_update": "2026-10-24T20:22:54Z"
      },
      "betmgm": {
       "outcomes": [
@@ -28920,7 +28920,7 @@
         "point": 48.5
        }
       ],
-      "last_update": "2026-10-24T20:19:39Z"
+      "last_update": "2026-10-24T20:22:53Z"
      },
      "mybookieag": {
       "outcomes": [
@@ -28935,7 +28935,7 @@
         "point": 48.5
        }
       ],
-      "last_update": "2026-10-24T20:20:23Z"
+      "last_update": "2026-10-24T20:22:31Z"
      },
      "fanatics": {
       "outcomes": [
@@ -28950,7 +28950,7 @@
         "point": 48.5
        }
       ],
-      "last_update": "2026-10-24T20:20:21Z"
+      "last_update": "2026-10-24T20:22:52Z"
      }
     }
    }
@@ -42033,6 +42033,7 @@
   "2026-10-24T20:05:21Z",
   "2026-10-24T20:10:27Z",
   "2026-10-24T20:15:22Z",
-  "2026-10-24T20:20:29Z"
+  "2026-10-24T20:20:29Z",
+  "2026-10-24T20:23:41Z"
  ]
 }
