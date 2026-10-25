@@ -39706,11 +39706,14 @@
    "lg": "CFB",
    "home": "Old Dominion Monarchs",
    "away": "Marshall Thundering Herd"
+  },
+  "e7510e4cb4351947263e33b6dc6a0812": {
+   "lg": "CFB",
+   "home": "Georgia Southern Eagles",
+   "away": "Appalachian State Mountaineers"
   }
  },
  "heartbeats": [
-  "2026-10-17T16:45:28Z",
-  "2026-10-17T16:50:25Z",
   "2026-10-17T16:55:25Z",
   "2026-10-17T16:58:40Z",
   "2026-10-17T17:00:30Z",
@@ -42351,6 +42354,7 @@
   "2026-10-25T16:35:27Z",
   "2026-10-25T16:40:28Z",
   "2026-10-25T16:44:24Z",
-  "2026-10-25T16:45:20Z"
+  "2026-10-25T16:45:20Z",
+  "2026-10-25T16:50:26Z"
  ]
 }
