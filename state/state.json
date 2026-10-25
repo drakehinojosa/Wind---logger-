@@ -39691,10 +39691,14 @@
    "lg": "CFB",
    "home": "South Alabama Jaguars",
    "away": "Louisiana Tech Bulldogs"
+  },
+  "fa9022be308ebe9ca39ecda8ea15bda4": {
+   "lg": "CFB",
+   "home": "East Carolina Pirates",
+   "away": "Temple Owls"
   }
  },
  "heartbeats": [
-  "2026-10-17T15:45:23Z",
   "2026-10-17T15:50:26Z",
   "2026-10-17T15:55:21Z",
   "2026-10-17T16:00:56Z",
@@ -42334,6 +42338,7 @@
   "2026-10-25T15:30:28Z",
   "2026-10-25T15:35:27Z",
   "2026-10-25T15:39:57Z",
-  "2026-10-25T15:40:28Z"
+  "2026-10-25T15:40:28Z",
+  "2026-10-25T15:45:25Z"
  ]
 }
