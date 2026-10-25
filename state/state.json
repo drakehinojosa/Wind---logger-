@@ -39606,6 +39606,11 @@
    "lg": "CFB",
    "home": "Florida State Seminoles",
    "away": "Clemson Tigers"
+  },
+  "e2ffa742b36678caf388ca70fdd4878c": {
+   "lg": "CFB",
+   "home": "Texas Longhorns",
+   "away": "Mississippi State Bulldogs"
   }
  },
  "heartbeats": [
@@ -42250,6 +42255,7 @@
   "2026-10-25T05:25:24Z",
   "2026-10-25T05:30:30Z",
   "2026-10-25T05:35:23Z",
-  "2026-10-25T05:40:29Z"
+  "2026-10-25T05:40:29Z",
+  "2026-10-25T05:45:23Z"
  ]
 }
