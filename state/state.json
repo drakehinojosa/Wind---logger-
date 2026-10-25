@@ -39696,10 +39696,19 @@
    "lg": "CFB",
    "home": "East Carolina Pirates",
    "away": "Temple Owls"
+  },
+  "fc416b26c2c25018a05bc5cb0d80dbb6": {
+   "lg": "CFB",
+   "home": "Western Michigan Broncos",
+   "away": "Bowling Green Falcons"
+  },
+  "e88d624c699646a03bac59eb193a09bf": {
+   "lg": "CFB",
+   "home": "Old Dominion Monarchs",
+   "away": "Marshall Thundering Herd"
   }
  },
  "heartbeats": [
-  "2026-10-17T16:25:24Z",
   "2026-10-17T16:30:04Z",
   "2026-10-17T16:30:27Z",
   "2026-10-17T16:35:23Z",
@@ -42340,6 +42349,7 @@
   "2026-10-25T16:09:12Z",
   "2026-10-25T16:10:26Z",
   "2026-10-25T16:15:28Z",
-  "2026-10-25T16:20:24Z"
+  "2026-10-25T16:20:24Z",
+  "2026-10-25T16:25:27Z"
  ]
 }
