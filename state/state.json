@@ -39736,6 +39736,11 @@
    "lg": "CFB",
    "home": "UL Monroe Warhawks",
    "away": "Southern Mississippi Golden Eagles"
+  },
+  "c1fd3e172f0617a0d8543b8fd67fc2ce": {
+   "lg": "CFB",
+   "home": "San Diego State Aztecs",
+   "away": "Washington State Cougars"
   }
  },
  "heartbeats": [
@@ -42379,6 +42384,7 @@
   "2026-10-25T16:55:31Z",
   "2026-10-25T17:00:32Z",
   "2026-10-25T17:05:29Z",
-  "2026-10-25T17:10:27Z"
+  "2026-10-25T17:10:27Z",
+  "2026-10-25T17:12:20Z"
  ]
 }
