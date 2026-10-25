@@ -39641,6 +39641,11 @@
    "lg": "CFB",
    "home": "TCU Horned Frogs",
    "away": "Kansas Jayhawks"
+  },
+  "d19dbab4071552441b056ccd2e23ca59": {
+   "lg": "CFB",
+   "home": "Colorado Buffaloes",
+   "away": "Kansas State Wildcats"
   }
  },
  "heartbeats": [
@@ -42285,6 +42290,7 @@
   "2026-10-25T07:10:22Z",
   "2026-10-25T07:12:18Z",
   "2026-10-25T07:15:28Z",
-  "2026-10-25T07:20:28Z"
+  "2026-10-25T07:20:28Z",
+  "2026-10-25T07:25:23Z"
  ]
 }
