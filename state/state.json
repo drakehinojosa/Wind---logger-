@@ -39601,10 +39601,14 @@
    "lg": "CFB",
    "home": "Maryland Terrapins",
    "away": "Illinois Fighting Illini"
+  },
+  "6519cc9dfbff22ca11d607a9f246da2c": {
+   "lg": "CFB",
+   "home": "Florida State Seminoles",
+   "away": "Clemson Tigers"
   }
  },
  "heartbeats": [
-  "2026-10-17T05:05:26Z",
   "2026-10-17T05:10:26Z",
   "2026-10-17T05:15:23Z",
   "2026-10-17T05:20:24Z",
@@ -42246,6 +42250,7 @@
   "2026-10-25T04:50:27Z",
   "2026-10-25T04:55:25Z",
   "2026-10-25T05:00:30Z",
-  "2026-10-25T05:05:20Z"
+  "2026-10-25T05:05:20Z",
+  "2026-10-25T05:10:22Z"
  ]
 }
