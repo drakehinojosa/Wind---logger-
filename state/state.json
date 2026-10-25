@@ -39586,6 +39586,16 @@
    "lg": "CFB",
    "home": "Wake Forest Demon Deacons",
    "away": "Virginia Cavaliers"
+  },
+  "dea96094c29a9f24d7dc07a5d848afd7": {
+   "lg": "CFB",
+   "home": "Rutgers Scarlet Knights",
+   "away": "Michigan Wolverines"
+  },
+  "630ed6c8993fda8943e528a465e55518": {
+   "lg": "CFB",
+   "home": "UCLA Bruins",
+   "away": "Nevada Wolf Pack"
   }
  },
  "heartbeats": [
@@ -42231,6 +42241,7 @@
   "2026-10-25T04:45:23Z",
   "2026-10-25T04:47:38Z",
   "2026-10-25T04:50:27Z",
-  "2026-10-25T04:55:25Z"
+  "2026-10-25T04:55:25Z",
+  "2026-10-25T05:00:30Z"
  ]
 }
