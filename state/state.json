@@ -39656,11 +39656,19 @@
    "lg": "CFB",
    "home": "Iowa State Cyclones",
    "away": "Oklahoma State Cowboys"
+  },
+  "e5ff4a85ab3b8341184a334a390f6ba2": {
+   "lg": "CFB",
+   "home": "Liberty Flames",
+   "away": "Florida International Panthers"
+  },
+  "b02a5444929be961896a4db9742a01fa": {
+   "lg": "CFB",
+   "home": "Boise State Broncos",
+   "away": "Texas State Bobcats"
   }
  },
  "heartbeats": [
-  "2026-10-17T15:10:24Z",
-  "2026-10-17T15:15:21Z",
   "2026-10-17T15:20:23Z",
   "2026-10-17T15:25:23Z",
   "2026-10-17T15:30:23Z",
@@ -42300,6 +42308,7 @@
   "2026-10-25T15:00:28Z",
   "2026-10-25T15:05:25Z",
   "2026-10-25T15:06:50Z",
-  "2026-10-25T15:10:21Z"
+  "2026-10-25T15:10:21Z",
+  "2026-10-25T15:15:24Z"
  ]
 }
