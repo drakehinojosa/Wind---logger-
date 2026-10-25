@@ -39631,10 +39631,14 @@
    "lg": "CFB",
    "home": "Pittsburgh Panthers",
    "away": "Georgia Tech Yellow Jackets"
+  },
+  "183676bbb63b1716e2248ec6c6d205a9": {
+   "lg": "CFB",
+   "home": "Louisville Cardinals",
+   "away": "Stanford Cardinal"
   }
  },
  "heartbeats": [
-  "2026-10-17T07:00:29Z",
   "2026-10-17T07:05:20Z",
   "2026-10-17T07:10:22Z",
   "2026-10-17T07:15:25Z",
@@ -42275,6 +42279,7 @@
   "2026-10-25T06:40:24Z",
   "2026-10-25T06:45:26Z",
   "2026-10-25T06:50:23Z",
-  "2026-10-25T06:55:23Z"
+  "2026-10-25T06:55:23Z",
+  "2026-10-25T07:00:30Z"
  ]
 }
