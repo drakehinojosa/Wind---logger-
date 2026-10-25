@@ -39611,10 +39611,14 @@
    "lg": "CFB",
    "home": "Texas Longhorns",
    "away": "Mississippi State Bulldogs"
+  },
+  "7fd2d018fdc5930fd62188de968a901c": {
+   "lg": "CFB",
+   "home": "Penn State Nittany Lions",
+   "away": "Purdue Boilermakers"
   }
  },
  "heartbeats": [
-  "2026-10-17T06:20:29Z",
   "2026-10-17T06:25:23Z",
   "2026-10-17T06:30:27Z",
   "2026-10-17T06:35:23Z",
@@ -42256,6 +42260,7 @@
   "2026-10-25T06:05:24Z",
   "2026-10-25T06:10:24Z",
   "2026-10-25T06:15:21Z",
-  "2026-10-25T06:20:26Z"
+  "2026-10-25T06:20:26Z",
+  "2026-10-25T06:22:12Z"
  ]
 }
