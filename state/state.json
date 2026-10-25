@@ -39711,10 +39711,14 @@
    "lg": "CFB",
    "home": "Georgia Southern Eagles",
    "away": "Appalachian State Mountaineers"
+  },
+  "573eed720cdbfb7644835b8beb1bc89a": {
+   "lg": "CFB",
+   "home": "Air Force Falcons",
+   "away": "UConn Huskies"
   }
  },
  "heartbeats": [
-  "2026-10-17T16:55:25Z",
   "2026-10-17T16:58:40Z",
   "2026-10-17T17:00:30Z",
   "2026-10-17T17:05:22Z",
@@ -42355,6 +42359,7 @@
   "2026-10-25T16:40:28Z",
   "2026-10-25T16:44:24Z",
   "2026-10-25T16:45:20Z",
-  "2026-10-25T16:50:26Z"
+  "2026-10-25T16:50:26Z",
+  "2026-10-25T16:55:31Z"
  ]
 }
