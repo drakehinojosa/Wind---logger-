@@ -39621,10 +39621,19 @@
    "lg": "CFB",
    "home": "Duke Blue Devils",
    "away": "Boston College Eagles"
+  },
+  "aa15904c0f5814a899ddbe002c96406a": {
+   "lg": "CFB",
+   "home": "NC State Wolfpack",
+   "away": "California Golden Bears"
+  },
+  "49aa48a7dbcd6563f389ae4232707d64": {
+   "lg": "CFB",
+   "home": "Pittsburgh Panthers",
+   "away": "Georgia Tech Yellow Jackets"
   }
  },
  "heartbeats": [
-  "2026-10-17T06:55:23Z",
   "2026-10-17T07:00:29Z",
   "2026-10-17T07:05:20Z",
   "2026-10-17T07:10:22Z",
@@ -42265,6 +42274,7 @@
   "2026-10-25T06:35:24Z",
   "2026-10-25T06:40:24Z",
   "2026-10-25T06:45:26Z",
-  "2026-10-25T06:50:23Z"
+  "2026-10-25T06:50:23Z",
+  "2026-10-25T06:55:23Z"
  ]
 }
