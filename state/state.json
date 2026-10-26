@@ -39931,10 +39931,14 @@
    "lg": "CFB",
    "home": "Notre Dame Fighting Irish",
    "away": "Miami Hurricanes"
+  },
+  "72cab2217ae57cbb00928eab05eb244e": {
+   "lg": "CFB",
+   "home": "Tennessee Volunteers",
+   "away": "Kentucky Wildcats"
   }
  },
  "heartbeats": [
-  "2026-10-18T18:40:22Z",
   "2026-10-18T18:45:24Z",
   "2026-10-18T18:50:27Z",
   "2026-10-18T18:53:41Z",
@@ -42559,6 +42563,7 @@
   "2026-10-26T18:22:25Z",
   "2026-10-26T18:25:27Z",
   "2026-10-26T18:30:31Z",
-  "2026-10-26T18:35:28Z"
+  "2026-10-26T18:35:28Z",
+  "2026-10-26T18:40:28Z"
  ]
 }
