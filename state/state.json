@@ -40316,10 +40316,19 @@
    "lg": "CFB",
    "home": "Missouri Tigers",
    "away": "Texas Longhorns"
+  },
+  "c75744790b7acf6260c78ba5e739c0e5": {
+   "lg": "NFL",
+   "home": "Baltimore Ravens",
+   "away": "Jacksonville Jaguars"
+  },
+  "dc56d980f527ffeef89940133b211b13": {
+   "lg": "NFL",
+   "home": "Atlanta Falcons",
+   "away": "Cincinnati Bengals"
   }
  },
  "heartbeats": [
-  "2026-10-19T19:40:29Z",
   "2026-10-19T19:45:27Z",
   "2026-10-19T19:50:27Z",
   "2026-10-19T19:55:25Z",
@@ -42937,6 +42946,7 @@
   "2026-10-27T19:25:27Z",
   "2026-10-27T19:30:28Z",
   "2026-10-27T19:35:25Z",
-  "2026-10-27T19:40:23Z"
+  "2026-10-27T19:40:23Z",
+  "2026-10-27T19:43:45Z"
  ]
 }
