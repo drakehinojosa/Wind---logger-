@@ -40381,6 +40381,16 @@
    "lg": "NFL",
    "home": "New England Patriots",
    "away": "Green Bay Packers"
+  },
+  "9760d8f19f84bfee300a74ceb656c95d": {
+   "lg": "NFL",
+   "home": "Chicago Bears",
+   "away": "Tampa Bay Buccaneers"
+  },
+  "17ad7eff2f7875e20a8109abe40470e3": {
+   "lg": "NFL",
+   "home": "Minnesota Vikings",
+   "away": "Buffalo Bills"
   }
  },
  "heartbeats": [
@@ -43002,6 +43012,7 @@
   "2026-10-27T19:43:45Z",
   "2026-10-27T19:45:27Z",
   "2026-10-27T19:50:26Z",
-  "2026-10-27T19:55:26Z"
+  "2026-10-27T19:55:26Z",
+  "2026-10-27T20:00:29Z"
  ]
 }
