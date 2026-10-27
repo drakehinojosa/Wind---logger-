@@ -40356,11 +40356,34 @@
    "lg": "NFL",
    "home": "Philadelphia Eagles",
    "away": "New York Giants"
+  },
+  "014282b888c741b7d70c857c09f40aa7": {
+   "lg": "NFL",
+   "home": "Carolina Panthers",
+   "away": "Denver Broncos"
+  },
+  "39aeac43cea7b12558b91cdab1255a10": {
+   "lg": "NFL",
+   "home": "Los Angeles Chargers",
+   "away": "Houston Texans"
+  },
+  "ac9d38a18d5c92814233a31aa9a48d78": {
+   "lg": "NFL",
+   "home": "San Francisco 49ers",
+   "away": "Las Vegas Raiders"
+  },
+  "240e23b02b1e3fef655d04a286b5a623": {
+   "lg": "NFL",
+   "home": "Seattle Seahawks",
+   "away": "Arizona Cardinals"
+  },
+  "2922c573ec3df8466c4a34975e446898": {
+   "lg": "NFL",
+   "home": "New England Patriots",
+   "away": "Green Bay Packers"
   }
  },
  "heartbeats": [
-  "2026-10-19T19:50:27Z",
-  "2026-10-19T19:55:25Z",
   "2026-10-19T20:00:33Z",
   "2026-10-19T20:05:28Z",
   "2026-10-19T20:10:23Z",
@@ -42978,6 +43001,7 @@
   "2026-10-27T19:40:23Z",
   "2026-10-27T19:43:45Z",
   "2026-10-27T19:45:27Z",
-  "2026-10-27T19:50:26Z"
+  "2026-10-27T19:50:26Z",
+  "2026-10-27T19:55:26Z"
  ]
 }
