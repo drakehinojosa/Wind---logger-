@@ -40455,12 +40455,20 @@
   "c35bb6023b4b5005a38e7cec3ebe4d0b": {
    "lg": "CFB",
    "home": "North Texas Mean Green",
-   "away": "Florida Atlantic Owls"
+   "away": "Florida Atlantic Owls",
+   "cand36": {
+    "commence": "2026-10-29T23:30:00Z",
+    "snap": "2026-10-28T11:15:28Z"
+   }
   },
   "0540f5758ac50f3bb60beb36755f7a1e": {
    "lg": "CFB",
    "home": "James Madison Dukes",
-   "away": "Troy Trojans"
+   "away": "Troy Trojans",
+   "cand36": {
+    "commence": "2026-10-29T23:30:00Z",
+    "snap": "2026-10-28T11:15:28Z"
+   }
   },
   "44ee19d31b9288ad402868d6df737595": {
    "lg": "CFB",
@@ -40744,7 +40752,6 @@
   }
  },
  "heartbeats": [
-  "2026-10-20T11:15:27Z",
   "2026-10-20T11:20:22Z",
   "2026-10-20T11:25:25Z",
   "2026-10-20T11:30:30Z",
@@ -43356,6 +43363,7 @@
   "2026-10-28T10:57:10Z",
   "2026-10-28T11:00:36Z",
   "2026-10-28T11:05:27Z",
-  "2026-10-28T11:10:29Z"
+  "2026-10-28T11:10:29Z",
+  "2026-10-28T11:15:28Z"
  ]
 }
