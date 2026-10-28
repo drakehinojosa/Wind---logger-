@@ -40761,10 +40761,19 @@
    "lg": "CFB",
    "home": "Ohio State Buckeyes",
    "away": "Oregon Ducks"
+  },
+  "241c23f2724f5ca91727a47a91f2facf": {
+   "lg": "CFB",
+   "home": "Army Black Knights",
+   "away": "Air Force Falcons"
+  },
+  "1ef954bd3305a66136e52ea0786f1593": {
+   "lg": "CFB",
+   "home": "Florida Gators",
+   "away": "Oklahoma Sooners"
   }
  },
  "heartbeats": [
-  "2026-10-20T22:35:27Z",
   "2026-10-20T22:40:26Z",
   "2026-10-20T22:45:25Z",
   "2026-10-20T22:46:05Z",
@@ -43374,6 +43383,7 @@
   "2026-10-28T22:20:30Z",
   "2026-10-28T22:23:09Z",
   "2026-10-28T22:25:23Z",
-  "2026-10-28T22:30:30Z"
+  "2026-10-28T22:30:30Z",
+  "2026-10-28T22:35:29Z"
  ]
 }
