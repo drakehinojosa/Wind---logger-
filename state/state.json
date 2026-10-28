@@ -40771,10 +40771,24 @@
    "lg": "CFB",
    "home": "Florida Gators",
    "away": "Oklahoma Sooners"
+  },
+  "61cf0b043d9d95f0a73d0838ff08a24b": {
+   "lg": "CFB",
+   "home": "Northwestern Wildcats",
+   "away": "Iowa Hawkeyes"
+  },
+  "2c3f80e228a486e04f6f7a38e4f00fb4": {
+   "lg": "CFB",
+   "home": "Michigan Wolverines",
+   "away": "Michigan State Spartans"
+  },
+  "5b05bf2ff27508703418dcf70079a22f": {
+   "lg": "CFB",
+   "home": "Minnesota Golden Gophers",
+   "away": "UCLA Bruins"
   }
  },
  "heartbeats": [
-  "2026-10-20T22:40:26Z",
   "2026-10-20T22:45:25Z",
   "2026-10-20T22:46:05Z",
   "2026-10-20T22:50:29Z",
@@ -43384,6 +43398,7 @@
   "2026-10-28T22:23:09Z",
   "2026-10-28T22:25:23Z",
   "2026-10-28T22:30:30Z",
-  "2026-10-28T22:35:29Z"
+  "2026-10-28T22:35:29Z",
+  "2026-10-28T22:40:37Z"
  ]
 }
