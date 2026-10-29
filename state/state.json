@@ -40985,7 +40985,11 @@
   "8916ba5e623a0a1d97dd0e7f50e4a205": {
    "lg": "CFB",
    "home": "Sacramento State Hornets",
-   "away": "Kent State Golden Flashes"
+   "away": "Kent State Golden Flashes",
+   "cand36": {
+    "commence": "2026-10-31T02:30:00Z",
+    "snap": "2026-10-29T14:15:28Z"
+   }
   },
   "2f219378e527cf1f695b814a0a4ad63c": {
    "lg": "CFB",
@@ -43903,6 +43907,7 @@
   "2026-10-29T13:55:25Z",
   "2026-10-29T14:00:31Z",
   "2026-10-29T14:05:29Z",
-  "2026-10-29T14:10:30Z"
+  "2026-10-29T14:10:30Z",
+  "2026-10-29T14:15:28Z"
  ]
 }
