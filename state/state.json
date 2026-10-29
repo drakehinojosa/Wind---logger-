@@ -41301,10 +41301,29 @@
    "lg": "CFB",
    "home": "SMU Mustangs",
    "away": "Virginia Tech Hokies"
+  },
+  "c0ddb68355a79fb70194e95b75c037ca": {
+   "lg": "CFB",
+   "home": "Akron Zips",
+   "away": "Ohio Bobcats"
+  },
+  "657053f4734af94664beb750813257bb": {
+   "lg": "CFB",
+   "home": "Miami (OH) RedHawks",
+   "away": "Buffalo Bulls"
+  },
+  "6ee8ad6eb7454d13bebc0806a10cc861": {
+   "lg": "CFB",
+   "home": "UMass Minutemen",
+   "away": "Ball State Cardinals"
+  },
+  "e5c8c0aaad6dc26e9ede547783d854d2": {
+   "lg": "CFB",
+   "home": "Eastern Michigan Eagles",
+   "away": "Central Michigan Chippewas"
   }
  },
  "heartbeats": [
-  "2026-10-21T17:05:27Z",
   "2026-10-21T17:10:27Z",
   "2026-10-21T17:15:27Z",
   "2026-10-21T17:20:28Z",
@@ -43907,6 +43926,7 @@
   "2026-10-29T16:50:29Z",
   "2026-10-29T16:55:26Z",
   "2026-10-29T17:00:33Z",
-  "2026-10-29T17:05:22Z"
+  "2026-10-29T17:05:22Z",
+  "2026-10-29T17:10:24Z"
  ]
 }
