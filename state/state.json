@@ -39830,7 +39830,11 @@
   "bd73558e7eb5bee08962bfb1f5ef6c9a": {
    "lg": "CFB",
    "home": "USC Trojans",
-   "away": "Ohio State Buckeyes"
+   "away": "Ohio State Buckeyes",
+   "cand36": {
+    "commence": "2026-10-31T23:30:00Z",
+    "snap": "2026-10-30T11:15:25Z"
+   }
   },
   "e916f49c82de2ce0b1844ee9f6deccfa": {
    "lg": "CFB",
@@ -39845,7 +39849,11 @@
   "85b5947ccfe102a2fa2179d54c83ae31": {
    "lg": "CFB",
    "home": "North Carolina Tar Heels",
-   "away": "Miami Hurricanes"
+   "away": "Miami Hurricanes",
+   "cand36": {
+    "commence": "2026-10-31T23:30:00Z",
+    "snap": "2026-10-30T11:15:25Z"
+   }
   },
   "2d5a76d917c23b2f5036eb774608d1c9": {
    "lg": "CFB",
@@ -41640,7 +41648,11 @@
   "e2ffa742b36678caf388ca70fdd4878c": {
    "lg": "CFB",
    "home": "Texas Longhorns",
-   "away": "Mississippi State Bulldogs"
+   "away": "Mississippi State Bulldogs",
+   "cand36": {
+    "commence": "2026-10-31T23:30:00Z",
+    "snap": "2026-10-30T11:15:25Z"
+   }
   },
   "7fd2d018fdc5930fd62188de968a901c": {
    "lg": "CFB",
@@ -41675,7 +41687,11 @@
   "49aa48a7dbcd6563f389ae4232707d64": {
    "lg": "CFB",
    "home": "Pittsburgh Panthers",
-   "away": "Georgia Tech Yellow Jackets"
+   "away": "Georgia Tech Yellow Jackets",
+   "cand36": {
+    "commence": "2026-10-31T23:30:00Z",
+    "snap": "2026-10-30T11:15:25Z"
+   }
   },
   "183676bbb63b1716e2248ec6c6d205a9": {
    "lg": "CFB",
@@ -44629,6 +44645,7 @@
   "2026-10-30T11:00:29Z",
   "2026-10-30T11:05:28Z",
   "2026-10-30T11:08:41Z",
-  "2026-10-30T11:10:24Z"
+  "2026-10-30T11:10:24Z",
+  "2026-10-30T11:15:25Z"
  ]
 }
