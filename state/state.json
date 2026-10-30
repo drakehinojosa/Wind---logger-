@@ -44258,10 +44258,10 @@
    "K": "2026-10-31T23:00:00Z",
    "candD": {
     "commence": "2026-10-31T23:00:00Z",
-    "snap": "2026-10-30T22:45:25Z"
+    "snap": "2026-10-30T22:50:27Z"
    },
    "oddsD": {
-    "snap": "2026-10-30T22:45:25Z",
+    "snap": "2026-10-30T22:50:27Z",
     "quotes": {
      "draftkings": {
       "outcomes": [
@@ -44276,7 +44276,7 @@
         "point": 49.5
        }
       ],
-      "last_update": "2026-10-30T22:44:53Z"
+      "last_update": "2026-10-30T22:50:23Z"
      },
      "fanduel": {
       "outcomes": [
@@ -44291,7 +44291,7 @@
         "point": 49.5
        }
       ],
-      "last_update": "2026-10-30T22:45:15Z"
+      "last_update": "2026-10-30T22:50:19Z"
      },
      "fanatics": {
       "outcomes": [
@@ -44306,7 +44306,7 @@
         "point": 49.5
        }
       ],
-      "last_update": "2026-10-30T22:44:33Z"
+      "last_update": "2026-10-30T22:49:57Z"
      },
      "betrivers": {
       "outcomes": [
@@ -44321,7 +44321,7 @@
         "point": 49.5
        }
       ],
-      "last_update": "2026-10-30T22:45:17Z"
+      "last_update": "2026-10-30T22:49:58Z"
      },
      "betmgm": {
       "outcomes": [
@@ -44336,7 +44336,7 @@
         "point": 49.5
        }
       ],
-      "last_update": "2026-10-30T22:44:34Z"
+      "last_update": "2026-10-30T22:50:24Z"
      },
      "betonlineag": {
       "outcomes": [
@@ -44351,7 +44351,7 @@
         "point": 49.5
        }
       ],
-      "last_update": "2026-10-30T22:45:15Z"
+      "last_update": "2026-10-30T22:49:56Z"
      },
      "lowvig": {
       "outcomes": [
@@ -44366,7 +44366,7 @@
         "point": 49.5
        }
       ],
-      "last_update": "2026-10-30T22:45:15Z"
+      "last_update": "2026-10-30T22:49:56Z"
      },
      "mybookieag": {
       "outcomes": [
@@ -44381,7 +44381,7 @@
         "point": 49.5
        }
       ],
-      "last_update": "2026-10-30T22:44:34Z"
+      "last_update": "2026-10-30T22:49:09Z"
      },
      "williamhill_us": {
       "outcomes": [
@@ -44396,7 +44396,7 @@
         "point": 49.5
        }
       ],
-      "last_update": "2026-10-30T22:45:16Z"
+      "last_update": "2026-10-30T22:49:17Z"
      },
      "betus": {
       "outcomes": [
@@ -44411,7 +44411,7 @@
         "point": 49.5
        }
       ],
-      "last_update": "2026-10-30T22:44:55Z"
+      "last_update": "2026-10-30T22:49:33Z"
      },
      "bovada": {
       "outcomes": [
@@ -44426,7 +44426,7 @@
         "point": 49.5
        }
       ],
-      "last_update": "2026-10-30T22:45:23Z"
+      "last_update": "2026-10-30T22:49:59Z"
      }
     }
    }
@@ -45572,10 +45572,10 @@
    "K": "2026-10-31T23:00:00Z",
    "candD": {
     "commence": "2026-10-31T23:00:00Z",
-    "snap": "2026-10-30T22:45:25Z"
+    "snap": "2026-10-30T22:50:27Z"
    },
    "oddsD": {
-    "snap": "2026-10-30T22:45:25Z",
+    "snap": "2026-10-30T22:50:27Z",
     "quotes": {
      "fanduel": {
       "outcomes": [
@@ -45590,7 +45590,7 @@
         "point": 58.5
        }
       ],
-      "last_update": "2026-10-30T22:45:15Z"
+      "last_update": "2026-10-30T22:50:19Z"
      },
      "fanatics": {
       "outcomes": [
@@ -45605,7 +45605,7 @@
         "point": 57.5
        }
       ],
-      "last_update": "2026-10-30T22:44:33Z"
+      "last_update": "2026-10-30T22:49:57Z"
      },
      "betrivers": {
       "outcomes": [
@@ -45620,7 +45620,7 @@
         "point": 58.5
        }
       ],
-      "last_update": "2026-10-30T22:45:17Z"
+      "last_update": "2026-10-30T22:49:58Z"
      },
      "draftkings": {
       "outcomes": [
@@ -45635,7 +45635,7 @@
         "point": 57.5
        }
       ],
-      "last_update": "2026-10-30T22:44:53Z"
+      "last_update": "2026-10-30T22:50:23Z"
      },
      "betonlineag": {
       "outcomes": [
@@ -45650,7 +45650,7 @@
         "point": 58.0
        }
       ],
-      "last_update": "2026-10-30T22:45:15Z"
+      "last_update": "2026-10-30T22:49:56Z"
      },
      "lowvig": {
       "outcomes": [
@@ -45665,7 +45665,7 @@
         "point": 58.0
        }
       ],
-      "last_update": "2026-10-30T22:45:15Z"
+      "last_update": "2026-10-30T22:49:56Z"
      },
      "betmgm": {
       "outcomes": [
@@ -45680,7 +45680,7 @@
         "point": 57.5
        }
       ],
-      "last_update": "2026-10-30T22:44:34Z"
+      "last_update": "2026-10-30T22:50:24Z"
      },
      "mybookieag": {
       "outcomes": [
@@ -45695,7 +45695,7 @@
         "point": 58.0
        }
       ],
-      "last_update": "2026-10-30T22:44:34Z"
+      "last_update": "2026-10-30T22:49:09Z"
      },
      "williamhill_us": {
       "outcomes": [
@@ -45710,7 +45710,7 @@
         "point": 57.5
        }
       ],
-      "last_update": "2026-10-30T22:45:16Z"
+      "last_update": "2026-10-30T22:49:17Z"
      },
      "betus": {
       "outcomes": [
@@ -45725,7 +45725,7 @@
         "point": 58.0
        }
       ],
-      "last_update": "2026-10-30T22:44:55Z"
+      "last_update": "2026-10-30T22:49:33Z"
      },
      "bovada": {
       "outcomes": [
@@ -45740,7 +45740,7 @@
         "point": 57.5
        }
       ],
-      "last_update": "2026-10-30T22:45:23Z"
+      "last_update": "2026-10-30T22:49:59Z"
      }
     }
    }
@@ -48191,10 +48191,10 @@
    "K": "2026-10-31T23:00:00Z",
    "candD": {
     "commence": "2026-10-31T23:00:00Z",
-    "snap": "2026-10-30T22:45:25Z"
+    "snap": "2026-10-30T22:50:27Z"
    },
    "oddsD": {
-    "snap": "2026-10-30T22:45:25Z",
+    "snap": "2026-10-30T22:50:27Z",
     "quotes": {
      "draftkings": {
       "outcomes": [
@@ -48209,7 +48209,7 @@
         "point": 47.5
        }
       ],
-      "last_update": "2026-10-30T22:44:53Z"
+      "last_update": "2026-10-30T22:50:23Z"
      },
      "lowvig": {
       "outcomes": [
@@ -48224,7 +48224,7 @@
         "point": 48.0
        }
       ],
-      "last_update": "2026-10-30T22:45:15Z"
+      "last_update": "2026-10-30T22:49:56Z"
      },
      "betonlineag": {
       "outcomes": [
@@ -48239,7 +48239,7 @@
         "point": 48.0
        }
       ],
-      "last_update": "2026-10-30T22:45:15Z"
+      "last_update": "2026-10-30T22:49:56Z"
      },
      "betmgm": {
       "outcomes": [
@@ -48254,7 +48254,7 @@
         "point": 48.5
        }
       ],
-      "last_update": "2026-10-30T22:44:34Z"
+      "last_update": "2026-10-30T22:50:24Z"
      },
      "fanduel": {
       "outcomes": [
@@ -48269,7 +48269,7 @@
         "point": 48.5
        }
       ],
-      "last_update": "2026-10-30T22:45:15Z"
+      "last_update": "2026-10-30T22:50:19Z"
      },
      "mybookieag": {
       "outcomes": [
@@ -48284,7 +48284,7 @@
         "point": 48.0
        }
       ],
-      "last_update": "2026-10-30T22:44:34Z"
+      "last_update": "2026-10-30T22:49:09Z"
      },
      "williamhill_us": {
       "outcomes": [
@@ -48299,7 +48299,7 @@
         "point": 48.0
        }
       ],
-      "last_update": "2026-10-30T22:45:16Z"
+      "last_update": "2026-10-30T22:49:17Z"
      },
      "betus": {
       "outcomes": [
@@ -48314,7 +48314,7 @@
         "point": 48.0
        }
       ],
-      "last_update": "2026-10-30T22:44:55Z"
+      "last_update": "2026-10-30T22:49:33Z"
      },
      "fanatics": {
       "outcomes": [
@@ -48329,7 +48329,7 @@
         "point": 48.5
        }
       ],
-      "last_update": "2026-10-30T22:44:33Z"
+      "last_update": "2026-10-30T22:49:57Z"
      },
      "bovada": {
       "outcomes": [
@@ -48344,7 +48344,7 @@
         "point": 48.0
        }
       ],
-      "last_update": "2026-10-30T22:45:23Z"
+      "last_update": "2026-10-30T22:49:59Z"
      },
      "betrivers": {
       "outcomes": [
@@ -48359,7 +48359,7 @@
         "point": 47.5
        }
       ],
-      "last_update": "2026-10-30T22:45:17Z"
+      "last_update": "2026-10-30T22:49:58Z"
      }
     }
    }
@@ -48526,8 +48526,6 @@
   }
  },
  "heartbeats": [
-  "2026-10-22T22:45:28Z",
-  "2026-10-22T22:50:23Z",
   "2026-10-22T22:55:21Z",
   "2026-10-22T23:00:44Z",
   "2026-10-22T23:02:56Z",
@@ -51116,6 +51114,7 @@
   "2026-10-30T22:30:36Z",
   "2026-10-30T22:35:25Z",
   "2026-10-30T22:40:29Z",
-  "2026-10-30T22:45:25Z"
+  "2026-10-30T22:45:25Z",
+  "2026-10-30T22:50:27Z"
  ]
 }
