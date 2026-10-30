@@ -41640,7 +41640,11 @@
   "d19dbab4071552441b056ccd2e23ca59": {
    "lg": "CFB",
    "home": "Colorado Buffaloes",
-   "away": "Kansas State Wildcats"
+   "away": "Kansas State Wildcats",
+   "cand36": {
+    "commence": "2026-10-31T18:00:00Z",
+    "snap": "2026-10-30T05:45:26Z"
+   }
   },
   "e4e95ca26b62e1c3ced6261cbb5c5f3a": {
    "lg": "CFB",
@@ -41680,7 +41684,11 @@
   "47548a73e429985e77f81a4617b4fdfd": {
    "lg": "CFB",
    "home": "Georgia State Panthers",
-   "away": "Coastal Carolina Chanticleers"
+   "away": "Coastal Carolina Chanticleers",
+   "cand36": {
+    "commence": "2026-10-31T18:00:00Z",
+    "snap": "2026-10-30T05:45:26Z"
+   }
   },
   "e5817afb8338b8f7272feff21d87d7f7": {
    "lg": "CFB",
@@ -41909,8 +41917,6 @@
   }
  },
  "heartbeats": [
-  "2026-10-22T05:40:28Z",
-  "2026-10-22T05:45:23Z",
   "2026-10-22T05:50:29Z",
   "2026-10-22T05:53:46Z",
   "2026-10-22T05:55:26Z",
@@ -44506,6 +44512,7 @@
   "2026-10-30T05:25:26Z",
   "2026-10-30T05:30:29Z",
   "2026-10-30T05:35:19Z",
-  "2026-10-30T05:40:25Z"
+  "2026-10-30T05:40:25Z",
+  "2026-10-30T05:45:26Z"
  ]
 }
