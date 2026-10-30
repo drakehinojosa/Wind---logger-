@@ -39820,7 +39820,11 @@
   "581c12d11a86412432fe89645cbe80b2": {
    "lg": "CFB",
    "home": "Georgia Bulldogs",
-   "away": "Florida Gators"
+   "away": "Florida Gators",
+   "cand36": {
+    "commence": "2026-10-31T19:30:00Z",
+    "snap": "2026-10-30T07:15:24Z"
+   }
   },
   "bd73558e7eb5bee08962bfb1f5ef6c9a": {
    "lg": "CFB",
@@ -39855,7 +39859,11 @@
   "b0f68c9265402a825cbbf7954b726339": {
    "lg": "CFB",
    "home": "BYU Cougars",
-   "away": "Arizona State Sun Devils"
+   "away": "Arizona State Sun Devils",
+   "cand36": {
+    "commence": "2026-10-31T19:30:00Z",
+    "snap": "2026-10-30T07:15:24Z"
+   }
   },
   "3f36c41ee29e9339f71fada56d832914": {
    "lg": "CFB",
@@ -39880,7 +39888,11 @@
   "7bac3aae16527dd33a224a2f81792033": {
    "lg": "CFB",
    "home": "Oregon Ducks",
-   "away": "Northwestern Wildcats"
+   "away": "Northwestern Wildcats",
+   "cand36": {
+    "commence": "2026-10-31T19:30:00Z",
+    "snap": "2026-10-30T07:15:24Z"
+   }
   },
   "8480c989381049fc30c8d714be95db35": {
    "lg": "CFB",
@@ -39890,7 +39902,11 @@
   "1e591733bae48534963359a9cff13701": {
    "lg": "CFB",
    "home": "Indiana Hoosiers",
-   "away": "Minnesota Golden Gophers"
+   "away": "Minnesota Golden Gophers",
+   "cand36": {
+    "commence": "2026-10-31T19:30:00Z",
+    "snap": "2026-10-30T07:15:24Z"
+   }
   },
   "096584989b4dd0a84650c37eb980a8b3": {
    "lg": "CFB",
@@ -41634,12 +41650,17 @@
    "cand36": {
     "commence": "2026-10-31T19:15:00Z",
     "snap": "2026-10-30T07:10:26Z"
-   }
+   },
+   "K": "2026-10-31T19:15:00Z"
   },
   "7e3a5a0dcece26ded8c9d1a64dc6cee5": {
    "lg": "CFB",
    "home": "TCU Horned Frogs",
-   "away": "Kansas Jayhawks"
+   "away": "Kansas Jayhawks",
+   "cand36": {
+    "commence": "2026-10-31T19:30:00Z",
+    "snap": "2026-10-30T07:15:24Z"
+   }
   },
   "d19dbab4071552441b056ccd2e23ca59": {
    "lg": "CFB",
@@ -41659,7 +41680,11 @@
   "e5ff4a85ab3b8341184a334a390f6ba2": {
    "lg": "CFB",
    "home": "Liberty Flames",
-   "away": "Florida International Panthers"
+   "away": "Florida International Panthers",
+   "cand36": {
+    "commence": "2026-10-31T19:30:00Z",
+    "snap": "2026-10-30T07:15:24Z"
+   }
   },
   "b02a5444929be961896a4db9742a01fa": {
    "lg": "CFB",
@@ -41754,7 +41779,11 @@
   "9c33dd628312f89764392414cbc99c86": {
    "lg": "CFB",
    "home": "Utah State Aggies",
-   "away": "Colorado State Rams"
+   "away": "Colorado State Rams",
+   "cand36": {
+    "commence": "2026-10-31T19:30:00Z",
+    "snap": "2026-10-30T07:15:24Z"
+   }
   },
   "1d5b8007f5249010b9c501138e25ac74": {
    "lg": "CFB",
@@ -41764,12 +41793,20 @@
   "c17c8f9e12ffe066cf601c96090fcb14": {
    "lg": "CFB",
    "home": "North Dakota State Bison",
-   "away": "UTEP Miners"
+   "away": "UTEP Miners",
+   "cand36": {
+    "commence": "2026-10-31T19:30:00Z",
+    "snap": "2026-10-30T07:15:24Z"
+   }
   },
   "746742d4bb94424d9e63d00701eef4ec": {
    "lg": "CFB",
    "home": "UL Monroe Warhawks",
-   "away": "Southern Mississippi Golden Eagles"
+   "away": "Southern Mississippi Golden Eagles",
+   "cand36": {
+    "commence": "2026-10-31T19:30:00Z",
+    "snap": "2026-10-30T07:15:24Z"
+   }
   },
   "c1fd3e172f0617a0d8543b8fd67fc2ce": {
    "lg": "CFB",
@@ -41938,7 +41975,6 @@
   }
  },
  "heartbeats": [
-  "2026-10-22T07:10:28Z",
   "2026-10-22T07:15:26Z",
   "2026-10-22T07:20:27Z",
   "2026-10-22T07:24:03Z",
@@ -44535,6 +44571,7 @@
   "2026-10-30T06:55:24Z",
   "2026-10-30T07:00:34Z",
   "2026-10-30T07:05:23Z",
-  "2026-10-30T07:10:26Z"
+  "2026-10-30T07:10:26Z",
+  "2026-10-30T07:15:24Z"
  ]
 }
