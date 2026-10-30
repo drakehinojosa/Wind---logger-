@@ -41695,12 +41695,20 @@
   "e5817afb8338b8f7272feff21d87d7f7": {
    "lg": "CFB",
    "home": "South Alabama Jaguars",
-   "away": "Louisiana Tech Bulldogs"
+   "away": "Louisiana Tech Bulldogs",
+   "cand36": {
+    "commence": "2026-10-31T19:00:00Z",
+    "snap": "2026-10-30T06:45:28Z"
+   }
   },
   "fa9022be308ebe9ca39ecda8ea15bda4": {
    "lg": "CFB",
    "home": "East Carolina Pirates",
-   "away": "Temple Owls"
+   "away": "Temple Owls",
+   "cand36": {
+    "commence": "2026-10-31T19:00:00Z",
+    "snap": "2026-10-30T06:45:28Z"
+   }
   },
   "fc416b26c2c25018a05bc5cb0d80dbb6": {
    "lg": "CFB",
@@ -41730,7 +41738,11 @@
   "573eed720cdbfb7644835b8beb1bc89a": {
    "lg": "CFB",
    "home": "Air Force Falcons",
-   "away": "UConn Huskies"
+   "away": "UConn Huskies",
+   "cand36": {
+    "commence": "2026-10-31T19:00:00Z",
+    "snap": "2026-10-30T06:45:28Z"
+   }
   },
   "9c33dd628312f89764392414cbc99c86": {
    "lg": "CFB",
@@ -44515,6 +44527,7 @@
   "2026-10-30T06:30:28Z",
   "2026-10-30T06:35:25Z",
   "2026-10-30T06:40:25Z",
-  "2026-10-30T06:42:02Z"
+  "2026-10-30T06:42:02Z",
+  "2026-10-30T06:45:28Z"
  ]
 }
