@@ -41560,7 +41560,11 @@
   "dea96094c29a9f24d7dc07a5d848afd7": {
    "lg": "CFB",
    "home": "Rutgers Scarlet Knights",
-   "away": "Michigan Wolverines"
+   "away": "Michigan Wolverines",
+   "cand36": {
+    "commence": "2026-10-31T16:30:00Z",
+    "snap": "2026-10-30T04:15:28Z"
+   }
   },
   "630ed6c8993fda8943e528a465e55518": {
    "lg": "CFB",
@@ -44490,6 +44494,7 @@
   "2026-10-30T03:55:25Z",
   "2026-10-30T04:00:33Z",
   "2026-10-30T04:05:19Z",
-  "2026-10-30T04:10:27Z"
+  "2026-10-30T04:10:27Z",
+  "2026-10-30T04:15:28Z"
  ]
 }
