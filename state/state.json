@@ -39920,7 +39920,11 @@
   "096584989b4dd0a84650c37eb980a8b3": {
    "lg": "CFB",
    "home": "Oklahoma Sooners",
-   "away": "South Carolina Gamecocks"
+   "away": "South Carolina Gamecocks",
+   "cand36": {
+    "commence": "2026-10-31T20:15:00Z",
+    "snap": "2026-10-30T08:00:29Z"
+   }
   },
   "0ae4d3447c72a5c39b523d9b3fbaf216": {
    "lg": "CFB",
@@ -41605,7 +41609,11 @@
   "630ed6c8993fda8943e528a465e55518": {
    "lg": "CFB",
    "home": "UCLA Bruins",
-   "away": "Nevada Wolf Pack"
+   "away": "Nevada Wolf Pack",
+   "cand36": {
+    "commence": "2026-10-31T20:15:00Z",
+    "snap": "2026-10-30T08:00:29Z"
+   }
   },
   "07da1e37f1e37363a71d35f2298f01d9": {
    "lg": "CFB",
@@ -41630,7 +41638,11 @@
   "7fd2d018fdc5930fd62188de968a901c": {
    "lg": "CFB",
    "home": "Penn State Nittany Lions",
-   "away": "Purdue Boilermakers"
+   "away": "Purdue Boilermakers",
+   "cand36": {
+    "commence": "2026-10-31T20:15:00Z",
+    "snap": "2026-10-30T08:00:29Z"
+   }
   },
   "807f73b612ed07bda8d1835550ddbd43": {
    "lg": "CFB",
@@ -41719,7 +41731,8 @@
    "cand36": {
     "commence": "2026-10-31T20:00:00Z",
     "snap": "2026-10-30T07:55:24Z"
-   }
+   },
+   "K": "2026-10-31T20:00:00Z"
   },
   "3713b2d962a33a6e55be7bffedd604a5": {
    "lg": "CFB",
@@ -41998,7 +42011,6 @@
   }
  },
  "heartbeats": [
-  "2026-10-22T07:55:29Z",
   "2026-10-22T08:00:35Z",
   "2026-10-22T08:05:27Z",
   "2026-10-22T08:10:00Z",
@@ -44595,6 +44607,7 @@
   "2026-10-30T07:43:32Z",
   "2026-10-30T07:45:29Z",
   "2026-10-30T07:50:25Z",
-  "2026-10-30T07:55:24Z"
+  "2026-10-30T07:55:24Z",
+  "2026-10-30T08:00:29Z"
  ]
 }
