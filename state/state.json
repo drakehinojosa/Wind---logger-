@@ -41630,7 +41630,11 @@
   "6519cc9dfbff22ca11d607a9f246da2c": {
    "lg": "CFB",
    "home": "Florida State Seminoles",
-   "away": "Clemson Tigers"
+   "away": "Clemson Tigers",
+   "cand36": {
+    "commence": "2026-10-31T23:00:00Z",
+    "snap": "2026-10-30T10:45:24Z"
+   }
   },
   "e2ffa742b36678caf388ca70fdd4878c": {
    "lg": "CFB",
@@ -41705,7 +41709,11 @@
   "e4e95ca26b62e1c3ced6261cbb5c5f3a": {
    "lg": "CFB",
    "home": "Iowa State Cyclones",
-   "away": "Oklahoma State Cowboys"
+   "away": "Oklahoma State Cowboys",
+   "cand36": {
+    "commence": "2026-10-31T23:00:00Z",
+    "snap": "2026-10-30T10:45:24Z"
+   }
   },
   "e5ff4a85ab3b8341184a334a390f6ba2": {
    "lg": "CFB",
@@ -41855,7 +41863,11 @@
   "c1fd3e172f0617a0d8543b8fd67fc2ce": {
    "lg": "CFB",
    "home": "San Diego State Aztecs",
-   "away": "Washington State Cougars"
+   "away": "Washington State Cougars",
+   "cand36": {
+    "commence": "2026-10-31T23:00:00Z",
+    "snap": "2026-10-30T10:45:24Z"
+   }
   },
   "4aac00e6cc06b8905659f911419540d2": {
    "lg": "CFB",
@@ -44614,6 +44626,7 @@
   "2026-10-30T10:25:24Z",
   "2026-10-30T10:30:29Z",
   "2026-10-30T10:35:25Z",
-  "2026-10-30T10:40:29Z"
+  "2026-10-30T10:40:29Z",
+  "2026-10-30T10:45:24Z"
  ]
 }
