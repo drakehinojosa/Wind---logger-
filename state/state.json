@@ -39755,42 +39755,74 @@
   "9255ca8f32aea590d00aa57de79f6bb6": {
    "lg": "NFL",
    "home": "Dallas Cowboys",
-   "away": "Arizona Cardinals"
+   "away": "Arizona Cardinals",
+   "cand36": {
+    "commence": "2026-11-01T18:00:00Z",
+    "snap": "2026-10-31T05:45:24Z"
+   }
   },
   "921859689f5f8b3b8b1caf4248bdb1ec": {
    "lg": "NFL",
    "home": "Tampa Bay Buccaneers",
-   "away": "Atlanta Falcons"
+   "away": "Atlanta Falcons",
+   "cand36": {
+    "commence": "2026-11-01T18:00:00Z",
+    "snap": "2026-10-31T05:45:24Z"
+   }
   },
   "52e7ee9c42525e6deec02da32dc2fad8": {
    "lg": "NFL",
    "home": "Detroit Lions",
-   "away": "Minnesota Vikings"
+   "away": "Minnesota Vikings",
+   "cand36": {
+    "commence": "2026-11-01T18:00:00Z",
+    "snap": "2026-10-31T05:45:24Z"
+   }
   },
   "98f1b121b793977434c046e76c707145": {
    "lg": "NFL",
    "home": "New York Jets",
-   "away": "Las Vegas Raiders"
+   "away": "Las Vegas Raiders",
+   "cand36": {
+    "commence": "2026-11-01T18:00:00Z",
+    "snap": "2026-10-31T05:45:24Z"
+   }
   },
   "c93c421e5fa46031a43162d111d981d0": {
    "lg": "NFL",
    "home": "Buffalo Bills",
-   "away": "Baltimore Ravens"
+   "away": "Baltimore Ravens",
+   "cand36": {
+    "commence": "2026-11-01T18:00:00Z",
+    "snap": "2026-10-31T05:45:24Z"
+   }
   },
   "9c5d8f57e0ba0fbd9ef436c1f0898f99": {
    "lg": "NFL",
    "home": "Cincinnati Bengals",
-   "away": "Tennessee Titans"
+   "away": "Tennessee Titans",
+   "cand36": {
+    "commence": "2026-11-01T18:00:00Z",
+    "snap": "2026-10-31T05:45:24Z"
+   }
   },
   "ab5ab731ab655bd6308bc7a922275518": {
    "lg": "NFL",
    "home": "Pittsburgh Steelers",
-   "away": "Cleveland Browns"
+   "away": "Cleveland Browns",
+   "cand36": {
+    "commence": "2026-11-01T18:00:00Z",
+    "snap": "2026-10-31T05:45:24Z"
+   }
   },
   "159dbf0253dd2038eda2212f84387f0c": {
    "lg": "NFL",
    "home": "Jacksonville Jaguars",
-   "away": "Indianapolis Colts"
+   "away": "Indianapolis Colts",
+   "cand36": {
+    "commence": "2026-11-01T18:00:00Z",
+    "snap": "2026-10-31T05:45:24Z"
+   }
   },
   "2ff84d3f6053d083c8c0a5bebf7cdd4c": {
    "lg": "NFL",
@@ -50219,8 +50251,6 @@
   }
  },
  "heartbeats": [
-  "2026-10-23T05:40:27Z",
-  "2026-10-23T05:42:10Z",
   "2026-10-23T05:45:28Z",
   "2026-10-23T05:50:29Z",
   "2026-10-23T05:55:26Z",
@@ -52807,6 +52837,7 @@
   "2026-10-31T05:25:25Z",
   "2026-10-31T05:30:29Z",
   "2026-10-31T05:35:20Z",
-  "2026-10-31T05:40:26Z"
+  "2026-10-31T05:40:26Z",
+  "2026-10-31T05:45:24Z"
  ]
 }
