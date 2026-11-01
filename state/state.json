@@ -52521,6 +52521,16 @@
    "lg": "CFB",
    "home": "Coastal Carolina Chanticleers",
    "away": "Old Dominion Monarchs"
+  },
+  "42e27947d5bad1a1aa037cccf557e9fe": {
+   "lg": "CFB",
+   "home": "Kennesaw State Owls",
+   "away": "Delaware Blue Hens"
+  },
+  "eca05dc53fc3a8dd74622a4b7657bc3b": {
+   "lg": "CFB",
+   "home": "UTEP Miners",
+   "away": "Hawaii Rainbow Warriors"
   }
  },
  "heartbeats": [
@@ -55102,6 +55112,7 @@
   "2026-11-01T15:35:24Z",
   "2026-11-01T15:40:29Z",
   "2026-11-01T15:45:24Z",
-  "2026-11-01T15:50:26Z"
+  "2026-11-01T15:50:26Z",
+  "2026-11-01T15:55:21Z"
  ]
 }
