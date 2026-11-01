@@ -52411,6 +52411,11 @@
    "lg": "CFB",
    "home": "Nevada Wolf Pack",
    "away": "New Mexico Lobos"
+  },
+  "40065b11db334359a18c868e9af4d7cd": {
+   "lg": "CFB",
+   "home": "Auburn Tigers",
+   "away": "Arkansas Razorbacks"
   }
  },
  "heartbeats": [
@@ -54997,6 +55002,7 @@
   "2026-11-01T04:50:26Z",
   "2026-11-01T04:55:26Z",
   "2026-11-01T05:00:33Z",
-  "2026-11-01T05:05:27Z"
+  "2026-11-01T05:05:27Z",
+  "2026-11-01T05:10:24Z"
  ]
 }
