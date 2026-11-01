@@ -52486,10 +52486,24 @@
    "lg": "CFB",
    "home": "Kansas State Wildcats",
    "away": "Oklahoma State Cowboys"
+  },
+  "db87d6d1c7367ec043155f226c12ebbc": {
+   "lg": "CFB",
+   "home": "Wake Forest Demon Deacons",
+   "away": "Merrimack Warriors"
+  },
+  "6bfae12b9d44d12ca7dde4f4f4aedc7d": {
+   "lg": "CFB",
+   "home": "Texas Tech Red Raiders",
+   "away": "West Virginia Mountaineers"
+  },
+  "4f0efedf5f575715851efea9089f7ea6": {
+   "lg": "CFB",
+   "home": "Arizona State Sun Devils",
+   "away": "Colorado Buffaloes"
   }
  },
  "heartbeats": [
-  "2026-10-24T07:05:26Z",
   "2026-10-24T07:10:26Z",
   "2026-10-24T07:15:26Z",
   "2026-10-24T07:20:25Z",
@@ -55072,6 +55086,7 @@
   "2026-11-01T06:50:24Z",
   "2026-11-01T06:55:22Z",
   "2026-11-01T07:00:25Z",
-  "2026-11-01T07:05:24Z"
+  "2026-11-01T07:05:24Z",
+  "2026-11-01T07:10:24Z"
  ]
 }
