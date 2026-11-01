@@ -52566,10 +52566,19 @@
    "lg": "CFB",
    "home": "Navy Midshipmen",
    "away": "Temple Owls"
+  },
+  "b5f8faa111f5c25846fcfc22f1b664a1": {
+   "lg": "CFB",
+   "home": "Florida International Panthers",
+   "away": "Missouri State Bears"
+  },
+  "648b835a42e9a23db353a0f0b326afdb": {
+   "lg": "CFB",
+   "home": "Troy Trojans",
+   "away": "Louisiana Tech Bulldogs"
   }
  },
  "heartbeats": [
-  "2026-10-24T16:15:29Z",
   "2026-10-24T16:20:29Z",
   "2026-10-24T16:25:25Z",
   "2026-10-24T16:27:30Z",
@@ -55148,6 +55157,7 @@
   "2026-11-01T16:00:30Z",
   "2026-11-01T16:05:30Z",
   "2026-11-01T16:10:25Z",
-  "2026-11-01T16:15:27Z"
+  "2026-11-01T16:15:27Z",
+  "2026-11-01T16:20:28Z"
  ]
 }
