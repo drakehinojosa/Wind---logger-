@@ -52396,6 +52396,11 @@
    "lg": "CFB",
    "home": "Arizona Wildcats",
    "away": "TCU Horned Frogs"
+  },
+  "59047d3be974c2ec05c7e6282752287b": {
+   "lg": "CFB",
+   "home": "Illinois Fighting Illini",
+   "away": "Nebraska Cornhuskers"
   }
  },
  "heartbeats": [
@@ -54983,6 +54988,7 @@
   "2026-11-01T04:20:28Z",
   "2026-11-01T04:25:27Z",
   "2026-11-01T04:30:29Z",
-  "2026-11-01T04:34:00Z"
+  "2026-11-01T04:34:00Z",
+  "2026-11-01T04:35:19Z"
  ]
 }
