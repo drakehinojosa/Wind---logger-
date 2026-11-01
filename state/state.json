@@ -52576,10 +52576,19 @@
    "lg": "CFB",
    "home": "Troy Trojans",
    "away": "Louisiana Tech Bulldogs"
+  },
+  "bbb1d38a8f51b761a789459a08fa6ded": {
+   "lg": "CFB",
+   "home": "Colorado State Rams",
+   "away": "Boise State Broncos"
+  },
+  "2dd995baa931f5b063cb50ddbe821d74": {
+   "lg": "CFB",
+   "home": "New Mexico State Aggies",
+   "away": "Liberty Flames"
   }
  },
  "heartbeats": [
-  "2026-10-24T16:20:29Z",
   "2026-10-24T16:25:25Z",
   "2026-10-24T16:27:30Z",
   "2026-10-24T16:30:31Z",
@@ -55158,6 +55167,7 @@
   "2026-11-01T16:05:30Z",
   "2026-11-01T16:10:25Z",
   "2026-11-01T16:15:27Z",
-  "2026-11-01T16:20:28Z"
+  "2026-11-01T16:20:28Z",
+  "2026-11-01T16:25:24Z"
  ]
 }
