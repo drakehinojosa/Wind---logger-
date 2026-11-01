@@ -52406,6 +52406,11 @@
    "lg": "CFB",
    "home": "East Carolina Pirates",
    "away": "South Florida Bulls"
+  },
+  "45fdbdbe6ed3d9922fa8b26b8a885f0e": {
+   "lg": "CFB",
+   "home": "Nevada Wolf Pack",
+   "away": "New Mexico Lobos"
   }
  },
  "heartbeats": [
@@ -54993,6 +54998,7 @@
   "2026-11-01T04:30:29Z",
   "2026-11-01T04:34:00Z",
   "2026-11-01T04:35:19Z",
-  "2026-11-01T04:40:28Z"
+  "2026-11-01T04:40:28Z",
+  "2026-11-01T04:45:20Z"
  ]
 }
