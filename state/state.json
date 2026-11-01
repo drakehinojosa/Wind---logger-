@@ -52206,11 +52206,19 @@
    "lg": "CFB",
    "home": "Sacramento State Hornets",
    "away": "Toledo Rockets"
+  },
+  "5af84fe49ccd4f304f9af0dce0a0db56": {
+   "lg": "CFB",
+   "home": "Florida Atlantic Owls",
+   "away": "UTSA Roadrunners"
+  },
+  "c93b343bc3151a39a9541c0af3b22123": {
+   "lg": "CFB",
+   "home": "Southern Mississippi Golden Eagles",
+   "away": "James Madison Dukes"
   }
  },
  "heartbeats": [
-  "2026-10-24T00:55:28Z",
-  "2026-10-24T01:00:26Z",
   "2026-10-24T01:05:26Z",
   "2026-10-24T01:10:37Z",
   "2026-10-24T01:15:21Z",
@@ -54795,6 +54803,7 @@
   "2026-11-01T00:40:27Z",
   "2026-11-01T00:45:19Z",
   "2026-11-01T00:50:27Z",
-  "2026-11-01T00:55:26Z"
+  "2026-11-01T00:55:26Z",
+  "2026-11-01T01:00:27Z"
  ]
 }
