@@ -52436,6 +52436,11 @@
    "lg": "CFB",
    "home": "Washington Huskies",
    "away": "Penn State Nittany Lions"
+  },
+  "2a6e2d9ca0d2fc85a4164e9c0f25a05f": {
+   "lg": "CFB",
+   "home": "Wisconsin Badgers",
+   "away": "Rutgers Scarlet Knights"
   }
  },
  "heartbeats": [
@@ -55021,6 +55026,7 @@
   "2026-11-01T05:55:23Z",
   "2026-11-01T06:00:28Z",
   "2026-11-01T06:05:25Z",
-  "2026-11-01T06:10:26Z"
+  "2026-11-01T06:10:26Z",
+  "2026-11-01T06:13:15Z"
  ]
 }
