@@ -52541,10 +52541,14 @@
    "lg": "CFB",
    "home": "Louisiana Ragin Cajuns",
    "away": "South Alabama Jaguars"
+  },
+  "8d5eeb24eeb0ac7ff32325a8a8c4b371": {
+   "lg": "CFB",
+   "home": "Tulane Green Wave",
+   "away": "Tulsa Golden Hurricane"
   }
  },
  "heartbeats": [
-  "2026-10-24T16:05:24Z",
   "2026-10-24T16:10:26Z",
   "2026-10-24T16:15:29Z",
   "2026-10-24T16:20:29Z",
@@ -55122,6 +55126,7 @@
   "2026-11-01T15:50:26Z",
   "2026-11-01T15:55:21Z",
   "2026-11-01T15:55:47Z",
-  "2026-11-01T16:00:30Z"
+  "2026-11-01T16:00:30Z",
+  "2026-11-01T16:05:30Z"
  ]
 }
