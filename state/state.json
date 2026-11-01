@@ -52476,10 +52476,19 @@
    "lg": "CFB",
    "home": "Kansas Jayhawks",
    "away": "UCF Knights"
+  },
+  "3ae8e2db7acc8a4d581b1e6a3ecbbd24": {
+   "lg": "CFB",
+   "home": "Boston College Eagles",
+   "away": "Florida State Seminoles"
+  },
+  "f3d964c6b45c36f9e6009c47e64f96db": {
+   "lg": "CFB",
+   "home": "Kansas State Wildcats",
+   "away": "Oklahoma State Cowboys"
   }
  },
  "heartbeats": [
-  "2026-10-24T07:00:36Z",
   "2026-10-24T07:05:26Z",
   "2026-10-24T07:10:26Z",
   "2026-10-24T07:15:26Z",
@@ -55062,6 +55071,7 @@
   "2026-11-01T06:45:25Z",
   "2026-11-01T06:50:24Z",
   "2026-11-01T06:55:22Z",
-  "2026-11-01T07:00:25Z"
+  "2026-11-01T07:00:25Z",
+  "2026-11-01T07:05:24Z"
  ]
 }
