@@ -52446,6 +52446,11 @@
    "lg": "CFB",
    "home": "Syracuse Orange",
    "away": "Clemson Tigers"
+  },
+  "dea9a1987ddc6fe5c1fc0cf1a596851c": {
+   "lg": "CFB",
+   "home": "Georgia Tech Yellow Jackets",
+   "away": "Louisville Cardinals"
   }
  },
  "heartbeats": [
@@ -55031,6 +55036,7 @@
   "2026-11-01T06:30:23Z",
   "2026-11-01T06:35:19Z",
   "2026-11-01T06:40:23Z",
-  "2026-11-01T06:45:25Z"
+  "2026-11-01T06:45:25Z",
+  "2026-11-01T06:50:24Z"
  ]
 }
