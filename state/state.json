@@ -52506,10 +52506,19 @@
    "lg": "CFB",
    "home": "Arizona State Sun Devils",
    "away": "Colorado Buffaloes"
+  },
+  "5304671601ad3064a66a332cbb09313f": {
+   "lg": "CFB",
+   "home": "Appalachian State Mountaineers",
+   "away": "Georgia State Panthers"
+  },
+  "b1234e330dc3f9fbbe77f969dd074cc7": {
+   "lg": "CFB",
+   "home": "Georgia Southern Eagles",
+   "away": "Marshall Thundering Herd"
   }
  },
  "heartbeats": [
-  "2026-10-24T15:25:43Z",
   "2026-10-24T15:30:30Z",
   "2026-10-24T15:35:24Z",
   "2026-10-24T15:40:23Z",
@@ -55088,6 +55097,7 @@
   "2026-11-01T15:15:29Z",
   "2026-11-01T15:18:31Z",
   "2026-11-01T15:20:23Z",
-  "2026-11-01T15:25:25Z"
+  "2026-11-01T15:25:25Z",
+  "2026-11-01T15:30:28Z"
  ]
 }
