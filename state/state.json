@@ -52466,6 +52466,16 @@
    "lg": "CFB",
    "home": "NC State Wolfpack",
    "away": "Duke Blue Devils"
+  },
+  "7233098d6f4e9fe94606ee2f3343de84": {
+   "lg": "CFB",
+   "home": "Baylor Bears",
+   "away": "Iowa State Cyclones"
+  },
+  "c74c1b98aca90ebf335b4028d44c2095": {
+   "lg": "CFB",
+   "home": "Kansas Jayhawks",
+   "away": "UCF Knights"
   }
  },
  "heartbeats": [
@@ -55051,6 +55061,7 @@
   "2026-11-01T06:40:23Z",
   "2026-11-01T06:45:25Z",
   "2026-11-01T06:50:24Z",
-  "2026-11-01T06:55:22Z"
+  "2026-11-01T06:55:22Z",
+  "2026-11-01T07:00:25Z"
  ]
 }
