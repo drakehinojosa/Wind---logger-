@@ -52586,11 +52586,14 @@
    "lg": "CFB",
    "home": "New Mexico State Aggies",
    "away": "Liberty Flames"
+  },
+  "a3f893b3bac8940a6899ae5869fb211c": {
+   "lg": "CFB",
+   "home": "Jacksonville State Gamecocks",
+   "away": "Sam Houston State Bearkats"
   }
  },
  "heartbeats": [
-  "2026-10-24T16:25:25Z",
-  "2026-10-24T16:27:30Z",
   "2026-10-24T16:30:31Z",
   "2026-10-24T16:35:26Z",
   "2026-10-24T16:40:27Z",
@@ -55168,6 +55171,7 @@
   "2026-11-01T16:10:25Z",
   "2026-11-01T16:15:27Z",
   "2026-11-01T16:20:28Z",
-  "2026-11-01T16:25:24Z"
+  "2026-11-01T16:25:24Z",
+  "2026-11-01T16:30:26Z"
  ]
 }
