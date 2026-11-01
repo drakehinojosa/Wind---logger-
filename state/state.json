@@ -52596,11 +52596,19 @@
    "lg": "CFB",
    "home": "Utah State Aggies",
    "away": "Fresno State Bulldogs"
+  },
+  "d4334cec8f2060f3b8491ca9c7325892": {
+   "lg": "CFB",
+   "home": "Oregon State Beavers",
+   "away": "Texas State Bobcats"
+  },
+  "6ce85b1067e9e85cd0d8b3242905ecd7": {
+   "lg": "CFB",
+   "home": "UNLV Rebels",
+   "away": "Wyoming Cowboys"
   }
  },
  "heartbeats": [
-  "2026-10-24T16:35:26Z",
-  "2026-10-24T16:40:27Z",
   "2026-10-24T16:45:22Z",
   "2026-10-24T16:50:22Z",
   "2026-10-24T16:55:24Z",
@@ -55178,6 +55186,7 @@
   "2026-11-01T16:25:24Z",
   "2026-11-01T16:30:26Z",
   "2026-11-01T16:33:27Z",
-  "2026-11-01T16:35:20Z"
+  "2026-11-01T16:35:20Z",
+  "2026-11-01T16:40:27Z"
  ]
 }
