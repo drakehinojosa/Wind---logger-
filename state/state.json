@@ -52531,11 +52531,19 @@
    "lg": "CFB",
    "home": "UTEP Miners",
    "away": "Hawaii Rainbow Warriors"
+  },
+  "6ffa2c2d3470751aa022854ec50dcce6": {
+   "lg": "CFB",
+   "home": "Arkansas State Red Wolves",
+   "away": "UL Monroe Warhawks"
+  },
+  "fed311ed6cdb4803798f548f3d867226": {
+   "lg": "CFB",
+   "home": "Louisiana Ragin Cajuns",
+   "away": "South Alabama Jaguars"
   }
  },
  "heartbeats": [
-  "2026-10-24T15:57:31Z",
-  "2026-10-24T16:00:29Z",
   "2026-10-24T16:05:24Z",
   "2026-10-24T16:10:26Z",
   "2026-10-24T16:15:29Z",
@@ -55113,6 +55121,7 @@
   "2026-11-01T15:45:24Z",
   "2026-11-01T15:50:26Z",
   "2026-11-01T15:55:21Z",
-  "2026-11-01T15:55:47Z"
+  "2026-11-01T15:55:47Z",
+  "2026-11-01T16:00:30Z"
  ]
 }
