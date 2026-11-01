@@ -52416,10 +52416,14 @@
    "lg": "CFB",
    "home": "Auburn Tigers",
    "away": "Arkansas Razorbacks"
+  },
+  "028ce5ee2c58281cf935f06edc90d671": {
+   "lg": "CFB",
+   "home": "Mississippi State Bulldogs",
+   "away": "Vanderbilt Commodores"
   }
  },
  "heartbeats": [
-  "2026-10-24T05:10:25Z",
   "2026-10-24T05:15:24Z",
   "2026-10-24T05:20:27Z",
   "2026-10-24T05:25:25Z",
@@ -55003,6 +55007,7 @@
   "2026-11-01T04:55:26Z",
   "2026-11-01T05:00:33Z",
   "2026-11-01T05:05:27Z",
-  "2026-11-01T05:10:24Z"
+  "2026-11-01T05:10:24Z",
+  "2026-11-01T05:15:23Z"
  ]
 }
