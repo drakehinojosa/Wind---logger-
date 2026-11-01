@@ -52591,10 +52591,14 @@
    "lg": "CFB",
    "home": "Jacksonville State Gamecocks",
    "away": "Sam Houston State Bearkats"
+  },
+  "d74a875341a00e77cf86ecfb7569edd3": {
+   "lg": "CFB",
+   "home": "Utah State Aggies",
+   "away": "Fresno State Bulldogs"
   }
  },
  "heartbeats": [
-  "2026-10-24T16:30:31Z",
   "2026-10-24T16:35:26Z",
   "2026-10-24T16:40:27Z",
   "2026-10-24T16:45:22Z",
@@ -55172,6 +55176,7 @@
   "2026-11-01T16:15:27Z",
   "2026-11-01T16:20:28Z",
   "2026-11-01T16:25:24Z",
-  "2026-11-01T16:30:26Z"
+  "2026-11-01T16:30:26Z",
+  "2026-11-01T16:33:27Z"
  ]
 }
