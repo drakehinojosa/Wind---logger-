@@ -52451,11 +52451,24 @@
    "lg": "CFB",
    "home": "Georgia Tech Yellow Jackets",
    "away": "Louisville Cardinals"
+  },
+  "18f974d07f56507b33b9e50119c88e28": {
+   "lg": "CFB",
+   "home": "Houston Cougars",
+   "away": "Cincinnati Bearcats"
+  },
+  "3582b30b32fb23939161eb280cc5ca97": {
+   "lg": "CFB",
+   "home": "UConn Huskies",
+   "away": "North Carolina Tar Heels"
+  },
+  "59263b8c355e171b2bcd5c1827a36b7e": {
+   "lg": "CFB",
+   "home": "NC State Wolfpack",
+   "away": "Duke Blue Devils"
   }
  },
  "heartbeats": [
-  "2026-10-24T06:50:28Z",
-  "2026-10-24T06:55:21Z",
   "2026-10-24T07:00:36Z",
   "2026-10-24T07:05:26Z",
   "2026-10-24T07:10:26Z",
@@ -55037,6 +55050,7 @@
   "2026-11-01T06:35:19Z",
   "2026-11-01T06:40:23Z",
   "2026-11-01T06:45:25Z",
-  "2026-11-01T06:50:24Z"
+  "2026-11-01T06:50:24Z",
+  "2026-11-01T06:55:22Z"
  ]
 }
