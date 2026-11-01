@@ -52546,6 +52546,16 @@
    "lg": "CFB",
    "home": "Tulane Green Wave",
    "away": "Tulsa Golden Hurricane"
+  },
+  "deb5de88acb22f9a3e969c137fd65cb3": {
+   "lg": "CFB",
+   "home": "Middle Tennessee Blue Raiders",
+   "away": "Western Kentucky Hilltoppers"
+  },
+  "55e2553780b7d3d06d1fe7a4ffa9474b": {
+   "lg": "CFB",
+   "home": "North Texas Mean Green",
+   "away": "Rice Owls"
   }
  },
  "heartbeats": [
@@ -55127,6 +55137,7 @@
   "2026-11-01T15:55:21Z",
   "2026-11-01T15:55:47Z",
   "2026-11-01T16:00:30Z",
-  "2026-11-01T16:05:30Z"
+  "2026-11-01T16:05:30Z",
+  "2026-11-01T16:10:25Z"
  ]
 }
