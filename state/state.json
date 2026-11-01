@@ -52441,6 +52441,11 @@
    "lg": "CFB",
    "home": "Wisconsin Badgers",
    "away": "Rutgers Scarlet Knights"
+  },
+  "c3e23ea05d6570fdb90c3ddb225fd3e4": {
+   "lg": "CFB",
+   "home": "Syracuse Orange",
+   "away": "Clemson Tigers"
   }
  },
  "heartbeats": [
@@ -55027,6 +55032,7 @@
   "2026-11-01T06:13:15Z",
   "2026-11-01T06:15:27Z",
   "2026-11-01T06:20:27Z",
-  "2026-11-01T06:25:25Z"
+  "2026-11-01T06:25:25Z",
+  "2026-11-01T06:30:23Z"
  ]
 }
