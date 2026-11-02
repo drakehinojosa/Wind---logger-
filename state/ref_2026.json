@@ -1,5 +1,5 @@
 {
- "day": "2026-11-01",
+ "day": "2026-11-02",
  "refs": [
   {
    "lg": "NFL",
@@ -1942,16 +1942,16 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401858201",
-   "home": "Stanford",
-   "away": "Hawai'i",
+   "ref_id": "401864570",
+   "home": "Florida State",
+   "away": "New Mexico State",
    "t": "2026-08-29T23:00:00Z"
   },
   {
    "lg": "CFB",
-   "ref_id": "401864570",
-   "home": "Florida State",
-   "away": "New Mexico State",
+   "ref_id": "401858201",
+   "home": "Stanford",
+   "away": "Hawai'i",
    "t": "2026-08-29T23:00:00Z"
   },
   {
@@ -1970,9 +1970,9 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401856767",
-   "home": "UCF",
-   "away": "Bethune-Cookman",
+   "ref_id": "401864425",
+   "home": "Kennesaw State",
+   "away": "West Georgia",
    "t": "2026-09-03T23:00:00Z"
   },
   {
@@ -1984,13 +1984,6 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401864424",
-   "home": "Delaware",
-   "away": "Merrimack",
-   "t": "2026-09-03T23:00:00Z"
-  },
-  {
-   "lg": "CFB",
    "ref_id": "401866409",
    "home": "Buffalo",
    "away": "UAlbany",
@@ -1998,23 +1991,30 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401864425",
-   "home": "Kennesaw State",
-   "away": "West Georgia",
+   "ref_id": "401864424",
+   "home": "Delaware",
+   "away": "Merrimack",
    "t": "2026-09-03T23:00:00Z"
   },
   {
    "lg": "CFB",
-   "ref_id": "401856663",
-   "home": "Missouri",
-   "away": "Arkansas-Pine Bluff",
-   "t": "2026-09-04T00:00:00Z"
+   "ref_id": "401856767",
+   "home": "UCF",
+   "away": "Bethune-Cookman",
+   "t": "2026-09-03T23:00:00Z"
   },
   {
    "lg": "CFB",
    "ref_id": "401856776",
    "home": "Georgia Tech",
    "away": "Colorado",
+   "t": "2026-09-04T00:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401856663",
+   "home": "Missouri",
+   "away": "Arkansas-Pine Bluff",
    "t": "2026-09-04T00:00:00Z"
   },
   {
@@ -2047,6 +2047,13 @@
   },
   {
    "lg": "CFB",
+   "ref_id": "401866623",
+   "home": "Georgia State",
+   "away": "North Carolina A&T",
+   "t": "2026-09-04T23:00:00Z"
+  },
+  {
+   "lg": "CFB",
    "ref_id": "401858435",
    "home": "Purdue",
    "away": "Indiana State",
@@ -2054,10 +2061,10 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401866623",
-   "home": "Georgia State",
-   "away": "North Carolina A&T",
-   "t": "2026-09-04T23:00:00Z"
+   "ref_id": "401858429",
+   "home": "Michigan State",
+   "away": "Toledo",
+   "t": "2026-09-05T00:00:00Z"
   },
   {
    "lg": "CFB",
@@ -2075,20 +2082,6 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401858429",
-   "home": "Michigan State",
-   "away": "Toledo",
-   "t": "2026-09-05T00:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401858206",
-   "home": "Stanford",
-   "away": "Miami",
-   "t": "2026-09-05T01:00:00Z"
-  },
-  {
-   "lg": "CFB",
    "ref_id": "401858436",
    "home": "USC",
    "away": "Fresno State",
@@ -2096,10 +2089,10 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401856780",
-   "home": "West Virginia",
-   "away": "Coastal Carolina",
-   "t": "2026-09-05T16:00:00Z"
+   "ref_id": "401858206",
+   "home": "Stanford",
+   "away": "Miami",
+   "t": "2026-09-05T01:00:00Z"
   },
   {
    "lg": "CFB",
@@ -2117,37 +2110,9 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401858425",
-   "home": "Indiana",
-   "away": "North Texas",
-   "t": "2026-09-05T16:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401869960",
-   "home": "James Madison",
-   "away": "Liberty",
-   "t": "2026-09-05T16:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401861962",
-   "home": "UConn",
-   "away": "Lafayette",
-   "t": "2026-09-05T16:00:00Z"
-  },
-  {
-   "lg": "CFB",
    "ref_id": "401856634",
    "home": "Alabama",
    "away": "East Carolina",
-   "t": "2026-09-05T16:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401856778",
-   "home": "Houston",
-   "away": "Oregon State",
    "t": "2026-09-05T16:00:00Z"
   },
   {
@@ -2159,9 +2124,44 @@
   },
   {
    "lg": "CFB",
+   "ref_id": "401861962",
+   "home": "UConn",
+   "away": "Lafayette",
+   "t": "2026-09-05T16:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401856778",
+   "home": "Houston",
+   "away": "Oregon State",
+   "t": "2026-09-05T16:00:00Z"
+  },
+  {
+   "lg": "CFB",
    "ref_id": "401862701",
    "home": "Army",
    "away": "Bryant",
+   "t": "2026-09-05T16:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401856780",
+   "home": "West Virginia",
+   "away": "Coastal Carolina",
+   "t": "2026-09-05T16:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401869960",
+   "home": "James Madison",
+   "away": "Liberty",
+   "t": "2026-09-05T16:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401858425",
+   "home": "Indiana",
+   "away": "North Texas",
    "t": "2026-09-05T16:00:00Z"
   },
   {
@@ -2187,16 +2187,16 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401856659",
-   "home": "Kentucky",
-   "away": "Youngstown State",
+   "ref_id": "401856779",
+   "home": "Iowa State",
+   "away": "Southeast Missouri State",
    "t": "2026-09-05T17:00:00Z"
   },
   {
    "lg": "CFB",
-   "ref_id": "401856779",
-   "home": "Iowa State",
-   "away": "Southeast Missouri State",
+   "ref_id": "401856659",
+   "home": "Kentucky",
+   "away": "Youngstown State",
    "t": "2026-09-05T17:00:00Z"
   },
   {
@@ -2222,51 +2222,9 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401862694",
-   "home": "Charlotte",
-   "away": "The Citadel",
-   "t": "2026-09-05T19:30:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401856667",
-   "home": "Texas",
-   "away": "Texas State",
-   "t": "2026-09-05T19:30:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401862700",
-   "home": "UTSA",
-   "away": "UT Rio Grande Valley",
-   "t": "2026-09-05T19:30:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401864499",
-   "home": "North Dakota State",
-   "away": "Fordham",
-   "t": "2026-09-05T19:30:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401866627",
-   "home": "App State",
-   "away": "Maine",
-   "t": "2026-09-05T19:30:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401856666",
-   "home": "Tennessee",
-   "away": "Furman",
-   "t": "2026-09-05T19:30:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401858209",
-   "home": "Duke",
-   "away": "Tulane",
+   "ref_id": "401862696",
+   "home": "Navy",
+   "away": "Towson",
    "t": "2026-09-05T19:30:00Z"
   },
   {
@@ -2278,9 +2236,23 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401862696",
-   "home": "Navy",
-   "away": "Towson",
+   "ref_id": "401862700",
+   "home": "UTSA",
+   "away": "UT Rio Grande Valley",
+   "t": "2026-09-05T19:30:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401856666",
+   "home": "Tennessee",
+   "away": "Furman",
+   "t": "2026-09-05T19:30:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401866627",
+   "home": "App State",
+   "away": "Maine",
    "t": "2026-09-05T19:30:00Z"
   },
   {
@@ -2292,6 +2264,20 @@
   },
   {
    "lg": "CFB",
+   "ref_id": "401864499",
+   "home": "North Dakota State",
+   "away": "Fordham",
+   "t": "2026-09-05T19:30:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401856667",
+   "home": "Texas",
+   "away": "Texas State",
+   "t": "2026-09-05T19:30:00Z"
+  },
+  {
+   "lg": "CFB",
    "ref_id": "401858434",
    "home": "Penn State",
    "away": "Marshall",
@@ -2299,9 +2285,23 @@
   },
   {
    "lg": "CFB",
+   "ref_id": "401858209",
+   "home": "Duke",
+   "away": "Tulane",
+   "t": "2026-09-05T19:30:00Z"
+  },
+  {
+   "lg": "CFB",
    "ref_id": "401858433",
    "home": "Oregon",
    "away": "Boise State",
+   "t": "2026-09-05T19:30:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401862694",
+   "home": "Charlotte",
+   "away": "The Citadel",
    "t": "2026-09-05T19:30:00Z"
   },
   {
@@ -2334,13 +2334,6 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401867973",
-   "home": "Old Dominion",
-   "away": "Norfolk State",
-   "t": "2026-09-05T22:00:00Z"
-  },
-  {
-   "lg": "CFB",
    "ref_id": "401860878",
    "home": "Colorado State",
    "away": "Wyoming",
@@ -2348,44 +2341,30 @@
   },
   {
    "lg": "CFB",
+   "ref_id": "401867973",
+   "home": "Old Dominion",
+   "away": "Norfolk State",
+   "t": "2026-09-05T22:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401870763",
+   "home": "Troy",
+   "away": "Sam Houston",
+   "t": "2026-09-05T23:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401867866",
+   "home": "Middle Tennessee",
+   "away": "Murray State",
+   "t": "2026-09-05T23:00:00Z"
+  },
+  {
+   "lg": "CFB",
    "ref_id": "401862699",
    "home": "South Florida",
    "away": "Florida International",
-   "t": "2026-09-05T23:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401868170",
-   "home": "Georgia Southern",
-   "away": "Charleston Southern",
-   "t": "2026-09-05T23:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401868316",
-   "home": "South Alabama",
-   "away": "SE Louisiana",
-   "t": "2026-09-05T23:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401862697",
-   "home": "Rice",
-   "away": "Houston Christian",
-   "t": "2026-09-05T23:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401860880",
-   "home": "Utah State",
-   "away": "Idaho State",
-   "t": "2026-09-05T23:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401856771",
-   "home": "Kansas State",
-   "away": "Nicholls",
    "t": "2026-09-05T23:00:00Z"
   },
   {
@@ -2397,6 +2376,27 @@
   },
   {
    "lg": "CFB",
+   "ref_id": "401856668",
+   "home": "Texas A&M",
+   "away": "Missouri State",
+   "t": "2026-09-05T23:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401868170",
+   "home": "Georgia Southern",
+   "away": "Charleston Southern",
+   "t": "2026-09-05T23:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401860880",
+   "home": "Utah State",
+   "away": "Idaho State",
+   "t": "2026-09-05T23:00:00Z"
+  },
+  {
+   "lg": "CFB",
    "ref_id": "401868140",
    "home": "Jacksonville State",
    "away": "Eastern Kentucky",
@@ -2404,9 +2404,23 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401856668",
-   "home": "Texas A&M",
-   "away": "Missouri State",
+   "ref_id": "401862697",
+   "home": "Rice",
+   "away": "Houston Christian",
+   "t": "2026-09-05T23:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401868316",
+   "home": "South Alabama",
+   "away": "SE Louisiana",
+   "t": "2026-09-05T23:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401856771",
+   "home": "Kansas State",
+   "away": "Nicholls",
    "t": "2026-09-05T23:00:00Z"
   },
   {
@@ -2425,30 +2439,9 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401870763",
-   "home": "Troy",
-   "away": "Sam Houston",
-   "t": "2026-09-05T23:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401867866",
-   "home": "Middle Tennessee",
-   "away": "Murray State",
-   "t": "2026-09-05T23:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401856660",
-   "home": "LSU",
-   "away": "Clemson",
-   "t": "2026-09-05T23:30:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401858428",
-   "home": "Michigan",
-   "away": "Western Michigan",
+   "ref_id": "401858211",
+   "home": "Virginia Tech",
+   "away": "VMI",
    "t": "2026-09-05T23:30:00Z"
   },
   {
@@ -2460,6 +2453,13 @@
   },
   {
    "lg": "CFB",
+   "ref_id": "401858428",
+   "home": "Michigan",
+   "away": "Western Michigan",
+   "t": "2026-09-05T23:30:00Z"
+  },
+  {
+   "lg": "CFB",
    "ref_id": "401856662",
    "home": "Mississippi State",
    "away": "UL Monroe",
@@ -2467,9 +2467,9 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401858211",
-   "home": "Virginia Tech",
-   "away": "VMI",
+   "ref_id": "401856660",
+   "home": "LSU",
+   "away": "Clemson",
    "t": "2026-09-05T23:30:00Z"
   },
   {
@@ -2481,9 +2481,9 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401858427",
-   "home": "Maryland",
-   "away": "Hampton",
+   "ref_id": "401858431",
+   "home": "Northwestern",
+   "away": "South Dakota State",
    "t": "2026-09-06T00:00:00Z"
   },
   {
@@ -2495,9 +2495,9 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401858431",
-   "home": "Northwestern",
-   "away": "South Dakota State",
+   "ref_id": "401858427",
+   "home": "Maryland",
+   "away": "Hampton",
    "t": "2026-09-06T00:00:00Z"
   },
   {
@@ -2516,13 +2516,6 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401860879",
-   "home": "San Diego State",
-   "away": "Portland State",
-   "t": "2026-09-06T01:30:00Z"
-  },
-  {
-   "lg": "CFB",
    "ref_id": "401856773",
    "home": "Arizona",
    "away": "Northern Arizona",
@@ -2530,17 +2523,10 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401864497",
-   "home": "Hawai'i",
-   "away": "UNLV",
-   "t": "2026-09-06T02:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401856774",
-   "home": "Arizona State",
-   "away": "Morgan State",
-   "t": "2026-09-06T02:00:00Z"
+   "ref_id": "401860879",
+   "home": "San Diego State",
+   "away": "Portland State",
+   "t": "2026-09-06T01:30:00Z"
   },
   {
    "lg": "CFB",
@@ -2554,6 +2540,20 @@
    "ref_id": "401864498",
    "home": "New Mexico",
    "away": "Central Michigan",
+   "t": "2026-09-06T02:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401856774",
+   "home": "Arizona State",
+   "away": "Morgan State",
+   "t": "2026-09-06T02:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401864497",
+   "home": "Hawai'i",
+   "away": "UNLV",
    "t": "2026-09-06T02:00:00Z"
   },
   {
@@ -2579,16 +2579,16 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401856661",
-   "home": "Ole Miss",
-   "away": "Louisville",
+   "ref_id": "401858438",
+   "home": "Notre Dame",
+   "away": "Wisconsin",
    "t": "2026-09-06T23:30:00Z"
   },
   {
    "lg": "CFB",
-   "ref_id": "401858438",
-   "home": "Notre Dame",
-   "away": "Wisconsin",
+   "ref_id": "401856661",
+   "home": "Ole Miss",
+   "away": "Louisville",
    "t": "2026-09-06T23:30:00Z"
   },
   {
@@ -2607,13 +2607,6 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401858220",
-   "home": "Virginia",
-   "away": "Norfolk State",
-   "t": "2026-09-11T23:00:00Z"
-  },
-  {
-   "lg": "CFB",
    "ref_id": "401858215",
    "home": "Louisville",
    "away": "Villanova",
@@ -2624,6 +2617,13 @@
    "ref_id": "401858222",
    "home": "NC State",
    "away": "Richmond",
+   "t": "2026-09-11T23:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401858220",
+   "home": "Virginia",
+   "away": "Norfolk State",
    "t": "2026-09-11T23:00:00Z"
   },
   {
@@ -2642,9 +2642,16 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401867929",
-   "home": "James Madison",
-   "away": "Wagner",
+   "ref_id": "401858224",
+   "home": "Purdue",
+   "away": "Wake Forest",
+   "t": "2026-09-12T16:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401862702",
+   "home": "Army",
+   "away": "South Florida",
    "t": "2026-09-12T16:00:00Z"
   },
   {
@@ -2656,16 +2663,16 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401858439",
-   "home": "Indiana",
-   "away": "Howard",
+   "ref_id": "401856679",
+   "home": "Michigan",
+   "away": "Oklahoma",
    "t": "2026-09-12T16:00:00Z"
   },
   {
    "lg": "CFB",
-   "ref_id": "401858224",
-   "home": "Purdue",
-   "away": "Wake Forest",
+   "ref_id": "401856683",
+   "home": "Texas A&M",
+   "away": "Arizona State",
    "t": "2026-09-12T16:00:00Z"
   },
   {
@@ -2673,27 +2680,6 @@
    "ref_id": "401866416",
    "home": "Kent State",
    "away": "Wofford",
-   "t": "2026-09-12T16:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401868187",
-   "home": "Liberty",
-   "away": "Gardner-Webb",
-   "t": "2026-09-12T16:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401856781",
-   "home": "Kansas State",
-   "away": "Washington State",
-   "t": "2026-09-12T16:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401856679",
-   "home": "Michigan",
-   "away": "Oklahoma",
    "t": "2026-09-12T16:00:00Z"
   },
   {
@@ -2712,16 +2698,9 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401856683",
-   "home": "Texas A&M",
-   "away": "Arizona State",
-   "t": "2026-09-12T16:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401864571",
-   "home": "East Carolina",
-   "away": "App State",
+   "ref_id": "401867929",
+   "home": "James Madison",
+   "away": "Wagner",
    "t": "2026-09-12T16:00:00Z"
   },
   {
@@ -2733,9 +2712,30 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401862702",
-   "home": "Army",
-   "away": "South Florida",
+   "ref_id": "401856781",
+   "home": "Kansas State",
+   "away": "Washington State",
+   "t": "2026-09-12T16:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401858439",
+   "home": "Indiana",
+   "away": "Howard",
+   "t": "2026-09-12T16:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401864571",
+   "home": "East Carolina",
+   "away": "App State",
+   "t": "2026-09-12T16:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401868187",
+   "home": "Liberty",
+   "away": "Gardner-Webb",
    "t": "2026-09-12T16:00:00Z"
   },
   {
@@ -2782,9 +2782,9 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401860884",
-   "home": "Texas State",
-   "away": "UTSA",
+   "ref_id": "401858444",
+   "home": "UConn",
+   "away": "Maryland",
    "t": "2026-09-12T19:30:00Z"
   },
   {
@@ -2796,9 +2796,9 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401856785",
-   "home": "Colorado",
-   "away": "Weber State",
+   "ref_id": "401856674",
+   "home": "Kentucky",
+   "away": "Alabama",
    "t": "2026-09-12T19:30:00Z"
   },
   {
@@ -2810,16 +2810,23 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401856674",
-   "home": "Kentucky",
-   "away": "Alabama",
+   "ref_id": "401858217",
+   "home": "Illinois",
+   "away": "Duke",
    "t": "2026-09-12T19:30:00Z"
   },
   {
    "lg": "CFB",
-   "ref_id": "401858217",
-   "home": "Illinois",
-   "away": "Duke",
+   "ref_id": "401858440",
+   "home": "Michigan State",
+   "away": "Eastern Michigan",
+   "t": "2026-09-12T19:30:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401858446",
+   "home": "Washington",
+   "away": "Utah State",
    "t": "2026-09-12T19:30:00Z"
   },
   {
@@ -2831,16 +2838,30 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401858216",
-   "home": "Syracuse",
-   "away": "California",
+   "ref_id": "401866412",
+   "home": "Akron",
+   "away": "Robert Morris",
    "t": "2026-09-12T19:30:00Z"
   },
   {
    "lg": "CFB",
-   "ref_id": "401858446",
-   "home": "Washington",
-   "away": "Utah State",
+   "ref_id": "401856785",
+   "home": "Colorado",
+   "away": "Weber State",
+   "t": "2026-09-12T19:30:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401862708",
+   "home": "UAB",
+   "away": "UL Monroe",
+   "t": "2026-09-12T19:30:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401858216",
+   "home": "Syracuse",
+   "away": "California",
    "t": "2026-09-12T19:30:00Z"
   },
   {
@@ -2859,30 +2880,9 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401866412",
-   "home": "Akron",
-   "away": "Robert Morris",
-   "t": "2026-09-12T19:30:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401858440",
-   "home": "Michigan State",
-   "away": "Eastern Michigan",
-   "t": "2026-09-12T19:30:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401858444",
-   "home": "UConn",
-   "away": "Maryland",
-   "t": "2026-09-12T19:30:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401862708",
-   "home": "UAB",
-   "away": "UL Monroe",
+   "ref_id": "401860884",
+   "home": "Texas State",
+   "away": "UTSA",
    "t": "2026-09-12T19:30:00Z"
   },
   {
@@ -2901,9 +2901,9 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401865252",
-   "home": "New Mexico",
-   "away": "Mercyhurst",
+   "ref_id": "401868326",
+   "home": "Troy",
+   "away": "Alabama State",
    "t": "2026-09-12T20:00:00Z"
   },
   {
@@ -2915,9 +2915,9 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401868326",
-   "home": "Troy",
-   "away": "Alabama State",
+   "ref_id": "401865252",
+   "home": "New Mexico",
+   "away": "Mercyhurst",
    "t": "2026-09-12T20:00:00Z"
   },
   {
@@ -2936,13 +2936,6 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401860881",
-   "home": "Boise State",
-   "away": "Memphis",
-   "t": "2026-09-12T22:00:00Z"
-  },
-  {
-   "lg": "CFB",
    "ref_id": "401866418",
    "home": "Ohio",
    "away": "Jacksonville State",
@@ -2957,31 +2950,17 @@
   },
   {
    "lg": "CFB",
+   "ref_id": "401860881",
+   "home": "Boise State",
+   "away": "Memphis",
+   "t": "2026-09-12T22:00:00Z"
+  },
+  {
+   "lg": "CFB",
    "ref_id": "401866421",
    "home": "Western Michigan",
    "away": "Monmouth",
    "t": "2026-09-12T22:30:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401856681",
-   "home": "Georgia Tech",
-   "away": "Tennessee",
-   "t": "2026-09-12T23:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401871045",
-   "home": "Marshall",
-   "away": "Middle Tennessee",
-   "t": "2026-09-12T23:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401868241",
-   "home": "Arkansas State",
-   "away": "West Georgia",
-   "t": "2026-09-12T23:00:00Z"
   },
   {
    "lg": "CFB",
@@ -3006,37 +2985,16 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401856680",
-   "home": "South Carolina",
-   "away": "Towson",
-   "t": "2026-09-12T23:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401862707",
-   "home": "Sam Houston",
-   "away": "Tulsa",
-   "t": "2026-09-12T23:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401856787",
-   "home": "Houston",
-   "away": "Southern",
-   "t": "2026-09-12T23:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401864503",
-   "home": "Northern Illinois",
-   "away": "Illinois State",
-   "t": "2026-09-12T23:00:00Z"
-  },
-  {
-   "lg": "CFB",
    "ref_id": "401860882",
    "home": "Colorado State",
    "away": "Southern Utah",
+   "t": "2026-09-12T23:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401871045",
+   "home": "Marshall",
+   "away": "Middle Tennessee",
    "t": "2026-09-12T23:00:00Z"
   },
   {
@@ -3055,10 +3013,45 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401858447",
-   "home": "Wisconsin",
-   "away": "Western Illinois",
-   "t": "2026-09-12T23:15:00Z"
+   "ref_id": "401864503",
+   "home": "Northern Illinois",
+   "away": "Illinois State",
+   "t": "2026-09-12T23:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401868241",
+   "home": "Arkansas State",
+   "away": "West Georgia",
+   "t": "2026-09-12T23:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401856680",
+   "home": "South Carolina",
+   "away": "Towson",
+   "t": "2026-09-12T23:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401856787",
+   "home": "Houston",
+   "away": "Southern",
+   "t": "2026-09-12T23:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401856681",
+   "home": "Georgia Tech",
+   "away": "Tennessee",
+   "t": "2026-09-12T23:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401862707",
+   "home": "Sam Houston",
+   "away": "Tulsa",
+   "t": "2026-09-12T23:00:00Z"
   },
   {
    "lg": "CFB",
@@ -3069,10 +3062,10 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401868008",
-   "home": "Coastal Carolina",
-   "away": "Fordham",
-   "t": "2026-09-12T23:30:00Z"
+   "ref_id": "401858447",
+   "home": "Wisconsin",
+   "away": "Western Illinois",
+   "t": "2026-09-12T23:15:00Z"
   },
   {
    "lg": "CFB",
@@ -3083,16 +3076,9 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401858219",
-   "home": "Clemson",
-   "away": "Georgia Southern",
-   "t": "2026-09-12T23:30:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401856682",
-   "home": "Texas",
-   "away": "Ohio State",
+   "ref_id": "401868008",
+   "home": "Coastal Carolina",
+   "away": "Fordham",
    "t": "2026-09-12T23:30:00Z"
   },
   {
@@ -3104,9 +3090,23 @@
   },
   {
    "lg": "CFB",
+   "ref_id": "401858219",
+   "home": "Clemson",
+   "away": "Georgia Southern",
+   "t": "2026-09-12T23:30:00Z"
+  },
+  {
+   "lg": "CFB",
    "ref_id": "401862703",
    "home": "Florida Atlantic",
    "away": "Navy",
+   "t": "2026-09-12T23:30:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401856682",
+   "home": "Texas",
+   "away": "Ohio State",
    "t": "2026-09-12T23:30:00Z"
   },
   {
@@ -3146,16 +3146,16 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401864504",
-   "home": "San Jos\u00e9 State",
-   "away": "Cal Poly",
+   "ref_id": "401864505",
+   "home": "UTEP",
+   "away": "Texas Southern",
    "t": "2026-09-13T01:00:00Z"
   },
   {
    "lg": "CFB",
-   "ref_id": "401864505",
-   "home": "UTEP",
-   "away": "Texas Southern",
+   "ref_id": "401864504",
+   "home": "San Jos\u00e9 State",
+   "away": "Cal Poly",
    "t": "2026-09-13T01:00:00Z"
   },
   {
@@ -3237,9 +3237,16 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401856812",
-   "home": "Kansas",
-   "away": "Arizona State",
+   "ref_id": "401858229",
+   "home": "Clemson",
+   "away": "North Carolina",
+   "t": "2026-09-19T16:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401856686",
+   "home": "Arkansas",
+   "away": "Georgia",
    "t": "2026-09-19T16:00:00Z"
   },
   {
@@ -3251,20 +3258,6 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401858454",
-   "home": "Ohio State",
-   "away": "Kent State",
-   "t": "2026-09-19T16:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401858456",
-   "home": "Penn State",
-   "away": "Buffalo",
-   "t": "2026-09-19T16:00:00Z"
-  },
-  {
-   "lg": "CFB",
    "ref_id": "401860889",
    "home": "Texas State",
    "away": "North Texas",
@@ -3272,16 +3265,9 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401856798",
-   "home": "Iowa State",
-   "away": "Bowling Green",
-   "t": "2026-09-19T16:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401858229",
-   "home": "Clemson",
-   "away": "North Carolina",
+   "ref_id": "401856812",
+   "home": "Kansas",
+   "away": "Arizona State",
    "t": "2026-09-19T16:00:00Z"
   },
   {
@@ -3300,9 +3286,23 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401856686",
-   "home": "Arkansas",
-   "away": "Georgia",
+   "ref_id": "401856798",
+   "home": "Iowa State",
+   "away": "Bowling Green",
+   "t": "2026-09-19T16:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401858454",
+   "home": "Ohio State",
+   "away": "Kent State",
+   "t": "2026-09-19T16:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401858456",
+   "home": "Penn State",
+   "away": "Buffalo",
    "t": "2026-09-19T16:00:00Z"
   },
   {
@@ -3349,6 +3349,13 @@
   },
   {
    "lg": "CFB",
+   "ref_id": "401856685",
+   "home": "Alabama",
+   "away": "Florida State",
+   "t": "2026-09-19T19:30:00Z"
+  },
+  {
+   "lg": "CFB",
    "ref_id": "401858233",
    "home": "California",
    "away": "Wagner",
@@ -3356,23 +3363,9 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401860890",
-   "home": "Washington State",
-   "away": "Duquesne",
-   "t": "2026-09-19T19:30:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401858450",
-   "home": "Michigan",
-   "away": "UTEP",
-   "t": "2026-09-19T19:30:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401856694",
-   "home": "Texas A&M",
-   "away": "Kentucky",
+   "ref_id": "401858230",
+   "home": "Louisville",
+   "away": "SMU",
    "t": "2026-09-19T19:30:00Z"
   },
   {
@@ -3391,23 +3384,9 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401856685",
-   "home": "Alabama",
-   "away": "Florida State",
-   "t": "2026-09-19T19:30:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401858457",
-   "home": "Rutgers",
-   "away": "USC",
-   "t": "2026-09-19T19:30:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401858230",
-   "home": "Louisville",
-   "away": "SMU",
+   "ref_id": "401858450",
+   "home": "Michigan",
+   "away": "UTEP",
    "t": "2026-09-19T19:30:00Z"
   },
   {
@@ -3419,9 +3398,37 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401858231",
-   "home": "Duke",
-   "away": "Stanford",
+   "ref_id": "401858457",
+   "home": "Rutgers",
+   "away": "USC",
+   "t": "2026-09-19T19:30:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401860890",
+   "home": "Washington State",
+   "away": "Duquesne",
+   "t": "2026-09-19T19:30:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401856694",
+   "home": "Texas A&M",
+   "away": "Kentucky",
+   "t": "2026-09-19T19:30:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401867804",
+   "home": "Baylor",
+   "away": "Louisiana Tech",
+   "t": "2026-09-19T20:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401866422",
+   "home": "Liberty",
+   "away": "Ball State",
    "t": "2026-09-19T20:00:00Z"
   },
   {
@@ -3433,13 +3440,6 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401867804",
-   "home": "Baylor",
-   "away": "Louisiana Tech",
-   "t": "2026-09-19T20:00:00Z"
-  },
-  {
-   "lg": "CFB",
    "ref_id": "401858471",
    "home": "Iowa",
    "away": "Northern Iowa",
@@ -3447,9 +3447,9 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401866422",
-   "home": "Liberty",
-   "away": "Ball State",
+   "ref_id": "401858231",
+   "home": "Duke",
+   "away": "Stanford",
    "t": "2026-09-19T20:00:00Z"
   },
   {
@@ -3468,16 +3468,16 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401862771",
-   "home": "Florida Atlantic",
-   "away": "Florida International",
+   "ref_id": "401862710",
+   "home": "Old Dominion",
+   "away": "East Carolina",
    "t": "2026-09-19T22:00:00Z"
   },
   {
    "lg": "CFB",
-   "ref_id": "401862710",
-   "home": "Old Dominion",
-   "away": "East Carolina",
+   "ref_id": "401862771",
+   "home": "Florida Atlantic",
+   "away": "Florida International",
    "t": "2026-09-19T22:00:00Z"
   },
   {
@@ -3496,79 +3496,9 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401856800",
-   "home": "UCF",
-   "away": "Georgia State",
-   "t": "2026-09-19T23:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401856687",
-   "home": "Auburn",
-   "away": "Florida",
-   "t": "2026-09-19T23:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401861963",
-   "home": "Southern Miss",
-   "away": "UConn",
-   "t": "2026-09-19T23:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401862773",
-   "home": "Rice",
-   "away": "Western Michigan",
-   "t": "2026-09-19T23:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401870764",
-   "home": "Sam Houston",
-   "away": "Nicholls",
-   "t": "2026-09-19T23:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401864443",
-   "home": "Middle Tennessee",
-   "away": "Nevada",
-   "t": "2026-09-19T23:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401856803",
-   "home": "Oklahoma State",
-   "away": "Murray State",
-   "t": "2026-09-19T23:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401856689",
-   "home": "Missouri",
-   "away": "Troy",
-   "t": "2026-09-19T23:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401869948",
-   "home": "Jacksonville State",
-   "away": "Georgia Southern",
-   "t": "2026-09-19T23:00:00Z"
-  },
-  {
-   "lg": "CFB",
    "ref_id": "401862777",
    "home": "South Florida",
    "away": "Delaware State",
-   "t": "2026-09-19T23:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401866423",
-   "home": "South Alabama",
-   "away": "Ohio",
    "t": "2026-09-19T23:00:00Z"
   },
   {
@@ -3580,10 +3510,73 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401858452",
-   "home": "Nebraska",
-   "away": "North Dakota",
-   "t": "2026-09-19T23:15:00Z"
+   "ref_id": "401856803",
+   "home": "Oklahoma State",
+   "away": "Murray State",
+   "t": "2026-09-19T23:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401869948",
+   "home": "Jacksonville State",
+   "away": "Georgia Southern",
+   "t": "2026-09-19T23:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401870764",
+   "home": "Sam Houston",
+   "away": "Nicholls",
+   "t": "2026-09-19T23:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401856800",
+   "home": "UCF",
+   "away": "Georgia State",
+   "t": "2026-09-19T23:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401856689",
+   "home": "Missouri",
+   "away": "Troy",
+   "t": "2026-09-19T23:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401866423",
+   "home": "South Alabama",
+   "away": "Ohio",
+   "t": "2026-09-19T23:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401864443",
+   "home": "Middle Tennessee",
+   "away": "Nevada",
+   "t": "2026-09-19T23:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401862773",
+   "home": "Rice",
+   "away": "Western Michigan",
+   "t": "2026-09-19T23:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401861963",
+   "home": "Southern Miss",
+   "away": "UConn",
+   "t": "2026-09-19T23:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401856687",
+   "home": "Auburn",
+   "away": "Florida",
+   "t": "2026-09-19T23:00:00Z"
   },
   {
    "lg": "CFB",
@@ -3594,23 +3587,16 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401856802",
-   "home": "Virginia",
-   "away": "West Virginia",
-   "t": "2026-09-19T23:30:00Z"
+   "ref_id": "401858452",
+   "home": "Nebraska",
+   "away": "North Dakota",
+   "t": "2026-09-19T23:15:00Z"
   },
   {
    "lg": "CFB",
-   "ref_id": "401856690",
-   "home": "Oklahoma",
-   "away": "New Mexico",
-   "t": "2026-09-19T23:30:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401856795",
-   "home": "Colorado State",
-   "away": "BYU",
+   "ref_id": "401856796",
+   "home": "Northwestern",
+   "away": "Colorado",
    "t": "2026-09-19T23:30:00Z"
   },
   {
@@ -3629,9 +3615,16 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401856796",
-   "home": "Northwestern",
-   "away": "Colorado",
+   "ref_id": "401856802",
+   "home": "Virginia",
+   "away": "West Virginia",
+   "t": "2026-09-19T23:30:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401856795",
+   "home": "Colorado State",
+   "away": "BYU",
    "t": "2026-09-19T23:30:00Z"
   },
   {
@@ -3643,6 +3636,13 @@
   },
   {
    "lg": "CFB",
+   "ref_id": "401856690",
+   "home": "Oklahoma",
+   "away": "New Mexico",
+   "t": "2026-09-19T23:30:00Z"
+  },
+  {
+   "lg": "CFB",
    "ref_id": "401856692",
    "home": "Tennessee",
    "away": "Kennesaw State",
@@ -3650,9 +3650,9 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401862776",
-   "home": "Louisiana",
-   "away": "UAB",
+   "ref_id": "401862775",
+   "home": "Tulsa",
+   "away": "East Texas A&M",
    "t": "2026-09-20T00:00:00Z"
   },
   {
@@ -3664,16 +3664,16 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401862775",
-   "home": "Tulsa",
-   "away": "East Texas A&M",
+   "ref_id": "401856799",
+   "home": "TCU",
+   "away": "Arkansas State",
    "t": "2026-09-20T00:00:00Z"
   },
   {
    "lg": "CFB",
-   "ref_id": "401856799",
-   "home": "TCU",
-   "away": "Arkansas State",
+   "ref_id": "401862776",
+   "home": "Louisiana",
+   "away": "UAB",
    "t": "2026-09-20T00:00:00Z"
   },
   {
@@ -3692,13 +3692,6 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401856793",
-   "home": "Arizona",
-   "away": "Northern Illinois",
-   "t": "2026-09-20T02:30:00Z"
-  },
-  {
-   "lg": "CFB",
    "ref_id": "401864507",
    "home": "Sacramento State",
    "away": "North Dakota State",
@@ -3706,9 +3699,16 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401858458",
-   "home": "UCLA",
-   "away": "Purdue",
+   "ref_id": "401856793",
+   "home": "Arizona",
+   "away": "Northern Illinois",
+   "t": "2026-09-20T02:30:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401860888",
+   "home": "San Jos\u00e9 State",
+   "away": "Fresno State",
    "t": "2026-09-20T03:00:00Z"
   },
   {
@@ -3720,9 +3720,9 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401860888",
-   "home": "San Jos\u00e9 State",
-   "away": "Fresno State",
+   "ref_id": "401858458",
+   "home": "UCLA",
+   "away": "Purdue",
    "t": "2026-09-20T03:00:00Z"
   },
   {
@@ -3741,16 +3741,16 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401862778",
-   "home": "UAB",
-   "away": "Navy",
+   "ref_id": "401858468",
+   "home": "Rutgers",
+   "away": "Howard",
    "t": "2026-09-25T23:00:00Z"
   },
   {
    "lg": "CFB",
-   "ref_id": "401858468",
-   "home": "Rutgers",
-   "away": "Howard",
+   "ref_id": "401862778",
+   "home": "UAB",
+   "away": "Navy",
    "t": "2026-09-25T23:00:00Z"
   },
   {
@@ -3769,9 +3769,9 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401864512",
-   "home": "Akron",
-   "away": "UNLV",
+   "ref_id": "401860893",
+   "home": "Toledo",
+   "away": "San Diego State",
    "t": "2026-09-26T16:00:00Z"
   },
   {
@@ -3790,20 +3790,6 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401856813",
-   "home": "Baylor",
-   "away": "Colorado",
-   "t": "2026-09-26T16:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401858242",
-   "home": "Boston College",
-   "away": "Virginia Tech",
-   "t": "2026-09-26T16:00:00Z"
-  },
-  {
-   "lg": "CFB",
    "ref_id": "401856704",
    "home": "Tennessee",
    "away": "Texas",
@@ -3811,9 +3797,16 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401858236",
-   "home": "Pittsburgh",
-   "away": "Bucknell",
+   "ref_id": "401856813",
+   "home": "Baylor",
+   "away": "Colorado",
+   "t": "2026-09-26T16:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401864512",
+   "home": "Akron",
+   "away": "UNLV",
    "t": "2026-09-26T16:00:00Z"
   },
   {
@@ -3825,23 +3818,30 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401858465",
-   "home": "Ohio State",
-   "away": "Illinois",
-   "t": "2026-09-26T16:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401860893",
-   "home": "Toledo",
-   "away": "San Diego State",
-   "t": "2026-09-26T16:00:00Z"
-  },
-  {
-   "lg": "CFB",
    "ref_id": "401860896",
    "home": "UTSA",
    "away": "Colorado State",
+   "t": "2026-09-26T16:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401858236",
+   "home": "Pittsburgh",
+   "away": "Bucknell",
+   "t": "2026-09-26T16:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401858242",
+   "home": "Boston College",
+   "away": "Virginia Tech",
+   "t": "2026-09-26T16:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401858465",
+   "home": "Ohio State",
+   "away": "Illinois",
    "t": "2026-09-26T16:00:00Z"
   },
   {
@@ -3867,13 +3867,6 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401864511",
-   "home": "Georgia State",
-   "away": "Northern Illinois",
-   "t": "2026-09-26T18:00:00Z"
-  },
-  {
-   "lg": "CFB",
    "ref_id": "401858467",
    "home": "Purdue",
    "away": "Notre Dame",
@@ -3881,10 +3874,10 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401864510",
-   "home": "Wyoming",
-   "away": "Hawai'i",
-   "t": "2026-09-26T19:00:00Z"
+   "ref_id": "401864511",
+   "home": "Georgia State",
+   "away": "Northern Illinois",
+   "t": "2026-09-26T18:00:00Z"
   },
   {
    "lg": "CFB",
@@ -3895,30 +3888,23 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401858244",
-   "home": "Duke",
-   "away": "William & Mary",
+   "ref_id": "401864510",
+   "home": "Wyoming",
+   "away": "Hawai'i",
+   "t": "2026-09-26T19:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401861970",
+   "home": "Miami (OH)",
+   "away": "UConn",
    "t": "2026-09-26T19:30:00Z"
   },
   {
    "lg": "CFB",
-   "ref_id": "401856700",
-   "home": "Georgia",
-   "away": "Oklahoma",
-   "t": "2026-09-26T19:30:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401856699",
-   "home": "Florida",
-   "away": "Ole Miss",
-   "t": "2026-09-26T19:30:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401866426",
-   "home": "Buffalo",
-   "away": "Robert Morris",
+   "ref_id": "401856815",
+   "home": "UCF",
+   "away": "TCU",
    "t": "2026-09-26T19:30:00Z"
   },
   {
@@ -3937,16 +3923,16 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401868188",
-   "home": "Marshall",
-   "away": "Gardner-Webb",
+   "ref_id": "401856699",
+   "home": "Florida",
+   "away": "Ole Miss",
    "t": "2026-09-26T19:30:00Z"
   },
   {
    "lg": "CFB",
-   "ref_id": "401856815",
-   "home": "UCF",
-   "away": "TCU",
+   "ref_id": "401858244",
+   "home": "Duke",
+   "away": "William & Mary",
    "t": "2026-09-26T19:30:00Z"
   },
   {
@@ -3965,9 +3951,23 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401861970",
-   "home": "Miami (OH)",
-   "away": "UConn",
+   "ref_id": "401868188",
+   "home": "Marshall",
+   "away": "Gardner-Webb",
+   "t": "2026-09-26T19:30:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401856700",
+   "home": "Georgia",
+   "away": "Oklahoma",
+   "t": "2026-09-26T19:30:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401866426",
+   "home": "Buffalo",
+   "away": "Robert Morris",
    "t": "2026-09-26T19:30:00Z"
   },
   {
@@ -4000,13 +4000,6 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401858464",
-   "home": "Michigan State",
-   "away": "Nebraska",
-   "t": "2026-09-26T21:00:00Z"
-  },
-  {
-   "lg": "CFB",
    "ref_id": "401862785",
    "home": "Bowling Green",
    "away": "South Florida",
@@ -4021,23 +4014,16 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401858239",
-   "home": "Virginia",
-   "away": "Delaware",
-   "t": "2026-09-26T22:00:00Z"
+   "ref_id": "401858464",
+   "home": "Michigan State",
+   "away": "Nebraska",
+   "t": "2026-09-26T21:00:00Z"
   },
   {
    "lg": "CFB",
    "ref_id": "401867909",
    "home": "Florida International",
    "away": "Long Island University",
-   "t": "2026-09-26T22:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401869961",
-   "home": "Old Dominion",
-   "away": "James Madison",
    "t": "2026-09-26T22:00:00Z"
   },
   {
@@ -4049,10 +4035,17 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401862780",
-   "home": "Charlotte",
-   "away": "Louisiana",
-   "t": "2026-09-26T22:30:00Z"
+   "ref_id": "401869961",
+   "home": "Old Dominion",
+   "away": "James Madison",
+   "t": "2026-09-26T22:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401858239",
+   "home": "Virginia",
+   "away": "Delaware",
+   "t": "2026-09-26T22:00:00Z"
   },
   {
    "lg": "CFB",
@@ -4063,9 +4056,23 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401856881",
-   "home": "West Virginia",
-   "away": "Oklahoma State",
+   "ref_id": "401862780",
+   "home": "Charlotte",
+   "away": "Louisiana",
+   "t": "2026-09-26T22:30:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401869931",
+   "home": "Arkansas State",
+   "away": "Kennesaw State",
+   "t": "2026-09-26T23:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401870745",
+   "home": "Western Kentucky",
+   "away": "Mercyhurst",
    "t": "2026-09-26T23:00:00Z"
   },
   {
@@ -4073,13 +4080,6 @@
    "ref_id": "401871048",
    "home": "Jacksonville State",
    "away": "Middle Tennessee",
-   "t": "2026-09-26T23:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401856814",
-   "home": "Cincinnati",
-   "away": "Kansas State",
    "t": "2026-09-26T23:00:00Z"
   },
   {
@@ -4098,17 +4098,24 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401869931",
-   "home": "Arkansas State",
-   "away": "Kennesaw State",
+   "ref_id": "401856881",
+   "home": "West Virginia",
+   "away": "Oklahoma State",
    "t": "2026-09-26T23:00:00Z"
   },
   {
    "lg": "CFB",
-   "ref_id": "401870745",
-   "home": "Western Kentucky",
-   "away": "Mercyhurst",
+   "ref_id": "401856814",
+   "home": "Cincinnati",
+   "away": "Kansas State",
    "t": "2026-09-26T23:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401860894",
+   "home": "Utah State",
+   "away": "Troy",
+   "t": "2026-09-26T23:30:00Z"
   },
   {
    "lg": "CFB",
@@ -4126,13 +4133,6 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401860894",
-   "home": "Utah State",
-   "away": "Troy",
-   "t": "2026-09-26T23:30:00Z"
-  },
-  {
-   "lg": "CFB",
    "ref_id": "401862783",
    "home": "North Texas",
    "away": "Houston Christian",
@@ -4140,16 +4140,16 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401858469",
-   "home": "USC",
-   "away": "Oregon",
+   "ref_id": "401856702",
+   "home": "LSU",
+   "away": "Texas A&M",
    "t": "2026-09-26T23:30:00Z"
   },
   {
    "lg": "CFB",
-   "ref_id": "401856702",
-   "home": "LSU",
-   "away": "Texas A&M",
+   "ref_id": "401858469",
+   "home": "USC",
+   "away": "Oregon",
    "t": "2026-09-26T23:30:00Z"
   },
   {
@@ -4203,16 +4203,16 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401858240",
-   "home": "Stanford",
-   "away": "Georgia Tech",
+   "ref_id": "401864509",
+   "home": "Nevada",
+   "away": "Air Force",
    "t": "2026-09-27T02:30:00Z"
   },
   {
    "lg": "CFB",
-   "ref_id": "401864509",
-   "home": "Nevada",
-   "away": "Air Force",
+   "ref_id": "401858240",
+   "home": "Stanford",
+   "away": "Georgia Tech",
    "t": "2026-09-27T02:30:00Z"
   },
   {
@@ -4266,9 +4266,30 @@
   },
   {
    "lg": "CFB",
+   "ref_id": "401858246",
+   "home": "SMU",
+   "away": "Boston College",
+   "t": "2026-10-03T16:00:00Z"
+  },
+  {
+   "lg": "CFB",
    "ref_id": "401858250",
    "home": "North Carolina",
    "away": "Notre Dame",
+   "t": "2026-10-03T16:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401856707",
+   "home": "Mississippi State",
+   "away": "Alabama",
+   "t": "2026-10-03T16:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401858251",
+   "home": "Wake Forest",
+   "away": "Stanford",
    "t": "2026-10-03T16:00:00Z"
   },
   {
@@ -4287,30 +4308,9 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401856822",
-   "home": "Iowa State",
-   "away": "West Virginia",
-   "t": "2026-10-03T16:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401856707",
-   "home": "Mississippi State",
-   "away": "Alabama",
-   "t": "2026-10-03T16:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401858474",
-   "home": "Minnesota",
-   "away": "Michigan",
-   "t": "2026-10-03T16:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401858251",
-   "home": "Wake Forest",
-   "away": "Stanford",
+   "ref_id": "401856819",
+   "home": "Houston",
+   "away": "UCF",
    "t": "2026-10-03T16:00:00Z"
   },
   {
@@ -4322,16 +4322,16 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401858246",
-   "home": "SMU",
-   "away": "Boston College",
+   "ref_id": "401858474",
+   "home": "Minnesota",
+   "away": "Michigan",
    "t": "2026-10-03T16:00:00Z"
   },
   {
    "lg": "CFB",
-   "ref_id": "401856819",
-   "home": "Houston",
-   "away": "UCF",
+   "ref_id": "401856822",
+   "home": "Iowa State",
+   "away": "West Virginia",
    "t": "2026-10-03T16:00:00Z"
   },
   {
@@ -4364,6 +4364,20 @@
   },
   {
    "lg": "CFB",
+   "ref_id": "401866430",
+   "home": "Central Michigan",
+   "away": "Akron",
+   "t": "2026-10-03T19:30:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401856710",
+   "home": "Tennessee",
+   "away": "Auburn",
+   "t": "2026-10-03T19:30:00Z"
+  },
+  {
+   "lg": "CFB",
    "ref_id": "401866434",
    "home": "Kent State",
    "away": "Ohio",
@@ -4371,9 +4385,30 @@
   },
   {
    "lg": "CFB",
+   "ref_id": "401866433",
+   "home": "Massachusetts",
+   "away": "Eastern Michigan",
+   "t": "2026-10-03T19:30:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401858248",
+   "home": "NC State",
+   "away": "Louisville",
+   "t": "2026-10-03T19:30:00Z"
+  },
+  {
+   "lg": "CFB",
    "ref_id": "401856708",
    "home": "Missouri",
    "away": "Florida",
+   "t": "2026-10-03T19:30:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401862793",
+   "home": "UAB",
+   "away": "Samford",
    "t": "2026-10-03T19:30:00Z"
   },
   {
@@ -4392,44 +4427,9 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401866477",
-   "home": "Miami (OH)",
-   "away": "Bowling Green",
-   "t": "2026-10-03T19:30:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401862793",
-   "home": "UAB",
-   "away": "Samford",
-   "t": "2026-10-03T19:30:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401858473",
-   "home": "Iowa",
-   "away": "Ohio State",
-   "t": "2026-10-03T19:30:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401856710",
-   "home": "Tennessee",
-   "away": "Auburn",
-   "t": "2026-10-03T19:30:00Z"
-  },
-  {
-   "lg": "CFB",
    "ref_id": "401858253",
    "home": "Florida State",
    "away": "Virginia",
-   "t": "2026-10-03T19:30:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401858248",
-   "home": "NC State",
-   "away": "Louisville",
    "t": "2026-10-03T19:30:00Z"
   },
   {
@@ -4441,16 +4441,16 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401866430",
-   "home": "Central Michigan",
-   "away": "Akron",
+   "ref_id": "401858473",
+   "home": "Iowa",
+   "away": "Ohio State",
    "t": "2026-10-03T19:30:00Z"
   },
   {
    "lg": "CFB",
-   "ref_id": "401866433",
-   "home": "Massachusetts",
-   "away": "Eastern Michigan",
+   "ref_id": "401866477",
+   "home": "Miami (OH)",
+   "away": "Bowling Green",
    "t": "2026-10-03T19:30:00Z"
   },
   {
@@ -4476,16 +4476,16 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401858472",
-   "home": "Illinois",
-   "away": "Purdue",
+   "ref_id": "401856709",
+   "home": "South Carolina",
+   "away": "Kentucky",
    "t": "2026-10-03T20:15:00Z"
   },
   {
    "lg": "CFB",
-   "ref_id": "401856709",
-   "home": "South Carolina",
-   "away": "Kentucky",
+   "ref_id": "401858472",
+   "home": "Illinois",
+   "away": "Purdue",
    "t": "2026-10-03T20:15:00Z"
   },
   {
@@ -4504,16 +4504,9 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401871089",
-   "home": "South Alabama",
-   "away": "UL Monroe",
-   "t": "2026-10-03T23:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401869942",
-   "home": "Coastal Carolina",
-   "away": "Georgia Southern",
+   "ref_id": "401862788",
+   "home": "Rice",
+   "away": "UTSA",
    "t": "2026-10-03T23:00:00Z"
   },
   {
@@ -4525,13 +4518,6 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401862788",
-   "home": "Rice",
-   "away": "UTSA",
-   "t": "2026-10-03T23:00:00Z"
-  },
-  {
-   "lg": "CFB",
    "ref_id": "401856818",
    "home": "TCU",
    "away": "BYU",
@@ -4539,16 +4525,30 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401860898",
-   "home": "Boise State",
-   "away": "Utah State",
+   "ref_id": "401869942",
+   "home": "Coastal Carolina",
+   "away": "Georgia Southern",
+   "t": "2026-10-03T23:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401871089",
+   "home": "South Alabama",
+   "away": "UL Monroe",
+   "t": "2026-10-03T23:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401869842",
+   "home": "Louisiana Tech",
+   "away": "Army",
    "t": "2026-10-03T23:30:00Z"
   },
   {
    "lg": "CFB",
-   "ref_id": "401856821",
-   "home": "Colorado",
-   "away": "Texas Tech",
+   "ref_id": "401860898",
+   "home": "Boise State",
+   "away": "Utah State",
    "t": "2026-10-03T23:30:00Z"
   },
   {
@@ -4560,9 +4560,16 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401869842",
-   "home": "Louisiana Tech",
-   "away": "Army",
+   "ref_id": "401858249",
+   "home": "Clemson",
+   "away": "Miami",
+   "t": "2026-10-03T23:30:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401856821",
+   "home": "Colorado",
+   "away": "Texas Tech",
    "t": "2026-10-03T23:30:00Z"
   },
   {
@@ -4574,13 +4581,6 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401858249",
-   "home": "Clemson",
-   "away": "Miami",
-   "t": "2026-10-03T23:30:00Z"
-  },
-  {
-   "lg": "CFB",
    "ref_id": "401856706",
    "home": "LSU",
    "away": "McNeese",
@@ -4588,16 +4588,16 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401858477",
-   "home": "Rutgers",
-   "away": "Indiana",
+   "ref_id": "401869932",
+   "home": "Louisiana",
+   "away": "Arkansas State",
    "t": "2026-10-04T00:00:00Z"
   },
   {
    "lg": "CFB",
-   "ref_id": "401869932",
-   "home": "Louisiana",
-   "away": "Arkansas State",
+   "ref_id": "401858477",
+   "home": "Rutgers",
+   "away": "Indiana",
    "t": "2026-10-04T00:00:00Z"
   },
   {
@@ -4609,16 +4609,16 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401860900",
-   "home": "San Diego State",
-   "away": "Texas State",
+   "ref_id": "401856817",
+   "home": "Arizona State",
+   "away": "Baylor",
    "t": "2026-10-04T02:30:00Z"
   },
   {
    "lg": "CFB",
-   "ref_id": "401856817",
-   "home": "Arizona State",
-   "away": "Baylor",
+   "ref_id": "401860900",
+   "home": "San Diego State",
+   "away": "Texas State",
    "t": "2026-10-04T02:30:00Z"
   },
   {
@@ -4658,16 +4658,16 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401871052",
-   "home": "Western Kentucky",
-   "away": "Missouri State",
+   "ref_id": "401870766",
+   "home": "Liberty",
+   "away": "Sam Houston",
    "t": "2026-10-08T23:00:00Z"
   },
   {
    "lg": "CFB",
-   "ref_id": "401870766",
-   "home": "Liberty",
-   "away": "Sam Houston",
+   "ref_id": "401871052",
+   "home": "Western Kentucky",
+   "away": "Missouri State",
    "t": "2026-10-08T23:00:00Z"
   },
   {
@@ -4700,16 +4700,16 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401864519",
-   "home": "San Jos\u00e9 State",
-   "away": "Wyoming",
+   "ref_id": "401860922",
+   "home": "Utah State",
+   "away": "Washington State",
    "t": "2026-10-10T01:00:00Z"
   },
   {
    "lg": "CFB",
-   "ref_id": "401860922",
-   "home": "Utah State",
-   "away": "Washington State",
+   "ref_id": "401864519",
+   "home": "San Jos\u00e9 State",
+   "away": "Wyoming",
    "t": "2026-10-10T01:00:00Z"
   },
   {
@@ -4721,9 +4721,30 @@
   },
   {
    "lg": "CFB",
+   "ref_id": "401866436",
+   "home": "Bowling Green",
+   "away": "Sacramento State",
+   "t": "2026-10-10T16:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401858481",
+   "home": "Nebraska",
+   "away": "Indiana",
+   "t": "2026-10-10T16:00:00Z"
+  },
+  {
+   "lg": "CFB",
    "ref_id": "401858260",
    "home": "NC State",
    "away": "Wake Forest",
+   "t": "2026-10-10T16:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401862795",
+   "home": "Army",
+   "away": "Tulane",
    "t": "2026-10-10T16:00:00Z"
   },
   {
@@ -4738,27 +4759,6 @@
    "ref_id": "401856824",
    "home": "Oklahoma State",
    "away": "UCF",
-   "t": "2026-10-10T16:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401866436",
-   "home": "Bowling Green",
-   "away": "Sacramento State",
-   "t": "2026-10-10T16:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401862795",
-   "home": "Army",
-   "away": "Tulane",
-   "t": "2026-10-10T16:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401858481",
-   "home": "Nebraska",
-   "away": "Indiana",
    "t": "2026-10-10T16:00:00Z"
   },
   {
@@ -4791,16 +4791,16 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401862797",
-   "home": "East Carolina",
-   "away": "Rice",
+   "ref_id": "401869843",
+   "home": "App State",
+   "away": "Old Dominion",
    "t": "2026-10-10T17:00:00Z"
   },
   {
    "lg": "CFB",
-   "ref_id": "401869843",
-   "home": "App State",
-   "away": "Old Dominion",
+   "ref_id": "401862797",
+   "home": "East Carolina",
+   "away": "Rice",
    "t": "2026-10-10T17:00:00Z"
   },
   {
@@ -4812,30 +4812,9 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401856717",
-   "home": "Oklahoma",
-   "away": "Texas",
-   "t": "2026-10-10T19:30:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401866435",
-   "home": "Akron",
-   "away": "Eastern Michigan",
-   "t": "2026-10-10T19:30:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401858259",
-   "home": "California",
-   "away": "Virginia Tech",
-   "t": "2026-10-10T19:30:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401858484",
-   "home": "Oregon",
-   "away": "UCLA",
+   "ref_id": "401866438",
+   "home": "Ohio",
+   "away": "Central Michigan",
    "t": "2026-10-10T19:30:00Z"
   },
   {
@@ -4847,51 +4826,9 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401858480",
-   "home": "Michigan State",
-   "away": "Illinois",
-   "t": "2026-10-10T19:30:00Z"
-  },
-  {
-   "lg": "CFB",
    "ref_id": "401866437",
    "home": "Toledo",
    "away": "Buffalo",
-   "t": "2026-10-10T19:30:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401866438",
-   "home": "Ohio",
-   "away": "Central Michigan",
-   "t": "2026-10-10T19:30:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401866439",
-   "home": "Western Michigan",
-   "away": "Kent State",
-   "t": "2026-10-10T19:30:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401862796",
-   "home": "North Texas",
-   "away": "Charlotte",
-   "t": "2026-10-10T19:30:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401862799",
-   "home": "Navy",
-   "away": "Tulsa",
-   "t": "2026-10-10T19:30:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401858255",
-   "home": "Georgia Tech",
-   "away": "Duke",
    "t": "2026-10-10T19:30:00Z"
   },
   {
@@ -4903,9 +4840,72 @@
   },
   {
    "lg": "CFB",
+   "ref_id": "401858259",
+   "home": "California",
+   "away": "Virginia Tech",
+   "t": "2026-10-10T19:30:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401858255",
+   "home": "Georgia Tech",
+   "away": "Duke",
+   "t": "2026-10-10T19:30:00Z"
+  },
+  {
+   "lg": "CFB",
    "ref_id": "401856718",
    "home": "Vanderbilt",
    "away": "Ole Miss",
+   "t": "2026-10-10T19:30:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401866435",
+   "home": "Akron",
+   "away": "Eastern Michigan",
+   "t": "2026-10-10T19:30:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401858484",
+   "home": "Oregon",
+   "away": "UCLA",
+   "t": "2026-10-10T19:30:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401856717",
+   "home": "Oklahoma",
+   "away": "Texas",
+   "t": "2026-10-10T19:30:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401858480",
+   "home": "Michigan State",
+   "away": "Illinois",
+   "t": "2026-10-10T19:30:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401866439",
+   "home": "Western Michigan",
+   "away": "Kent State",
+   "t": "2026-10-10T19:30:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401862799",
+   "home": "Navy",
+   "away": "Tulsa",
+   "t": "2026-10-10T19:30:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401862796",
+   "home": "North Texas",
+   "away": "Charlotte",
    "t": "2026-10-10T19:30:00Z"
   },
   {
@@ -4945,16 +4945,16 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401856715",
-   "home": "Kentucky",
-   "away": "LSU",
+   "ref_id": "401862798",
+   "home": "Memphis",
+   "away": "UAB",
    "t": "2026-10-10T23:00:00Z"
   },
   {
    "lg": "CFB",
-   "ref_id": "401869943",
-   "home": "Marshall",
-   "away": "Coastal Carolina",
+   "ref_id": "401856715",
+   "home": "Kentucky",
+   "away": "LSU",
    "t": "2026-10-10T23:00:00Z"
   },
   {
@@ -4966,23 +4966,16 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401862798",
-   "home": "Memphis",
-   "away": "UAB",
+   "ref_id": "401869943",
+   "home": "Marshall",
+   "away": "Coastal Carolina",
    "t": "2026-10-10T23:00:00Z"
   },
   {
    "lg": "CFB",
-   "ref_id": "401858258",
-   "home": "Virginia",
-   "away": "Syracuse",
-   "t": "2026-10-10T23:30:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401864516",
-   "home": "Northern Illinois",
-   "away": "Air Force",
+   "ref_id": "401869965",
+   "home": "Louisiana Tech",
+   "away": "Louisiana",
    "t": "2026-10-10T23:30:00Z"
   },
   {
@@ -4994,23 +4987,30 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401869949",
-   "home": "Georgia Southern",
-   "away": "James Madison",
-   "t": "2026-10-10T23:30:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401869965",
-   "home": "Louisiana Tech",
-   "away": "Louisiana",
-   "t": "2026-10-10T23:30:00Z"
-  },
-  {
-   "lg": "CFB",
    "ref_id": "401858485",
    "home": "Penn State",
    "away": "USC",
+   "t": "2026-10-10T23:30:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401864516",
+   "home": "Northern Illinois",
+   "away": "Air Force",
+   "t": "2026-10-10T23:30:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401858258",
+   "home": "Virginia",
+   "away": "Syracuse",
+   "t": "2026-10-10T23:30:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401869949",
+   "home": "Georgia Southern",
+   "away": "James Madison",
    "t": "2026-10-10T23:30:00Z"
   },
   {
@@ -5029,16 +5029,16 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401860901",
-   "home": "Fresno State",
-   "away": "Boise State",
+   "ref_id": "401856808",
+   "home": "Arizona State",
+   "away": "Hawai'i",
    "t": "2026-10-11T02:30:00Z"
   },
   {
    "lg": "CFB",
-   "ref_id": "401856808",
-   "home": "Arizona State",
-   "away": "Hawai'i",
+   "ref_id": "401860901",
+   "home": "Fresno State",
+   "away": "Boise State",
    "t": "2026-10-11T02:30:00Z"
   },
   {
@@ -5113,23 +5113,9 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401858268",
-   "home": "SMU",
-   "away": "Virginia",
-   "t": "2026-10-17T16:00:00Z"
-  },
-  {
-   "lg": "CFB",
    "ref_id": "401856830",
    "home": "Kansas State",
    "away": "Kansas",
-   "t": "2026-10-17T16:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401856724",
-   "home": "Texas",
-   "away": "Florida",
    "t": "2026-10-17T16:00:00Z"
   },
   {
@@ -5148,9 +5134,9 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401869957",
-   "home": "James Madison",
-   "away": "Georgia State",
+   "ref_id": "401858261",
+   "home": "Clemson",
+   "away": "Charleston Southern",
    "t": "2026-10-17T16:00:00Z"
   },
   {
@@ -5162,20 +5148,6 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401858491",
-   "home": "Michigan State",
-   "away": "Northwestern",
-   "t": "2026-10-17T16:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401858261",
-   "home": "Clemson",
-   "away": "Charleston Southern",
-   "t": "2026-10-17T16:00:00Z"
-  },
-  {
-   "lg": "CFB",
    "ref_id": "401858488",
    "home": "Indiana",
    "away": "Ohio State",
@@ -5183,9 +5155,37 @@
   },
   {
    "lg": "CFB",
+   "ref_id": "401856724",
+   "home": "Texas",
+   "away": "Florida",
+   "t": "2026-10-17T16:00:00Z"
+  },
+  {
+   "lg": "CFB",
    "ref_id": "401856720",
    "home": "LSU",
    "away": "Mississippi State",
+   "t": "2026-10-17T16:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401869957",
+   "home": "James Madison",
+   "away": "Georgia State",
+   "t": "2026-10-17T16:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401858268",
+   "home": "SMU",
+   "away": "Virginia",
+   "t": "2026-10-17T16:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401858491",
+   "home": "Michigan State",
+   "away": "Northwestern",
    "t": "2026-10-17T16:00:00Z"
   },
   {
@@ -5204,13 +5204,6 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401862803",
-   "home": "Temple",
-   "away": "Charlotte",
-   "t": "2026-10-17T17:00:00Z"
-  },
-  {
-   "lg": "CFB",
    "ref_id": "401866442",
    "home": "Buffalo",
    "away": "Massachusetts",
@@ -5225,6 +5218,13 @@
   },
   {
    "lg": "CFB",
+   "ref_id": "401862803",
+   "home": "Temple",
+   "away": "Charlotte",
+   "t": "2026-10-17T17:00:00Z"
+  },
+  {
+   "lg": "CFB",
    "ref_id": "401866443",
    "home": "Central Michigan",
    "away": "Western Michigan",
@@ -5232,30 +5232,16 @@
   },
   {
    "lg": "CFB",
+   "ref_id": "401856828",
+   "home": "Texas Tech",
+   "away": "Arizona State",
+   "t": "2026-10-17T19:30:00Z"
+  },
+  {
+   "lg": "CFB",
    "ref_id": "401858264",
    "home": "Virginia Tech",
    "away": "Georgia Tech",
-   "t": "2026-10-17T19:30:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401866478",
-   "home": "Miami (OH)",
-   "away": "Akron",
-   "t": "2026-10-17T19:30:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401856719",
-   "home": "Georgia",
-   "away": "Auburn",
-   "t": "2026-10-17T19:30:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401864522",
-   "home": "Wyoming",
-   "away": "Northern Illinois",
    "t": "2026-10-17T19:30:00Z"
   },
   {
@@ -5267,9 +5253,9 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401864524",
-   "home": "Air Force",
-   "away": "UNLV",
+   "ref_id": "401866478",
+   "home": "Miami (OH)",
+   "away": "Akron",
    "t": "2026-10-17T19:30:00Z"
   },
   {
@@ -5288,9 +5274,16 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401856828",
-   "home": "Texas Tech",
-   "away": "Arizona State",
+   "ref_id": "401864522",
+   "home": "Wyoming",
+   "away": "Northern Illinois",
+   "t": "2026-10-17T19:30:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401856721",
+   "home": "Ole Miss",
+   "away": "Missouri",
    "t": "2026-10-17T19:30:00Z"
   },
   {
@@ -5302,9 +5295,16 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401856721",
-   "home": "Ole Miss",
-   "away": "Missouri",
+   "ref_id": "401856719",
+   "home": "Georgia",
+   "away": "Auburn",
+   "t": "2026-10-17T19:30:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401864524",
+   "home": "Air Force",
+   "away": "UNLV",
    "t": "2026-10-17T19:30:00Z"
   },
   {
@@ -5330,16 +5330,16 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401869934",
-   "home": "Southern Miss",
-   "away": "Arkansas State",
+   "ref_id": "401856832",
+   "home": "Baylor",
+   "away": "TCU",
    "t": "2026-10-17T23:00:00Z"
   },
   {
    "lg": "CFB",
-   "ref_id": "401858263",
-   "home": "Miami",
-   "away": "Florida State",
+   "ref_id": "401869934",
+   "home": "Southern Miss",
+   "away": "Arkansas State",
    "t": "2026-10-17T23:00:00Z"
   },
   {
@@ -5351,16 +5351,16 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401856832",
-   "home": "Baylor",
-   "away": "TCU",
+   "ref_id": "401856726",
+   "home": "Vanderbilt",
+   "away": "Arkansas",
    "t": "2026-10-17T23:00:00Z"
   },
   {
    "lg": "CFB",
-   "ref_id": "401856726",
-   "home": "Vanderbilt",
-   "away": "Arkansas",
+   "ref_id": "401858263",
+   "home": "Miami",
+   "away": "Florida State",
    "t": "2026-10-17T23:00:00Z"
   },
   {
@@ -5372,9 +5372,23 @@
   },
   {
    "lg": "CFB",
+   "ref_id": "401858494",
+   "home": "UCLA",
+   "away": "Wisconsin",
+   "t": "2026-10-17T23:30:00Z"
+  },
+  {
+   "lg": "CFB",
    "ref_id": "401856809",
    "home": "BYU",
    "away": "Notre Dame",
+   "t": "2026-10-17T23:30:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401856831",
+   "home": "Houston",
+   "away": "Oklahoma State",
    "t": "2026-10-17T23:30:00Z"
   },
   {
@@ -5396,20 +5410,6 @@
    "ref_id": "401858265",
    "home": "Syracuse",
    "away": "Louisville",
-   "t": "2026-10-17T23:30:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401856831",
-   "home": "Houston",
-   "away": "Oklahoma State",
-   "t": "2026-10-17T23:30:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401858494",
-   "home": "UCLA",
-   "away": "Wisconsin",
    "t": "2026-10-17T23:30:00Z"
   },
   {
@@ -5449,13 +5449,6 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401864521",
-   "home": "Hawai'i",
-   "away": "New Mexico",
-   "t": "2026-10-18T02:30:00Z"
-  },
-  {
-   "lg": "CFB",
    "ref_id": "401860904",
    "home": "San Diego State",
    "away": "Fresno State",
@@ -5470,6 +5463,13 @@
   },
   {
    "lg": "CFB",
+   "ref_id": "401864521",
+   "home": "Hawai'i",
+   "away": "New Mexico",
+   "t": "2026-10-18T02:30:00Z"
+  },
+  {
+   "lg": "CFB",
    "ref_id": "401858492",
    "home": "Oregon",
    "away": "Nebraska",
@@ -5477,16 +5477,16 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401871069",
-   "home": "Delaware",
-   "away": "Missouri State",
+   "ref_id": "401871055",
+   "home": "Florida International",
+   "away": "Middle Tennessee",
    "t": "2026-10-20T23:00:00Z"
   },
   {
    "lg": "CFB",
-   "ref_id": "401871055",
-   "home": "Florida International",
-   "away": "Middle Tennessee",
+   "ref_id": "401871069",
+   "home": "Delaware",
+   "away": "Missouri State",
    "t": "2026-10-20T23:00:00Z"
   },
   {
@@ -5505,16 +5505,16 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401869845",
-   "home": "App State",
-   "away": "James Madison",
+   "ref_id": "401871056",
+   "home": "Kennesaw State",
+   "away": "Liberty",
    "t": "2026-10-22T23:00:00Z"
   },
   {
    "lg": "CFB",
-   "ref_id": "401871056",
-   "home": "Kennesaw State",
-   "away": "Liberty",
+   "ref_id": "401869845",
+   "home": "App State",
+   "away": "James Madison",
    "t": "2026-10-22T23:00:00Z"
   },
   {
@@ -5561,23 +5561,9 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401856728",
-   "home": "Auburn",
-   "away": "LSU",
-   "t": "2026-10-24T16:00:00Z"
-  },
-  {
-   "lg": "CFB",
    "ref_id": "401862809",
    "home": "Florida Atlantic",
    "away": "Rice",
-   "t": "2026-10-24T16:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401858496",
-   "home": "Michigan",
-   "away": "Indiana",
    "t": "2026-10-24T16:00:00Z"
   },
   {
@@ -5589,9 +5575,9 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401858274",
-   "home": "Miami",
-   "away": "Pittsburgh",
+   "ref_id": "401856840",
+   "home": "Cincinnati",
+   "away": "Texas Tech",
    "t": "2026-10-24T16:00:00Z"
   },
   {
@@ -5603,13 +5589,6 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401866450",
-   "home": "Toledo",
-   "away": "Western Michigan",
-   "t": "2026-10-24T16:00:00Z"
-  },
-  {
-   "lg": "CFB",
    "ref_id": "401856841",
    "home": "TCU",
    "away": "West Virginia",
@@ -5617,17 +5596,31 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401856840",
-   "home": "Cincinnati",
-   "away": "Texas Tech",
+   "ref_id": "401866450",
+   "home": "Toledo",
+   "away": "Western Michigan",
    "t": "2026-10-24T16:00:00Z"
   },
   {
    "lg": "CFB",
-   "ref_id": "401856834",
-   "home": "Kansas",
-   "away": "Baylor",
-   "t": "2026-10-24T17:00:00Z"
+   "ref_id": "401858274",
+   "home": "Miami",
+   "away": "Pittsburgh",
+   "t": "2026-10-24T16:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401858496",
+   "home": "Michigan",
+   "away": "Indiana",
+   "t": "2026-10-24T16:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401856728",
+   "home": "Auburn",
+   "away": "LSU",
+   "t": "2026-10-24T16:00:00Z"
   },
   {
    "lg": "CFB",
@@ -5645,6 +5638,13 @@
   },
   {
    "lg": "CFB",
+   "ref_id": "401856834",
+   "home": "Kansas",
+   "away": "Baylor",
+   "t": "2026-10-24T17:00:00Z"
+  },
+  {
+   "lg": "CFB",
    "ref_id": "401858495",
    "home": "Illinois",
    "away": "Oregon",
@@ -5652,9 +5652,65 @@
   },
   {
    "lg": "CFB",
+   "ref_id": "401858273",
+   "home": "Georgia Tech",
+   "away": "Boston College",
+   "t": "2026-10-24T19:30:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401856835",
+   "home": "UCF",
+   "away": "BYU",
+   "t": "2026-10-24T19:30:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401856730",
+   "home": "Mississippi State",
+   "away": "Oklahoma",
+   "t": "2026-10-24T19:30:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401866448",
+   "home": "Buffalo",
+   "away": "Bowling Green",
+   "t": "2026-10-24T19:30:00Z"
+  },
+  {
+   "lg": "CFB",
    "ref_id": "401864526",
    "home": "Northern Illinois",
    "away": "Hawai'i",
+   "t": "2026-10-24T19:30:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401856727",
+   "home": "Alabama",
+   "away": "Texas A&M",
+   "t": "2026-10-24T19:30:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401858497",
+   "home": "Minnesota",
+   "away": "Iowa",
+   "t": "2026-10-24T19:30:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401866447",
+   "home": "Ball State",
+   "away": "Sacramento State",
+   "t": "2026-10-24T19:30:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401856731",
+   "home": "South Carolina",
+   "away": "Tennessee",
    "t": "2026-10-24T19:30:00Z"
   },
   {
@@ -5673,73 +5729,10 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401858497",
-   "home": "Minnesota",
-   "away": "Iowa",
-   "t": "2026-10-24T19:30:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401866448",
-   "home": "Buffalo",
-   "away": "Bowling Green",
-   "t": "2026-10-24T19:30:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401866447",
-   "home": "Ball State",
-   "away": "Sacramento State",
-   "t": "2026-10-24T19:30:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401856727",
-   "home": "Alabama",
-   "away": "Texas A&M",
-   "t": "2026-10-24T19:30:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401856731",
-   "home": "South Carolina",
-   "away": "Tennessee",
-   "t": "2026-10-24T19:30:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401858273",
-   "home": "Georgia Tech",
-   "away": "Boston College",
-   "t": "2026-10-24T19:30:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401856730",
-   "home": "Mississippi State",
-   "away": "Oklahoma",
-   "t": "2026-10-24T19:30:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401856835",
-   "home": "UCF",
-   "away": "BYU",
-   "t": "2026-10-24T19:30:00Z"
-  },
-  {
-   "lg": "CFB",
    "ref_id": "401856839",
    "home": "Arizona State",
    "away": "Kansas State",
    "t": "2026-10-24T19:45:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401866449",
-   "home": "Ohio",
-   "away": "Eastern Michigan",
-   "t": "2026-10-24T20:00:00Z"
   },
   {
    "lg": "CFB",
@@ -5750,16 +5743,23 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401869967",
-   "home": "Southern Miss",
-   "away": "Louisiana",
-   "t": "2026-10-24T21:00:00Z"
+   "ref_id": "401866449",
+   "home": "Ohio",
+   "away": "Eastern Michigan",
+   "t": "2026-10-24T20:00:00Z"
   },
   {
    "lg": "CFB",
    "ref_id": "401864528",
    "home": "Nevada",
    "away": "San Jos\u00e9 State",
+   "t": "2026-10-24T21:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401869967",
+   "home": "Southern Miss",
+   "away": "Louisiana",
    "t": "2026-10-24T21:00:00Z"
   },
   {
@@ -5792,13 +5792,6 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401869935",
-   "home": "Arkansas State",
-   "away": "Georgia State",
-   "t": "2026-10-24T23:00:00Z"
-  },
-  {
-   "lg": "CFB",
    "ref_id": "401856836",
    "home": "Oklahoma State",
    "away": "Colorado",
@@ -5806,23 +5799,23 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401858500",
-   "home": "Wisconsin",
-   "away": "USC",
-   "t": "2026-10-24T23:30:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401856729",
-   "home": "Kentucky",
-   "away": "Vanderbilt",
-   "t": "2026-10-24T23:30:00Z"
+   "ref_id": "401869935",
+   "home": "Arkansas State",
+   "away": "Georgia State",
+   "t": "2026-10-24T23:00:00Z"
   },
   {
    "lg": "CFB",
    "ref_id": "401858275",
    "home": "North Carolina",
    "away": "Syracuse",
+   "t": "2026-10-24T23:30:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401858500",
+   "home": "Wisconsin",
+   "away": "USC",
    "t": "2026-10-24T23:30:00Z"
   },
   {
@@ -5834,6 +5827,13 @@
   },
   {
    "lg": "CFB",
+   "ref_id": "401860906",
+   "home": "Texas State",
+   "away": "Utah State",
+   "t": "2026-10-24T23:30:00Z"
+  },
+  {
+   "lg": "CFB",
    "ref_id": "401856838",
    "home": "Arizona",
    "away": "Iowa State",
@@ -5841,9 +5841,9 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401860906",
-   "home": "Texas State",
-   "away": "Utah State",
+   "ref_id": "401856729",
+   "home": "Kentucky",
+   "away": "Vanderbilt",
    "t": "2026-10-24T23:30:00Z"
   },
   {
@@ -5897,16 +5897,16 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401869963",
-   "home": "James Madison",
-   "away": "Troy",
+   "ref_id": "401862812",
+   "home": "North Texas",
+   "away": "Florida Atlantic",
    "t": "2026-10-29T23:30:00Z"
   },
   {
    "lg": "CFB",
-   "ref_id": "401862812",
-   "home": "North Texas",
-   "away": "Florida Atlantic",
+   "ref_id": "401869963",
+   "home": "James Madison",
+   "away": "Troy",
    "t": "2026-10-29T23:30:00Z"
   },
   {
@@ -5939,13 +5939,6 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401858503",
-   "home": "Maryland",
-   "away": "Illinois",
-   "t": "2026-10-31T16:00:00Z"
-  },
-  {
-   "lg": "CFB",
    "ref_id": "401858502",
    "home": "Iowa",
    "away": "Wisconsin",
@@ -5953,9 +5946,30 @@
   },
   {
    "lg": "CFB",
+   "ref_id": "401866452",
+   "home": "Western Michigan",
+   "away": "Bowling Green",
+   "t": "2026-10-31T16:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401858277",
+   "home": "NC State",
+   "away": "California",
+   "t": "2026-10-31T16:00:00Z"
+  },
+  {
+   "lg": "CFB",
    "ref_id": "401858279",
    "home": "Duke",
    "away": "Boston College",
+   "t": "2026-10-31T16:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401859185",
+   "home": "Navy",
+   "away": "Notre Dame",
    "t": "2026-10-31T16:00:00Z"
   },
   {
@@ -5974,23 +5988,9 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401858277",
-   "home": "NC State",
-   "away": "California",
-   "t": "2026-10-31T16:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401866452",
-   "home": "Western Michigan",
-   "away": "Bowling Green",
-   "t": "2026-10-31T16:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401859185",
-   "home": "Navy",
-   "away": "Notre Dame",
+   "ref_id": "401858503",
+   "home": "Maryland",
+   "away": "Illinois",
    "t": "2026-10-31T16:00:00Z"
   },
   {
@@ -6030,13 +6030,6 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401861966",
-   "home": "Air Force",
-   "away": "UConn",
-   "t": "2026-10-31T19:00:00Z"
-  },
-  {
-   "lg": "CFB",
    "ref_id": "401862815",
    "home": "East Carolina",
    "away": "Temple",
@@ -6047,6 +6040,13 @@
    "ref_id": "401871097",
    "home": "South Alabama",
    "away": "Louisiana Tech",
+   "t": "2026-10-31T19:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401861966",
+   "home": "Air Force",
+   "away": "UConn",
    "t": "2026-10-31T19:00:00Z"
   },
   {
@@ -6072,37 +6072,9 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401860910",
-   "home": "Utah State",
-   "away": "Colorado State",
-   "t": "2026-10-31T19:30:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401856843",
-   "home": "BYU",
-   "away": "Arizona State",
-   "t": "2026-10-31T19:30:00Z"
-  },
-  {
-   "lg": "CFB",
    "ref_id": "401864531",
    "home": "North Dakota State",
    "away": "UTEP",
-   "t": "2026-10-31T19:30:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401871059",
-   "home": "Liberty",
-   "away": "Florida International",
-   "t": "2026-10-31T19:30:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401856734",
-   "home": "Georgia",
-   "away": "Florida",
    "t": "2026-10-31T19:30:00Z"
   },
   {
@@ -6114,9 +6086,37 @@
   },
   {
    "lg": "CFB",
+   "ref_id": "401871059",
+   "home": "Liberty",
+   "away": "Florida International",
+   "t": "2026-10-31T19:30:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401860910",
+   "home": "Utah State",
+   "away": "Colorado State",
+   "t": "2026-10-31T19:30:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401856734",
+   "home": "Georgia",
+   "away": "Florida",
+   "t": "2026-10-31T19:30:00Z"
+  },
+  {
+   "lg": "CFB",
    "ref_id": "401858505",
    "home": "Oregon",
    "away": "Northwestern",
+   "t": "2026-10-31T19:30:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401856843",
+   "home": "BYU",
+   "away": "Arizona State",
    "t": "2026-10-31T19:30:00Z"
   },
   {
@@ -6142,13 +6142,6 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401858506",
-   "home": "Penn State",
-   "away": "Purdue",
-   "t": "2026-10-31T20:15:00Z"
-  },
-  {
-   "lg": "CFB",
    "ref_id": "401856736",
    "home": "Oklahoma",
    "away": "South Carolina",
@@ -6163,6 +6156,13 @@
   },
   {
    "lg": "CFB",
+   "ref_id": "401858506",
+   "home": "Penn State",
+   "away": "Purdue",
+   "t": "2026-10-31T20:15:00Z"
+  },
+  {
+   "lg": "CFB",
    "ref_id": "401869846",
    "home": "Georgia Southern",
    "away": "App State",
@@ -6170,9 +6170,9 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401858280",
-   "home": "Florida State",
-   "away": "Clemson",
+   "ref_id": "401860909",
+   "home": "San Diego State",
+   "away": "Washington State",
    "t": "2026-10-31T23:00:00Z"
   },
   {
@@ -6184,10 +6184,17 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401860909",
-   "home": "San Diego State",
-   "away": "Washington State",
+   "ref_id": "401858280",
+   "home": "Florida State",
+   "away": "Clemson",
    "t": "2026-10-31T23:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401856737",
+   "home": "Texas",
+   "away": "Mississippi State",
+   "t": "2026-10-31T23:30:00Z"
   },
   {
    "lg": "CFB",
@@ -6201,13 +6208,6 @@
    "ref_id": "401858509",
    "home": "USC",
    "away": "Ohio State",
-   "t": "2026-10-31T23:30:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401856737",
-   "home": "Texas",
-   "away": "Mississippi State",
    "t": "2026-10-31T23:30:00Z"
   },
   {
@@ -6275,16 +6275,16 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401866457",
-   "home": "Sacramento State",
-   "away": "Toledo",
+   "ref_id": "401866455",
+   "home": "Massachusetts",
+   "away": "Ball State",
    "t": "2026-11-05T00:00:00Z"
   },
   {
    "lg": "CFB",
-   "ref_id": "401866455",
-   "home": "Massachusetts",
-   "away": "Ball State",
+   "ref_id": "401866457",
+   "home": "Sacramento State",
+   "away": "Toledo",
    "t": "2026-11-05T00:00:00Z"
   },
   {
@@ -6345,58 +6345,9 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401856850",
-   "home": "Kansas",
-   "away": "UCF",
-   "t": "2026-11-07T05:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401858512",
-   "home": "Minnesota",
-   "away": "UCLA",
-   "t": "2026-11-07T05:00:00Z"
-  },
-  {
-   "lg": "CFB",
    "ref_id": "401856851",
    "home": "Houston",
    "away": "Cincinnati",
-   "t": "2026-11-07T05:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401856853",
-   "home": "Baylor",
-   "away": "Iowa State",
-   "t": "2026-11-07T05:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401856854",
-   "home": "Kansas State",
-   "away": "Oklahoma State",
-   "t": "2026-11-07T05:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401856856",
-   "home": "Texas Tech",
-   "away": "West Virginia",
-   "t": "2026-11-07T05:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401858516",
-   "home": "Washington",
-   "away": "Penn State",
-   "t": "2026-11-07T05:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401858513",
-   "home": "Northwestern",
-   "away": "Iowa",
    "t": "2026-11-07T05:00:00Z"
   },
   {
@@ -6408,30 +6359,37 @@
   },
   {
    "lg": "CFB",
+   "ref_id": "401858513",
+   "home": "Northwestern",
+   "away": "Iowa",
+   "t": "2026-11-07T05:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401858516",
+   "home": "Washington",
+   "away": "Penn State",
+   "t": "2026-11-07T05:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401856853",
+   "home": "Baylor",
+   "away": "Iowa State",
+   "t": "2026-11-07T05:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401858512",
+   "home": "Minnesota",
+   "away": "UCLA",
+   "t": "2026-11-07T05:00:00Z"
+  },
+  {
+   "lg": "CFB",
    "ref_id": "401856743",
    "home": "Missouri",
    "away": "Texas",
-   "t": "2026-11-07T17:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401858285",
-   "home": "Syracuse",
-   "away": "Clemson",
-   "t": "2026-11-07T17:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401858292",
-   "home": "UConn",
-   "away": "North Carolina",
-   "t": "2026-11-07T17:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401862822",
-   "home": "Tulane",
-   "away": "Tulsa",
    "t": "2026-11-07T17:00:00Z"
   },
   {
@@ -6443,9 +6401,37 @@
   },
   {
    "lg": "CFB",
+   "ref_id": "401856854",
+   "home": "Kansas State",
+   "away": "Oklahoma State",
+   "t": "2026-11-07T17:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401858285",
+   "home": "Syracuse",
+   "away": "Clemson",
+   "t": "2026-11-07T17:00:00Z"
+  },
+  {
+   "lg": "CFB",
    "ref_id": "401858289",
    "home": "Boston College",
    "away": "Florida State",
+   "t": "2026-11-07T17:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401862822",
+   "home": "Tulane",
+   "away": "Tulsa",
+   "t": "2026-11-07T17:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401858292",
+   "home": "UConn",
+   "away": "North Carolina",
    "t": "2026-11-07T17:00:00Z"
   },
   {
@@ -6492,16 +6478,16 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401856744",
-   "home": "South Carolina",
-   "away": "Texas A&M",
+   "ref_id": "401869936",
+   "home": "Arkansas State",
+   "away": "UL Monroe",
    "t": "2026-11-07T20:00:00Z"
   },
   {
    "lg": "CFB",
-   "ref_id": "401869936",
-   "home": "Arkansas State",
-   "away": "UL Monroe",
+   "ref_id": "401856744",
+   "home": "South Carolina",
+   "away": "Texas A&M",
    "t": "2026-11-07T20:00:00Z"
   },
   {
@@ -6513,9 +6499,9 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401862820",
-   "home": "Navy",
-   "away": "Temple",
+   "ref_id": "401858290",
+   "home": "Wake Forest",
+   "away": "Merrimack",
    "t": "2026-11-07T20:30:00Z"
   },
   {
@@ -6527,16 +6513,9 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401856740",
-   "home": "LSU",
-   "away": "Alabama",
-   "t": "2026-11-07T20:30:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401858290",
-   "home": "Wake Forest",
-   "away": "Merrimack",
+   "ref_id": "401858514",
+   "home": "Ohio State",
+   "away": "Oregon",
    "t": "2026-11-07T20:30:00Z"
   },
   {
@@ -6548,6 +6527,13 @@
   },
   {
    "lg": "CFB",
+   "ref_id": "401856740",
+   "home": "LSU",
+   "away": "Alabama",
+   "t": "2026-11-07T20:30:00Z"
+  },
+  {
+   "lg": "CFB",
    "ref_id": "401871076",
    "home": "Middle Tennessee",
    "away": "Western Kentucky",
@@ -6555,23 +6541,30 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401858514",
-   "home": "Ohio State",
-   "away": "Oregon",
+   "ref_id": "401862820",
+   "home": "Navy",
+   "away": "Temple",
    "t": "2026-11-07T20:30:00Z"
   },
   {
    "lg": "CFB",
-   "ref_id": "401871098",
-   "home": "Troy",
-   "away": "Louisiana Tech",
-   "t": "2026-11-07T21:00:00Z"
+   "ref_id": "401856850",
+   "home": "Kansas",
+   "away": "UCF",
+   "t": "2026-11-07T20:45:00Z"
   },
   {
    "lg": "CFB",
    "ref_id": "401864534",
    "home": "San Jos\u00e9 State",
    "away": "Northern Illinois",
+   "t": "2026-11-07T21:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401871074",
+   "home": "Florida International",
+   "away": "Missouri State",
    "t": "2026-11-07T21:00:00Z"
   },
   {
@@ -6583,9 +6576,9 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401871074",
-   "home": "Florida International",
-   "away": "Missouri State",
+   "ref_id": "401871098",
+   "home": "Troy",
+   "away": "Louisiana Tech",
    "t": "2026-11-07T21:00:00Z"
   },
   {
@@ -6625,9 +6618,9 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401856741",
-   "home": "Ole Miss",
-   "away": "Georgia",
+   "ref_id": "401856852",
+   "home": "Arizona State",
+   "away": "Colorado",
    "t": "2026-11-08T00:30:00Z"
   },
   {
@@ -6639,16 +6632,16 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401856852",
-   "home": "Arizona State",
-   "away": "Colorado",
+   "ref_id": "401858291",
+   "home": "Notre Dame",
+   "away": "Miami",
    "t": "2026-11-08T00:30:00Z"
   },
   {
    "lg": "CFB",
-   "ref_id": "401858291",
-   "home": "Notre Dame",
-   "away": "Miami",
+   "ref_id": "401856741",
+   "home": "Ole Miss",
+   "away": "Georgia",
    "t": "2026-11-08T00:30:00Z"
   },
   {
@@ -6674,9 +6667,9 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401860913",
-   "home": "Utah State",
-   "away": "Fresno State",
+   "ref_id": "401856856",
+   "home": "Texas Tech",
+   "away": "West Virginia",
    "t": "2026-11-08T02:30:00Z"
   },
   {
@@ -6684,6 +6677,13 @@
    "ref_id": "401864532",
    "home": "UTEP",
    "away": "Hawai'i",
+   "t": "2026-11-08T02:30:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401860913",
+   "home": "Utah State",
+   "away": "Fresno State",
    "t": "2026-11-08T02:30:00Z"
   },
   {
@@ -6719,13 +6719,13 @@
    "ref_id": "401866460",
    "home": "Miami (OH)",
    "away": "Ohio",
-   "t": "2026-11-11T00:00:00Z"
+   "t": "2026-11-11T01:00:00Z"
   },
   {
    "lg": "CFB",
-   "ref_id": "401866462",
-   "home": "Central Michigan",
-   "away": "Sacramento State",
+   "ref_id": "401866461",
+   "home": "Ball State",
+   "away": "Buffalo",
    "t": "2026-11-11T05:00:00Z"
   },
   {
@@ -6737,10 +6737,10 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401866461",
-   "home": "Ball State",
-   "away": "Buffalo",
-   "t": "2026-11-11T05:00:00Z"
+   "ref_id": "401866462",
+   "home": "Central Michigan",
+   "away": "Sacramento State",
+   "t": "2026-11-12T00:30:00Z"
   },
   {
    "lg": "CFB",
@@ -6779,16 +6779,16 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401858521",
-   "home": "Michigan State",
-   "away": "Washington",
+   "ref_id": "401856883",
+   "home": "Georgia",
+   "away": "Missouri",
    "t": "2026-11-14T05:00:00Z"
   },
   {
    "lg": "CFB",
-   "ref_id": "401858524",
-   "home": "Penn State",
-   "away": "Minnesota",
+   "ref_id": "401856863",
+   "home": "Oklahoma State",
+   "away": "Texas Tech",
    "t": "2026-11-14T05:00:00Z"
   },
   {
@@ -6800,83 +6800,6 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401858299",
-   "home": "Virginia Tech",
-   "away": "Stanford",
-   "t": "2026-11-14T05:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401856889",
-   "home": "Vanderbilt",
-   "away": "Alabama",
-   "t": "2026-11-14T05:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401858518",
-   "home": "Indiana",
-   "away": "USC",
-   "t": "2026-11-14T05:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401856858",
-   "home": "BYU",
-   "away": "Baylor",
-   "t": "2026-11-14T05:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401856857",
-   "home": "UCF",
-   "away": "Arizona State",
-   "t": "2026-11-14T05:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401864540",
-   "home": "UTEP",
-   "away": "Wyoming",
-   "t": "2026-11-14T05:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401862829",
-   "home": "Temple",
-   "away": "UAB",
-   "t": "2026-11-14T05:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401856885",
-   "home": "LSU",
-   "away": "Texas",
-   "t": "2026-11-14T05:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401856888",
-   "home": "Texas A&M",
-   "away": "Tennessee",
-   "t": "2026-11-14T05:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401869937",
-   "home": "Coastal Carolina",
-   "away": "Arkansas State",
-   "t": "2026-11-14T05:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401856882",
-   "home": "Arkansas",
-   "away": "South Carolina",
-   "t": "2026-11-14T05:00:00Z"
-  },
-  {
-   "lg": "CFB",
    "ref_id": "401856887",
    "home": "Oklahoma",
    "away": "Ole Miss",
@@ -6884,16 +6807,9 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401858519",
-   "home": "Iowa",
-   "away": "Purdue",
-   "t": "2026-11-14T05:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401869928",
-   "home": "Marshall",
-   "away": "App State",
+   "ref_id": "401858521",
+   "home": "Michigan State",
+   "away": "Washington",
    "t": "2026-11-14T05:00:00Z"
   },
   {
@@ -6905,51 +6821,9 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401856859",
-   "home": "Iowa State",
-   "away": "Cincinnati",
-   "t": "2026-11-14T05:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401871099",
-   "home": "Louisiana Tech",
-   "away": "Southern Miss",
-   "t": "2026-11-14T05:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401871100",
-   "home": "South Alabama",
-   "away": "Troy",
-   "t": "2026-11-14T05:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401864536",
-   "home": "Northern Illinois",
-   "away": "Nevada",
-   "t": "2026-11-14T05:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401869952",
-   "home": "Georgia State",
-   "away": "Georgia Southern",
-   "t": "2026-11-14T05:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401858295",
-   "home": "Virginia",
-   "away": "California",
-   "t": "2026-11-14T05:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401856886",
-   "home": "Mississippi State",
-   "away": "Auburn",
+   "ref_id": "401858520",
+   "home": "Maryland",
+   "away": "Wisconsin",
    "t": "2026-11-14T05:00:00Z"
   },
   {
@@ -6961,72 +6835,9 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401856862",
-   "home": "TCU",
-   "away": "Kansas State",
-   "t": "2026-11-14T05:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401856864",
-   "home": "Arizona",
-   "away": "Utah",
-   "t": "2026-11-14T05:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401856883",
-   "home": "Georgia",
-   "away": "Missouri",
-   "t": "2026-11-14T05:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401856884",
-   "home": "Kentucky",
-   "away": "Florida",
-   "t": "2026-11-14T05:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401858297",
-   "home": "Clemson",
-   "away": "Georgia Tech",
-   "t": "2026-11-14T05:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401858298",
-   "home": "North Carolina",
-   "away": "Louisville",
-   "t": "2026-11-14T05:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401858301",
-   "home": "SMU",
-   "away": "Wake Forest",
-   "t": "2026-11-14T05:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401858522",
-   "home": "Ohio State",
-   "away": "Northwestern",
-   "t": "2026-11-14T05:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401862825",
-   "home": "Charlotte",
-   "away": "East Carolina",
-   "t": "2026-11-14T05:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401862827",
-   "home": "UTSA",
-   "away": "North Texas",
+   "ref_id": "401858299",
+   "home": "Virginia Tech",
+   "away": "Stanford",
    "t": "2026-11-14T05:00:00Z"
   },
   {
@@ -7045,9 +6856,23 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401858520",
-   "home": "Maryland",
-   "away": "Wisconsin",
+   "ref_id": "401858301",
+   "home": "SMU",
+   "away": "Wake Forest",
+   "t": "2026-11-14T05:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401858295",
+   "home": "Virginia",
+   "away": "California",
+   "t": "2026-11-14T05:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401858298",
+   "home": "North Carolina",
+   "away": "Louisville",
    "t": "2026-11-14T05:00:00Z"
   },
   {
@@ -7059,6 +6884,97 @@
   },
   {
    "lg": "CFB",
+   "ref_id": "401858297",
+   "home": "Clemson",
+   "away": "Georgia Tech",
+   "t": "2026-11-14T05:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401856884",
+   "home": "Kentucky",
+   "away": "Florida",
+   "t": "2026-11-14T05:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401871100",
+   "home": "South Alabama",
+   "away": "Troy",
+   "t": "2026-11-14T05:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401862825",
+   "home": "Charlotte",
+   "away": "East Carolina",
+   "t": "2026-11-14T05:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401862829",
+   "home": "Temple",
+   "away": "UAB",
+   "t": "2026-11-14T05:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401856862",
+   "home": "TCU",
+   "away": "Kansas State",
+   "t": "2026-11-14T05:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401869937",
+   "home": "Coastal Carolina",
+   "away": "Arkansas State",
+   "t": "2026-11-14T05:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401871099",
+   "home": "Louisiana Tech",
+   "away": "Southern Miss",
+   "t": "2026-11-14T05:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401856886",
+   "home": "Mississippi State",
+   "away": "Auburn",
+   "t": "2026-11-14T05:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401869928",
+   "home": "Marshall",
+   "away": "App State",
+   "t": "2026-11-14T05:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401858522",
+   "home": "Ohio State",
+   "away": "Northwestern",
+   "t": "2026-11-14T05:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401858518",
+   "home": "Indiana",
+   "away": "USC",
+   "t": "2026-11-14T05:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401856859",
+   "home": "Iowa State",
+   "away": "Cincinnati",
+   "t": "2026-11-14T05:00:00Z"
+  },
+  {
+   "lg": "CFB",
    "ref_id": "401858300",
    "home": "NC State",
    "away": "Syracuse",
@@ -7066,9 +6982,93 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401856863",
-   "home": "Oklahoma State",
-   "away": "Texas Tech",
+   "ref_id": "401869952",
+   "home": "Georgia State",
+   "away": "Georgia Southern",
+   "t": "2026-11-14T05:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401856857",
+   "home": "UCF",
+   "away": "Arizona State",
+   "t": "2026-11-14T05:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401864536",
+   "home": "Northern Illinois",
+   "away": "Nevada",
+   "t": "2026-11-14T05:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401864540",
+   "home": "UTEP",
+   "away": "Wyoming",
+   "t": "2026-11-14T05:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401858524",
+   "home": "Penn State",
+   "away": "Minnesota",
+   "t": "2026-11-14T05:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401856888",
+   "home": "Texas A&M",
+   "away": "Tennessee",
+   "t": "2026-11-14T05:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401862827",
+   "home": "UTSA",
+   "away": "North Texas",
+   "t": "2026-11-14T05:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401856858",
+   "home": "BYU",
+   "away": "Baylor",
+   "t": "2026-11-14T05:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401856864",
+   "home": "Arizona",
+   "away": "Utah",
+   "t": "2026-11-14T05:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401856885",
+   "home": "LSU",
+   "away": "Texas",
+   "t": "2026-11-14T05:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401856889",
+   "home": "Vanderbilt",
+   "away": "Alabama",
+   "t": "2026-11-14T05:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401858519",
+   "home": "Iowa",
+   "away": "Purdue",
+   "t": "2026-11-14T05:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401856882",
+   "home": "Arkansas",
+   "away": "South Carolina",
    "t": "2026-11-14T05:00:00Z"
   },
   {
@@ -7171,6 +7171,13 @@
   },
   {
    "lg": "CFB",
+   "ref_id": "401866464",
+   "home": "Ohio",
+   "away": "Ball State",
+   "t": "2026-11-18T00:00:00Z"
+  },
+  {
+   "lg": "CFB",
    "ref_id": "401866466",
    "home": "Kent State",
    "away": "Miami (OH)",
@@ -7185,23 +7192,16 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401866464",
-   "home": "Ohio",
-   "away": "Ball State",
-   "t": "2026-11-18T00:00:00Z"
+   "ref_id": "401866467",
+   "home": "Massachusetts",
+   "away": "Akron",
+   "t": "2026-11-18T05:00:00Z"
   },
   {
    "lg": "CFB",
    "ref_id": "401866469",
    "home": "Buffalo",
    "away": "Central Michigan",
-   "t": "2026-11-18T05:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401866467",
-   "home": "Massachusetts",
-   "away": "Akron",
    "t": "2026-11-18T05:00:00Z"
   },
   {
@@ -7248,30 +7248,16 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401858528",
-   "home": "Michigan",
-   "away": "UCLA",
+   "ref_id": "401858532",
+   "home": "Penn State",
+   "away": "Rutgers",
    "t": "2026-11-21T05:00:00Z"
   },
   {
    "lg": "CFB",
-   "ref_id": "401856872",
-   "home": "TCU",
-   "away": "Utah",
-   "t": "2026-11-21T05:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401858302",
-   "home": "Miami",
-   "away": "Virginia Tech",
-   "t": "2026-11-21T05:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401856751",
-   "home": "Missouri",
-   "away": "Kentucky",
+   "ref_id": "401856867",
+   "home": "Cincinnati",
+   "away": "Colorado",
    "t": "2026-11-21T05:00:00Z"
   },
   {
@@ -7283,6 +7269,111 @@
   },
   {
    "lg": "CFB",
+   "ref_id": "401856871",
+   "home": "Baylor",
+   "away": "Texas Tech",
+   "t": "2026-11-21T05:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401856868",
+   "home": "West Virginia",
+   "away": "Houston",
+   "t": "2026-11-21T05:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401856865",
+   "home": "Kansas State",
+   "away": "Arizona",
+   "t": "2026-11-21T05:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401856748",
+   "home": "Florida",
+   "away": "Vanderbilt",
+   "t": "2026-11-21T05:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401856751",
+   "home": "Missouri",
+   "away": "Kentucky",
+   "t": "2026-11-21T05:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401858304",
+   "home": "Florida State",
+   "away": "NC State",
+   "t": "2026-11-21T05:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401858310",
+   "home": "Georgia Tech",
+   "away": "Wake Forest",
+   "t": "2026-11-21T05:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401858530",
+   "home": "Minnesota",
+   "away": "Northwestern",
+   "t": "2026-11-21T05:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401858535",
+   "home": "Washington",
+   "away": "Indiana",
+   "t": "2026-11-21T05:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401862835",
+   "home": "Tulane",
+   "away": "North Texas",
+   "t": "2026-11-21T05:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401856754",
+   "home": "Tennessee",
+   "away": "LSU",
+   "t": "2026-11-21T05:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401862832",
+   "home": "Tulsa",
+   "away": "Charlotte",
+   "t": "2026-11-21T05:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401856870",
+   "home": "Arizona State",
+   "away": "Oklahoma State",
+   "t": "2026-11-21T05:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401864541",
+   "home": "Nevada",
+   "away": "Hawai'i",
+   "t": "2026-11-21T05:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401858308",
+   "home": "California",
+   "away": "Stanford",
+   "t": "2026-11-21T05:00:00Z"
+  },
+  {
+   "lg": "CFB",
    "ref_id": "401858306",
    "home": "Louisville",
    "away": "Pittsburgh",
@@ -7290,16 +7381,23 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401858309",
-   "home": "Boston College",
-   "away": "Syracuse",
+   "ref_id": "401858305",
+   "home": "Virginia",
+   "away": "North Carolina",
    "t": "2026-11-21T05:00:00Z"
   },
   {
    "lg": "CFB",
-   "ref_id": "401856755",
-   "home": "Texas",
-   "away": "Arkansas",
+   "ref_id": "401862833",
+   "home": "Florida Atlantic",
+   "away": "South Florida",
+   "t": "2026-11-21T05:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401856872",
+   "home": "TCU",
+   "away": "Utah",
    "t": "2026-11-21T05:00:00Z"
   },
   {
@@ -7325,86 +7423,16 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401858532",
-   "home": "Penn State",
-   "away": "Rutgers",
+   "ref_id": "401869938",
+   "home": "Louisiana Tech",
+   "away": "Arkansas State",
    "t": "2026-11-21T05:00:00Z"
   },
   {
    "lg": "CFB",
-   "ref_id": "401858534",
-   "home": "USC",
-   "away": "Maryland",
-   "t": "2026-11-21T05:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401869958",
-   "home": "Marshall",
-   "away": "Georgia State",
-   "t": "2026-11-21T05:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401864541",
-   "home": "Nevada",
-   "away": "Hawai'i",
-   "t": "2026-11-21T05:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401862836",
-   "home": "UAB",
-   "away": "UTSA",
-   "t": "2026-11-21T05:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401858535",
-   "home": "Washington",
-   "away": "Indiana",
-   "t": "2026-11-21T05:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401862832",
-   "home": "Tulsa",
-   "away": "Charlotte",
-   "t": "2026-11-21T05:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401858531",
-   "home": "Nebraska",
-   "away": "Ohio State",
-   "t": "2026-11-21T05:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401869946",
-   "home": "Louisiana",
-   "away": "Coastal Carolina",
-   "t": "2026-11-21T05:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401858530",
-   "home": "Minnesota",
-   "away": "Northwestern",
-   "t": "2026-11-21T05:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401856867",
-   "home": "Cincinnati",
-   "away": "Colorado",
-   "t": "2026-11-21T05:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401862835",
-   "home": "Tulane",
-   "away": "North Texas",
+   "ref_id": "401858533",
+   "home": "Purdue",
+   "away": "Wisconsin",
    "t": "2026-11-21T05:00:00Z"
   },
   {
@@ -7416,86 +7444,16 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401869938",
-   "home": "Louisiana Tech",
-   "away": "Arkansas State",
+   "ref_id": "401858302",
+   "home": "Miami",
+   "away": "Virginia Tech",
    "t": "2026-11-21T05:00:00Z"
   },
   {
    "lg": "CFB",
-   "ref_id": "401858310",
-   "home": "Georgia Tech",
-   "away": "Wake Forest",
-   "t": "2026-11-21T05:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401858304",
-   "home": "Florida State",
-   "away": "NC State",
-   "t": "2026-11-21T05:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401858305",
-   "home": "Virginia",
-   "away": "North Carolina",
-   "t": "2026-11-21T05:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401862833",
-   "home": "Florida Atlantic",
-   "away": "South Florida",
-   "t": "2026-11-21T05:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401856748",
-   "home": "Florida",
-   "away": "Vanderbilt",
-   "t": "2026-11-21T05:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401856871",
-   "home": "Baylor",
-   "away": "Texas Tech",
-   "t": "2026-11-21T05:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401856865",
-   "home": "Kansas State",
-   "away": "Arizona",
-   "t": "2026-11-21T05:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401856870",
-   "home": "Arizona State",
-   "away": "Oklahoma State",
-   "t": "2026-11-21T05:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401856868",
-   "home": "West Virginia",
-   "away": "Houston",
-   "t": "2026-11-21T05:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401856754",
-   "home": "Tennessee",
-   "away": "LSU",
-   "t": "2026-11-21T05:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401856753",
-   "home": "South Carolina",
-   "away": "Georgia",
+   "ref_id": "401858534",
+   "home": "USC",
+   "away": "Maryland",
    "t": "2026-11-21T05:00:00Z"
   },
   {
@@ -7507,17 +7465,66 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401858308",
-   "home": "California",
-   "away": "Stanford",
+   "ref_id": "401856755",
+   "home": "Texas",
+   "away": "Arkansas",
    "t": "2026-11-21T05:00:00Z"
   },
   {
    "lg": "CFB",
-   "ref_id": "401858533",
-   "home": "Purdue",
-   "away": "Wisconsin",
+   "ref_id": "401862836",
+   "home": "UAB",
+   "away": "UTSA",
    "t": "2026-11-21T05:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401856753",
+   "home": "South Carolina",
+   "away": "Georgia",
+   "t": "2026-11-21T05:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401869946",
+   "home": "Louisiana",
+   "away": "Coastal Carolina",
+   "t": "2026-11-21T05:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401858531",
+   "home": "Nebraska",
+   "away": "Ohio State",
+   "t": "2026-11-21T05:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401858309",
+   "home": "Boston College",
+   "away": "Syracuse",
+   "t": "2026-11-21T05:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401869958",
+   "home": "Marshall",
+   "away": "Georgia State",
+   "t": "2026-11-21T05:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401858528",
+   "home": "Michigan",
+   "away": "UCLA",
+   "t": "2026-11-21T05:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401856749",
+   "home": "Ole Miss",
+   "away": "Wofford",
+   "t": "2026-11-21T17:00:00Z"
   },
   {
    "lg": "CFB",
@@ -7531,13 +7538,6 @@
    "ref_id": "401862831",
    "home": "Army",
    "away": "East Carolina",
-   "t": "2026-11-21T17:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401856749",
-   "home": "Ole Miss",
-   "away": "Wofford",
    "t": "2026-11-21T17:00:00Z"
   },
   {
@@ -7556,16 +7556,16 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401871081",
-   "home": "Sam Houston",
-   "away": "Middle Tennessee",
+   "ref_id": "401871079",
+   "home": "Jacksonville State",
+   "away": "Missouri State",
    "t": "2026-11-21T19:00:00Z"
   },
   {
    "lg": "CFB",
-   "ref_id": "401871079",
-   "home": "Jacksonville State",
-   "away": "Missouri State",
+   "ref_id": "401871081",
+   "home": "Sam Houston",
+   "away": "Middle Tennessee",
    "t": "2026-11-21T19:00:00Z"
   },
   {
@@ -7591,16 +7591,16 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401856747",
-   "home": "Auburn",
-   "away": "Samford",
+   "ref_id": "401861968",
+   "home": "UConn",
+   "away": "Old Dominion",
    "t": "2026-11-21T20:30:00Z"
   },
   {
    "lg": "CFB",
-   "ref_id": "401861968",
-   "home": "UConn",
-   "away": "Old Dominion",
+   "ref_id": "401856747",
+   "home": "Auburn",
+   "away": "Samford",
    "t": "2026-11-21T20:30:00Z"
   },
   {
@@ -7689,6 +7689,13 @@
   },
   {
    "lg": "CFB",
+   "ref_id": "401862837",
+   "home": "East Carolina",
+   "away": "Florida Atlantic",
+   "t": "2026-11-27T05:00:00Z"
+  },
+  {
+   "lg": "CFB",
    "ref_id": "401862839",
    "home": "South Florida",
    "away": "Tulane",
@@ -7696,10 +7703,10 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401862837",
-   "home": "East Carolina",
-   "away": "Florida Atlantic",
-   "t": "2026-11-27T05:00:00Z"
+   "ref_id": "401866472",
+   "home": "Akron",
+   "away": "Buffalo",
+   "t": "2026-11-27T17:00:00Z"
   },
   {
    "lg": "CFB",
@@ -7724,24 +7731,10 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401866472",
-   "home": "Akron",
-   "away": "Buffalo",
-   "t": "2026-11-27T17:00:00Z"
-  },
-  {
-   "lg": "CFB",
    "ref_id": "401869930",
    "home": "South Alabama",
    "away": "App State",
    "t": "2026-11-27T20:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401856759",
-   "home": "Florida State",
-   "away": "Florida",
-   "t": "2026-11-27T20:30:00Z"
   },
   {
    "lg": "CFB",
@@ -7752,16 +7745,23 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401858544",
-   "home": "Wisconsin",
-   "away": "Minnesota",
-   "t": "2026-11-28T00:30:00Z"
+   "ref_id": "401856759",
+   "home": "Florida State",
+   "away": "Florida",
+   "t": "2026-11-27T20:30:00Z"
   },
   {
    "lg": "CFB",
    "ref_id": "401856756",
    "home": "Texas A&M",
    "away": "Texas",
+   "t": "2026-11-28T00:30:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401858544",
+   "home": "Wisconsin",
+   "away": "Minnesota",
    "t": "2026-11-28T00:30:00Z"
   },
   {
@@ -7773,79 +7773,9 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401856874",
-   "home": "Houston",
-   "away": "Baylor",
-   "t": "2026-11-28T05:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401858543",
-   "home": "UCLA",
-   "away": "USC",
-   "t": "2026-11-28T05:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401858317",
-   "home": "Virginia Tech",
-   "away": "Virginia",
-   "t": "2026-11-28T05:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401856764",
-   "home": "Clemson",
-   "away": "South Carolina",
-   "t": "2026-11-28T05:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401858316",
-   "home": "Stanford",
-   "away": "SMU",
-   "t": "2026-11-28T05:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401858312",
-   "home": "Wake Forest",
-   "away": "Duke",
-   "t": "2026-11-28T05:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401856761",
-   "home": "Kentucky",
-   "away": "Louisville",
-   "t": "2026-11-28T05:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401856873",
-   "home": "Arizona",
-   "away": "Arizona State",
-   "t": "2026-11-28T05:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401869947",
-   "home": "James Madison",
-   "away": "Coastal Carolina",
-   "t": "2026-11-28T05:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401856876",
-   "home": "BYU",
-   "away": "Cincinnati",
-   "t": "2026-11-28T05:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401856875",
-   "home": "Colorado",
-   "away": "UCF",
+   "ref_id": "401862841",
+   "home": "Rice",
+   "away": "Army",
    "t": "2026-11-28T05:00:00Z"
   },
   {
@@ -7864,93 +7794,9 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401862841",
-   "home": "Rice",
-   "away": "Army",
-   "t": "2026-11-28T05:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401856760",
-   "home": "Georgia",
-   "away": "Georgia Tech",
-   "t": "2026-11-28T05:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401856763",
-   "home": "Missouri",
-   "away": "Oklahoma",
-   "t": "2026-11-28T05:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401858314",
-   "home": "Syracuse",
-   "away": "Notre Dame",
-   "t": "2026-11-28T05:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401858539",
-   "home": "Maryland",
-   "away": "Penn State",
-   "t": "2026-11-28T05:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401858537",
-   "home": "Northwestern",
-   "away": "Illinois",
-   "t": "2026-11-28T05:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401869954",
-   "home": "Georgia Southern",
-   "away": "Louisiana Tech",
-   "t": "2026-11-28T05:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401871102",
-   "home": "UL Monroe",
-   "away": "Marshall",
-   "t": "2026-11-28T05:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401869959",
-   "home": "Georgia State",
-   "away": "Louisiana",
-   "t": "2026-11-28T05:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401871103",
-   "home": "Old Dominion",
-   "away": "Southern Miss",
-   "t": "2026-11-28T05:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401861969",
-   "home": "Wyoming",
-   "away": "UConn",
-   "t": "2026-11-28T05:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401858542",
-   "home": "Rutgers",
-   "away": "Michigan State",
-   "t": "2026-11-28T05:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401862842",
-   "home": "Charlotte",
-   "away": "Navy",
+   "ref_id": "401856757",
+   "home": "Alabama",
+   "away": "Auburn",
    "t": "2026-11-28T05:00:00Z"
   },
   {
@@ -7962,16 +7808,44 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401858311",
-   "home": "Miami",
-   "away": "Boston College",
+   "ref_id": "401858317",
+   "home": "Virginia Tech",
+   "away": "Virginia",
    "t": "2026-11-28T05:00:00Z"
   },
   {
    "lg": "CFB",
-   "ref_id": "401856877",
-   "home": "Oklahoma State",
-   "away": "Kansas",
+   "ref_id": "401858316",
+   "home": "Stanford",
+   "away": "SMU",
+   "t": "2026-11-28T05:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401858542",
+   "home": "Rutgers",
+   "away": "Michigan State",
+   "t": "2026-11-28T05:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401858539",
+   "home": "Maryland",
+   "away": "Penn State",
+   "t": "2026-11-28T05:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401856875",
+   "home": "Colorado",
+   "away": "UCF",
+   "t": "2026-11-28T05:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401869959",
+   "home": "Georgia State",
+   "away": "Louisiana",
    "t": "2026-11-28T05:00:00Z"
   },
   {
@@ -7983,9 +7857,37 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401858313",
-   "home": "North Carolina",
-   "away": "NC State",
+   "ref_id": "401858537",
+   "home": "Northwestern",
+   "away": "Illinois",
+   "t": "2026-11-28T05:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401871102",
+   "home": "UL Monroe",
+   "away": "Marshall",
+   "t": "2026-11-28T05:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401869954",
+   "home": "Georgia Southern",
+   "away": "Louisiana Tech",
+   "t": "2026-11-28T05:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401858314",
+   "home": "Syracuse",
+   "away": "Notre Dame",
+   "t": "2026-11-28T05:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401861969",
+   "home": "Wyoming",
+   "away": "UConn",
    "t": "2026-11-28T05:00:00Z"
   },
   {
@@ -7997,9 +7899,37 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401856757",
-   "home": "Alabama",
-   "away": "Auburn",
+   "ref_id": "401864550",
+   "home": "Northern Illinois",
+   "away": "UTEP",
+   "t": "2026-11-28T05:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401871103",
+   "home": "Old Dominion",
+   "away": "Southern Miss",
+   "t": "2026-11-28T05:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401856760",
+   "home": "Georgia",
+   "away": "Georgia Tech",
+   "t": "2026-11-28T05:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401856877",
+   "home": "Oklahoma State",
+   "away": "Kansas",
+   "t": "2026-11-28T05:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401862842",
+   "home": "Charlotte",
+   "away": "Navy",
    "t": "2026-11-28T05:00:00Z"
   },
   {
@@ -8011,9 +7941,30 @@
   },
   {
    "lg": "CFB",
-   "ref_id": "401864550",
-   "home": "Northern Illinois",
-   "away": "UTEP",
+   "ref_id": "401856876",
+   "home": "BYU",
+   "away": "Cincinnati",
+   "t": "2026-11-28T05:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401856873",
+   "home": "Arizona",
+   "away": "Arizona State",
+   "t": "2026-11-28T05:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401856763",
+   "home": "Missouri",
+   "away": "Oklahoma",
+   "t": "2026-11-28T05:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401856764",
+   "home": "Clemson",
+   "away": "South Carolina",
    "t": "2026-11-28T05:00:00Z"
   },
   {
@@ -8025,10 +7976,66 @@
   },
   {
    "lg": "CFB",
+   "ref_id": "401856761",
+   "home": "Kentucky",
+   "away": "Louisville",
+   "t": "2026-11-28T05:00:00Z"
+  },
+  {
+   "lg": "CFB",
    "ref_id": "401856765",
    "home": "Vanderbilt",
    "away": "Tennessee",
    "t": "2026-11-28T05:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401856874",
+   "home": "Houston",
+   "away": "Baylor",
+   "t": "2026-11-28T05:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401869947",
+   "home": "James Madison",
+   "away": "Coastal Carolina",
+   "t": "2026-11-28T05:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401858543",
+   "home": "UCLA",
+   "away": "USC",
+   "t": "2026-11-28T05:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401858312",
+   "home": "Wake Forest",
+   "away": "Duke",
+   "t": "2026-11-28T05:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401858313",
+   "home": "North Carolina",
+   "away": "NC State",
+   "t": "2026-11-28T05:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401858311",
+   "home": "Miami",
+   "away": "Boston College",
+   "t": "2026-11-28T05:00:00Z"
+  },
+  {
+   "lg": "CFB",
+   "ref_id": "401858540",
+   "home": "Ohio State",
+   "away": "Michigan",
+   "t": "2026-11-28T17:00:00Z"
   },
   {
    "lg": "CFB",
@@ -8042,13 +8049,6 @@
    "ref_id": "401866475",
    "home": "Bowling Green",
    "away": "Massachusetts",
-   "t": "2026-11-28T17:00:00Z"
-  },
-  {
-   "lg": "CFB",
-   "ref_id": "401858540",
-   "home": "Ohio State",
-   "away": "Michigan",
    "t": "2026-11-28T17:00:00Z"
   },
   {
@@ -8123,243 +8123,243 @@
   }
  ],
  "cfb_names": [
-  "Mississippi Valley State",
   "Southeast Missouri State",
-  "Long Island University",
+  "Mississippi Valley State",
   "North Carolina Central",
+  "Long Island University",
   "Florida International",
   "UT Rio Grande Valley",
   "East Tennessee State",
   "Arkansas-Pine Bluff",
-  "Charleston Southern",
   "Central Connecticut",
-  "North Dakota State",
-  "Northwestern State",
-  "Eastern Washington",
-  "Jacksonville State",
+  "Charleston Southern",
   "South Dakota State",
+  "Northwestern State",
+  "Jacksonville State",
+  "Eastern Washington",
+  "North Dakota State",
   "North Carolina A&T",
-  "Houston Christian",
-  "Northern Colorado",
-  "Northern Illinois",
   "Mississippi State",
-  "Abilene Christian",
+  "Northern Colorado",
   "Southern Illinois",
-  "Central Michigan",
-  "Middle Tennessee",
-  "Western Carolina",
-  "Western Kentucky",
-  "Washington State",
-  "Central Arkansas",
-  "Eastern Kentucky",
+  "Abilene Christian",
+  "Northern Illinois",
+  "Houston Christian",
   "Florida Atlantic",
-  "Prairie View A&M",
-  "Sacramento State",
-  "Western Illinois",
-  "Eastern Illinois",
-  "Eastern Michigan",
-  "Northern Arizona",
-  "Youngstown State",
-  "Georgia Southern",
-  "Coastal Carolina",
   "New Mexico State",
   "Western Michigan",
+  "Sacramento State",
+  "Central Arkansas",
+  "Washington State",
+  "Western Illinois",
+  "Northern Arizona",
+  "Eastern Illinois",
+  "Coastal Carolina",
+  "Central Michigan",
+  "Youngstown State",
+  "Eastern Michigan",
+  "Western Carolina",
+  "Georgia Southern",
+  "Western Kentucky",
+  "Prairie View A&M",
+  "Middle Tennessee",
+  "Eastern Kentucky",
   "San Diego State",
-  "Tennessee State",
   "Bethune-Cookman",
-  "Incarnate Word",
-  "East Texas A&M",
-  "Oklahoma State",
-  "Texas Southern",
-  "Missouri State",
-  "Boston College",
-  "South Carolina",
+  "Tennessee State",
   "Michigan State",
-  "William & Mary",
-  "Louisiana Tech",
-  "Portland State",
-  "Arkansas State",
+  "South Carolina",
+  "Missouri State",
   "Tennessee Tech",
-  "Kennesaw State",
   "Colorado State",
-  "San Jos\u00e9 State",
-  "North Carolina",
-  "Illinois State",
+  "Oklahoma State",
   "Tarleton State",
+  "Illinois State",
+  "East Texas A&M",
+  "Texas Southern",
+  "Arkansas State",
+  "Incarnate Word",
+  "William & Mary",
+  "Portland State",
+  "Louisiana Tech",
   "Delaware State",
-  "South Alabama",
+  "North Carolina",
+  "San Jos\u00e9 State",
+  "Kennesaw State",
+  "Boston College",
+  "North Alabama",
+  "East Carolina",
+  "Massachusetts",
+  "James Madison",
+  "Georgia State",
+  "Norfolk State",
+  "Florida State",
+  "Bowling Green",
   "Montana State",
   "West Virginia",
-  "East Carolina",
-  "Robert Morris",
-  "Massachusetts",
-  "Indiana State",
-  "Georgia State",
-  "Southern Miss",
-  "Arizona State",
-  "New Hampshire",
-  "James Madison",
-  "Alabama State",
   "Northern Iowa",
-  "Bowling Green",
-  "South Florida",
-  "Florida State",
-  "Virginia Tech",
-  "Norfolk State",
-  "North Alabama",
+  "New Hampshire",
+  "South Alabama",
+  "Southern Miss",
+  "Alabama State",
   "Southern Utah",
-  "Oregon State",
-  "Sacred Heart",
-  "South Dakota",
-  "Rhode Island",
-  "Morgan State",
-  "Murray State",
-  "North Dakota",
-  "Georgia Tech",
-  "Fresno State",
-  "Kansas State",
+  "Robert Morris",
+  "Arizona State",
+  "Indiana State",
+  "Virginia Tech",
+  "South Florida",
   "SE Louisiana",
+  "Sacred Heart",
   "Old Dominion",
+  "Kansas State",
+  "Fresno State",
   "Alcorn State",
-  "Northwestern",
-  "West Georgia",
+  "Morgan State",
   "Gardner-Webb",
-  "Chattanooga",
-  "Wake Forest",
-  "Stony Brook",
-  "North Texas",
+  "North Dakota",
+  "South Dakota",
+  "Oregon State",
+  "West Georgia",
+  "Rhode Island",
+  "Northwestern",
+  "Murray State",
+  "Georgia Tech",
   "The Citadel",
-  "Florida A&M",
-  "Weber State",
-  "Boise State",
+  "Chattanooga",
   "Texas State",
-  "Sam Houston",
-  "Idaho State",
   "Austin Peay",
-  "Cincinnati",
-  "New Mexico",
+  "Stony Brook",
+  "Boise State",
+  "Weber State",
+  "Wake Forest",
+  "Florida A&M",
+  "Idaho State",
+  "Sam Houston",
+  "North Texas",
+  "Kent State",
+  "Lindenwood",
   "Ohio State",
-  "Miami (OH)",
   "Vanderbilt",
+  "Cincinnati",
+  "Ball State",
+  "Penn State",
+  "Miami (OH)",
+  "Pittsburgh",
+  "Louisville",
   "Washington",
+  "Notre Dame",
+  "Mercyhurst",
   "Texas Tech",
   "Holy Cross",
-  "Mercyhurst",
-  "Notre Dame",
-  "Louisville",
-  "Lindenwood",
-  "Kent State",
-  "Ball State",
-  "Iowa State",
-  "Penn State",
-  "Pittsburgh",
-  "Utah State",
   "California",
-  "UL Monroe",
-  "Wisconsin",
-  "Charlotte",
-  "Merrimack",
-  "Villanova",
-  "Texas A&M",
-  "Louisiana",
-  "UT Martin",
-  "Lafayette",
+  "Utah State",
+  "New Mexico",
+  "Iowa State",
   "Minnesota",
-  "Tennessee",
+  "UL Monroe",
   "Utah Tech",
-  "Air Force",
-  "App State",
-  "Stonehill",
+  "Texas A&M",
+  "Villanova",
+  "Tennessee",
+  "Wisconsin",
+  "Merrimack",
   "Grambling",
-  "Ole Miss",
-  "Campbell",
-  "Monmouth",
-  "Maryland",
-  "Cal Poly",
-  "Oklahoma",
-  "Kentucky",
-  "Syracuse",
-  "Virginia",
-  "NC State",
+  "Stonehill",
+  "Charlotte",
+  "UT Martin",
+  "Air Force",
+  "Louisiana",
+  "App State",
+  "Lafayette",
   "Michigan",
-  "Richmond",
-  "Missouri",
-  "Duquesne",
-  "Nebraska",
-  "Colorado",
-  "UC Davis",
-  "Bucknell",
-  "Delaware",
+  "Nicholls",
   "Illinois",
+  "Campbell",
+  "Cal Poly",
+  "Virginia",
+  "Arkansas",
+  "Missouri",
+  "Marshall",
+  "Ole Miss",
+  "Bucknell",
   "Southern",
   "Stanford",
-  "Arkansas",
-  "Marshall",
-  "Nicholls",
-  "Hampton",
-  "Arizona",
-  "Colgate",
-  "Georgia",
-  "Florida",
-  "Samford",
-  "Hawai'i",
-  "Liberty",
-  "Montana",
-  "Wyoming",
-  "UAlbany",
-  "Memphis",
-  "Clemson",
-  "Wofford",
+  "Monmouth",
+  "Syracuse",
+  "Duquesne",
+  "NC State",
+  "Nebraska",
+  "UC Davis",
+  "Maryland",
+  "Kentucky",
+  "Oklahoma",
+  "Richmond",
+  "Colorado",
+  "Delaware",
   "Rutgers",
+  "UAlbany",
+  "Alabama",
+  "Colgate",
+  "Hawai'i",
+  "Wyoming",
   "Fordham",
-  "McNeese",
+  "Montana",
+  "Buffalo",
+  "Liberty",
   "Indiana",
   "Houston",
-  "Alabama",
-  "Buffalo",
-  "Temple",
-  "Howard",
-  "Nevada",
-  "Kansas",
-  "Mercer",
+  "Florida",
+  "Georgia",
+  "Wofford",
+  "Memphis",
+  "Arizona",
+  "Clemson",
+  "McNeese",
+  "Hampton",
+  "Samford",
+  "Baylor",
   "Toledo",
-  "Oregon",
+  "Nevada",
+  "Temple",
   "Wagner",
   "Tulane",
-  "Auburn",
+  "Oregon",
+  "Furman",
   "Bryant",
   "Purdue",
-  "Furman",
-  "Baylor",
   "Towson",
+  "Howard",
+  "Kansas",
+  "Auburn",
+  "Mercer",
+  "Tulsa",
+  "Lamar",
   "UConn",
   "Miami",
-  "Texas",
-  "Lamar",
-  "Tulsa",
   "Idaho",
   "Maine",
+  "Texas",
   "Akron",
-  "Ohio",
-  "UCLA",
-  "Duke",
-  "UTEP",
-  "Utah",
   "Army",
-  "UTSA",
-  "Troy",
-  "Rice",
   "UNLV",
-  "Elon",
+  "Ohio",
+  "UTEP",
+  "Duke",
   "Navy",
+  "UTSA",
+  "UCLA",
+  "Elon",
+  "Troy",
+  "Utah",
+  "Rice",
   "Iowa",
-  "USC",
-  "BYU",
-  "LSU",
-  "SMU",
-  "UCF",
-  "VMI",
   "UAB",
-  "TCU"
+  "LSU",
+  "USC",
+  "UCF",
+  "BYU",
+  "TCU",
+  "SMU",
+  "VMI"
  ]
 }
