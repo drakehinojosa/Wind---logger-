@@ -52910,7 +52910,11 @@
   "6ee8ad6eb7454d13bebc0806a10cc861": {
    "lg": "CFB",
    "home": "UMass Minutemen",
-   "away": "Ball State Cardinals"
+   "away": "Ball State Cardinals",
+   "cand36": {
+    "commence": "2026-11-05T00:00:00Z",
+    "snap": "2026-11-03T11:45:20Z"
+   }
   },
   "e5c8c0aaad6dc26e9ede547783d854d2": {
    "lg": "CFB",
@@ -52920,7 +52924,11 @@
   "7db0ce3fddd5c735e599b1085c9b5cef": {
    "lg": "CFB",
    "home": "Sacramento State Hornets",
-   "away": "Toledo Rockets"
+   "away": "Toledo Rockets",
+   "cand36": {
+    "commence": "2026-11-05T00:00:00Z",
+    "snap": "2026-11-03T11:45:20Z"
+   }
   },
   "5af84fe49ccd4f304f9af0dce0a0db56": {
    "lg": "CFB",
@@ -55683,6 +55691,7 @@
   "2026-11-03T11:25:25Z",
   "2026-11-03T11:30:29Z",
   "2026-11-03T11:35:24Z",
-  "2026-11-03T11:40:26Z"
+  "2026-11-03T11:40:26Z",
+  "2026-11-03T11:45:20Z"
  ]
 }
